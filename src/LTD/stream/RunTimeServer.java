@@ -18,10 +18,10 @@ import java.util.Date;
 public class RunTimeServer extends Thread {
 
     private static int[] hoursAutoSaveData = new int[]{1, 5, 7, 11, 15, 19, 21, 23};
-    private static int[] hoursRefreshBoss = new int[]{2, 4, 12, 14, 16, 18, 20, 22};
-    private static int[] hoursRefreshBossVDMQ = new int[]{1, 3, 7, 9, 11, 15, 19, 21, 23};
-    private static boolean[] isRefreshBoss = new boolean[]{false, false, false, false, false, false, false, false, false, false};
-    private static boolean[] isRefreshBossVDMQ = new boolean[]{false, false, false, false, false, false, false, false, false, false};
+    private static int[] hoursRefreshBoss = new int[]{1,2,3, 4,5,6,7,8,9,10,11, 12,13, 14,15, 16,17, 18,19 ,20,21, 22,23,24};
+    private static int[] hoursRefreshBossVDMQ = new int[]{1,2,3, 4,5,6,7,8,9,10,11, 12,13, 14,15, 16,17, 18,19 ,20,21, 22,23,24};
+    private static boolean[] isRefreshBoss = new boolean[]{false, false, false, false, false, false, false, false, false, false,false, false, false, false, false, false, false, false, false, false,false,false,false,false};
+    private static boolean[] isRefreshBossVDMQ = new boolean[]{false, false, false, false, false, false, false, false, false, false,false, false, false, false, false, false, false, false, false, false,false,false,false,false};
     private static short[] mapBossVDMQ = new short[]{141, 142, 143, 144};
     private static short[] mapBoss45 = new short[]{14, 15, 16, 34, 35, 52, 68};
     private static short[] mapBoss55 = new short[]{44, 67};
