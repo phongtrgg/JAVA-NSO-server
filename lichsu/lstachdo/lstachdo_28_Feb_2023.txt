@@ -1,0 +1,6 @@
+Name : tonyteo đã tách vật phẩm || Vật phẩm tách: 539 || Số lượng vật phẩm ban đầu 72 || Số lượng tách: 30 || Số lượng vật phẩm sau khi tách: 42 và 30|| Thời gian tách : 2023-02-28 00:28:45
+Name : tinhshin11 đã tách vật phẩm || Vật phẩm tách: 540 || Số lượng vật phẩm ban đầu 7 || Số lượng tách: 3 || Số lượng vật phẩm sau khi tách: 4 và 3|| Thời gian tách : 2023-02-28 01:42:59
+Name : ninjabongdem đã tách vật phẩm || Vật phẩm tách: 734 || Số lượng vật phẩm ban đầu 3 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 2 và 1|| Thời gian tách : 2023-02-28 04:54:08
+Name : bosscuatao đã tách vật phẩm || Vật phẩm tách: 282 || Số lượng vật phẩm ban đầu 130 || Số lượng tách: 28 || Số lượng vật phẩm sau khi tách: 102 và 28|| Thời gian tách : 2023-02-28 07:59:36
+Name : manmis đã tách vật phẩm || Vật phẩm tách: 640 || Số lượng vật phẩm ban đầu 43245 || Số lượng tách: 20000 || Số lượng vật phẩm sau khi tách: 23245 và 20000|| Thời gian tách : 2023-02-28 09:53:07
+Name : nanttaj đã tách vật phẩm || Vật phẩm tách: 276 || Số lượng vật phẩm ban đầu 156 || Số lượng tách: 50 || Số lượng vật phẩm sau khi tách: 106 và 50|| Thời gian tách : 2023-02-28 22:21:49

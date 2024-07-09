@@ -1,0 +1,2 @@
+Name : ltd2023 đã tách vật phẩm || Vật phẩm tách: 990 || Số lượng vật phẩm ban đầu 50000 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 49999 và 1|| Thời gian tách : 2023-02-13 18:55:42
+Name : tiendo đã tách vật phẩm || Vật phẩm tách: 988 || Số lượng vật phẩm ban đầu 43537 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 43536 và 1|| Thời gian tách : 2023-02-13 18:57:04

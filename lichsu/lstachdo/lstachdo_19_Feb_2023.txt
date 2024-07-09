@@ -1,0 +1,6 @@
+Name : 62928383 đã tách vật phẩm || Vật phẩm tách: 983 || Số lượng vật phẩm ban đầu 2333 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 2332 và 1|| Thời gian tách : 2023-02-19 19:22:46
+Name : sataman đã tách vật phẩm || Vật phẩm tách: 983 || Số lượng vật phẩm ban đầu 27009 || Số lượng tách: 5000 || Số lượng vật phẩm sau khi tách: 22009 và 5000|| Thời gian tách : 2023-02-19 20:08:49
+Name : sataman đã tách vật phẩm || Vật phẩm tách: 983 || Số lượng vật phẩm ban đầu 22009 || Số lượng tách: 5000 || Số lượng vật phẩm sau khi tách: 17009 và 5000|| Thời gian tách : 2023-02-19 20:08:54
+Name : mixigaming đã tách vật phẩm || Vật phẩm tách: 38 || Số lượng vật phẩm ban đầu 79 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 78 và 1|| Thời gian tách : 2023-02-19 20:53:37
+Name : mixigaming đã tách vật phẩm || Vật phẩm tách: 38 || Số lượng vật phẩm ban đầu 79 || Số lượng tách: 2 || Số lượng vật phẩm sau khi tách: 77 và 2|| Thời gian tách : 2023-02-19 20:53:42
+Name : hiorio đã tách vật phẩm || Vật phẩm tách: 983 || Số lượng vật phẩm ban đầu 26689 || Số lượng tách: 20000 || Số lượng vật phẩm sau khi tách: 6689 và 20000|| Thời gian tách : 2023-02-19 22:20:12

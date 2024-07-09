@@ -1,0 +1,6 @@
+Name : ohmygod giao dịch với uystky || Time : 2023-03-10 00:10:26 || Item chuyển : [741 Số lượng : 13066;740 Số lượng : 248;739 Số lượng : 245;735 Số lượng : 115;734 Số lượng : 229;738 Số lượng : 233;737 Số lượng : 260;762 Số lượng : 139;733 Số lượng : 250;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : uystky giao dịch với ohmygod || Time : 2023-03-10 00:10:26 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[741 Số lượng : 13066;740 Số lượng : 248;739 Số lượng : 245;735 Số lượng : 115;734 Số lượng : 229;738 Số lượng : 233;737 Số lượng : 260;762 Số lượng : 139;733 Số lượng : 250;] Xu nhận :0
+Name : admin123 giao dịch với admin09 || Time : 2023-03-10 07:46:05 || Item chuyển : [879 Số lượng : 5000;881 Số lượng : 100;880 Số lượng : 5000;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : admin09 giao dịch với admin123 || Time : 2023-03-10 07:46:05 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[879 Số lượng : 5000;881 Số lượng : 100;880 Số lượng : 5000;] Xu nhận :0
+Name : admin09 giao dịch với ditmechungmay || Time : 2023-03-10 08:27:55 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 554 Số lượng : 1; ] Xu nhận :0
+Name : ditmechungmay giao dịch với admin09 || Time : 2023-03-10 08:27:55 || Item chuyển : [ 554 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0

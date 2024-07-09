@@ -1,0 +1,3 @@
+Name : cocainit đã tách vật phẩm || Vật phẩm tách: 639 || Số lượng vật phẩm ban đầu 26249 || Số lượng tách: 12000 || Số lượng vật phẩm sau khi tách: 14249 và 12000|| Thời gian tách : 2023-03-01 02:49:02
+Name : vailoz đã tách vật phẩm || Vật phẩm tách: 540 || Số lượng vật phẩm ban đầu 42 || Số lượng tách: 20 || Số lượng vật phẩm sau khi tách: 22 và 20|| Thời gian tách : 2023-03-01 11:24:19
+Name : tieuvipvl đã tách vật phẩm || Vật phẩm tách: 643 || Số lượng vật phẩm ban đầu 350 || Số lượng tách: 50 || Số lượng vật phẩm sau khi tách: 300 và 50|| Thời gian tách : 2023-03-01 14:54:00

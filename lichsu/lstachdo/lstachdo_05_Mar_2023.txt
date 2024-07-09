@@ -1,0 +1,14 @@
+Name : xxxxxx đã tách vật phẩm || Vật phẩm tách: 880 || Số lượng vật phẩm ban đầu 1718 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 1717 và 1|| Thời gian tách : 2023-03-05 01:20:56
+Name : jfjxbk đã tách vật phẩm || Vật phẩm tách: 540 || Số lượng vật phẩm ban đầu 94 || Số lượng tách: 10 || Số lượng vật phẩm sau khi tách: 84 và 10|| Thời gian tách : 2023-03-05 05:24:03
+Name : jfjxbk đã tách vật phẩm || Vật phẩm tách: 540 || Số lượng vật phẩm ban đầu 84 || Số lượng tách: 10 || Số lượng vật phẩm sau khi tách: 74 và 10|| Thời gian tách : 2023-03-05 05:24:07
+Name : tieuvipvl đã tách vật phẩm || Vật phẩm tách: 647 || Số lượng vật phẩm ban đầu 417 || Số lượng tách: 50 || Số lượng vật phẩm sau khi tách: 367 và 50|| Thời gian tách : 2023-03-05 11:38:18
+Name : developed đã tách vật phẩm || Vật phẩm tách: 540 || Số lượng vật phẩm ban đầu 36 || Số lượng tách: 6 || Số lượng vật phẩm sau khi tách: 30 và 6|| Thời gian tách : 2023-03-05 11:46:15
+Name : goldriver đã tách vật phẩm || Vật phẩm tách: 276 || Số lượng vật phẩm ban đầu 18 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 17 và 1|| Thời gian tách : 2023-03-05 15:51:42
+Name : goldriver đã tách vật phẩm || Vật phẩm tách: 278 || Số lượng vật phẩm ban đầu 15 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 14 và 1|| Thời gian tách : 2023-03-05 15:51:46
+Name : goldriver đã tách vật phẩm || Vật phẩm tách: 277 || Số lượng vật phẩm ban đầu 9 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 8 và 1|| Thời gian tách : 2023-03-05 15:51:51
+Name : goldriver đã tách vật phẩm || Vật phẩm tách: 275 || Số lượng vật phẩm ban đầu 8 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 7 và 1|| Thời gian tách : 2023-03-05 15:51:55
+Name : jfjxbk đã tách vật phẩm || Vật phẩm tách: 540 || Số lượng vật phẩm ban đầu 81 || Số lượng tách: 10 || Số lượng vật phẩm sau khi tách: 71 và 10|| Thời gian tách : 2023-03-05 16:58:57
+Name : nanttaj đã tách vật phẩm || Vật phẩm tách: 545 || Số lượng vật phẩm ban đầu 229 || Số lượng tách: 50 || Số lượng vật phẩm sau khi tách: 179 và 50|| Thời gian tách : 2023-03-05 19:13:39
+Name : nanttaj đã tách vật phẩm || Vật phẩm tách: 545 || Số lượng vật phẩm ban đầu 182 || Số lượng tách: 50 || Số lượng vật phẩm sau khi tách: 132 và 50|| Thời gian tách : 2023-03-05 19:59:41
+Name : phanthanh1 đã tách vật phẩm || Vật phẩm tách: 574 || Số lượng vật phẩm ban đầu 30 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 29 và 1|| Thời gian tách : 2023-03-05 20:47:57
+Name : phanthanh1 đã tách vật phẩm || Vật phẩm tách: 765 || Số lượng vật phẩm ban đầu 2 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 1 và 1|| Thời gian tách : 2023-03-05 20:49:22

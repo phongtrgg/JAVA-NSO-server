@@ -1,0 +1,5 @@
+Name : anku26 đã tách vật phẩm || Vật phẩm tách: 642 || Số lượng vật phẩm ban đầu 42200 || Số lượng tách: 10000 || Số lượng vật phẩm sau khi tách: 32200 và 10000|| Thời gian tách : 2023-03-03 00:22:28
+Name : sasuke đã tách vật phẩm || Vật phẩm tách: 638 || Số lượng vật phẩm ban đầu 8682 || Số lượng tách: 8681 || Số lượng vật phẩm sau khi tách: 1 và 8681|| Thời gian tách : 2023-03-03 09:53:36
+Name : sasuke đã tách vật phẩm || Vật phẩm tách: 641 || Số lượng vật phẩm ban đầu 8725 || Số lượng tách: 8724 || Số lượng vật phẩm sau khi tách: 1 và 8724|| Thời gian tách : 2023-03-03 09:53:42
+Name : sasuke đã tách vật phẩm || Vật phẩm tách: 640 || Số lượng vật phẩm ban đầu 8731 || Số lượng tách: 8730 || Số lượng vật phẩm sau khi tách: 1 và 8730|| Thời gian tách : 2023-03-03 09:53:48
+Name : sasuke đã tách vật phẩm || Vật phẩm tách: 639 || Số lượng vật phẩm ban đầu 8789 || Số lượng tách: 8788 || Số lượng vật phẩm sau khi tách: 1 và 8788|| Thời gian tách : 2023-03-03 09:53:52

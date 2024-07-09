@@ -1,0 +1,526 @@
+Name : kiemtyty giao dịch với 628282 || Time : 2023-02-20 00:03:27 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 140 Số lượng : 1;  170 Số lượng : 1;  192 Số lượng : 1;  130 Số lượng : 1; ] Xu nhận :0
+Name : 628282 giao dịch với kiemtyty || Time : 2023-02-20 00:03:27 || Item chuyển : [ 140 Số lượng : 1;  170 Số lượng : 1;  192 Số lượng : 1;  130 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : xuantruong giao dịch với siuuuy || Time : 2023-02-20 00:05:41 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 182 Số lượng : 1; ] Xu nhận :50000000
+Name : siuuuy giao dịch với xuantruong || Time : 2023-02-20 00:05:41 || Item chuyển : [ 182 Số lượng : 1; ] Xu giao dịch :50000000 || Item Nhận :[] Xu nhận :0
+Name : sasas1 giao dịch với vodanh || Time : 2023-02-20 00:07:29 || Item chuyển : [140 Số lượng : 1;802 Số lượng : 1;802 Số lượng : 1;802 Số lượng : 1;802 Số lượng : 1;802 Số lượng : 1;802 Số lượng : 1;802 Số lượng : 1;802 Số lượng : 1;802 Số lượng : 1;802 Số lượng : 1;] Xu giao dịch :50000000 || Item Nhận :[] Xu nhận :0
+Name : vodanh giao dịch với sasas1 || Time : 2023-02-20 00:07:29 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[140 Số lượng : 1;802 Số lượng : 1;802 Số lượng : 1;802 Số lượng : 1;802 Số lượng : 1;802 Số lượng : 1;802 Số lượng : 1;802 Số lượng : 1;802 Số lượng : 1;802 Số lượng : 1;802 Số lượng : 1;] Xu nhận :50000000
+Name : sasas1 giao dịch với vodanh || Time : 2023-02-20 00:08:00 || Item chuyển : [788 Số lượng : 1000;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : vodanh giao dịch với sasas1 || Time : 2023-02-20 00:08:00 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[788 Số lượng : 1000;] Xu nhận :0
+Name : sasas1 giao dịch với vodanh || Time : 2023-02-20 00:09:05 || Item chuyển : [983 Số lượng : 1009;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : vodanh giao dịch với sasas1 || Time : 2023-02-20 00:09:05 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[983 Số lượng : 1009;] Xu nhận :0
+Name : alituni4l56 giao dịch với alituni || Time : 2023-02-20 00:17:12 || Item chuyển : [538 Số lượng : 5000;383 Số lượng : 1;383 Số lượng : 1;] Xu giao dịch :60000000 || Item Nhận :[] Xu nhận :0
+Name : alituni giao dịch với alituni4l56 || Time : 2023-02-20 00:17:12 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[538 Số lượng : 5000;383 Số lượng : 1;383 Số lượng : 1;] Xu nhận :60000000
+Name : alituni4l567 giao dịch với alituni || Time : 2023-02-20 00:18:24 || Item chuyển : [537 Số lượng : 10000;383 Số lượng : 1;383 Số lượng : 1;] Xu giao dịch :60000000 || Item Nhận :[] Xu nhận :0
+Name : alituni giao dịch với alituni4l567 || Time : 2023-02-20 00:18:24 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[537 Số lượng : 10000;383 Số lượng : 1;383 Số lượng : 1;] Xu nhận :60000000
+Name : alituni giao dịch với alituni9 || Time : 2023-02-20 00:19:33 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 383 Số lượng : 1;  383 Số lượng : 1; ] Xu nhận :60000000
+Name : alituni9 giao dịch với alituni || Time : 2023-02-20 00:19:33 || Item chuyển : [ 383 Số lượng : 1;  383 Số lượng : 1; ] Xu giao dịch :60000000 || Item Nhận :[] Xu nhận :0
+Name : goodti3u giao dịch với vipmo5 || Time : 2023-02-20 00:20:07 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 383 Số lượng : 1;  383 Số lượng : 1;  788 Số lượng : 1001; ] Xu nhận :0
+Name : vipmo5 giao dịch với goodti3u || Time : 2023-02-20 00:20:07 || Item chuyển : [ 383 Số lượng : 1;  383 Số lượng : 1;  788 Số lượng : 1001; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : goodti3u giao dịch với bimvf555 || Time : 2023-02-20 00:29:51 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 383 Số lượng : 1;  383 Số lượng : 1; ] Xu nhận :0
+Name : bimvf555 giao dịch với goodti3u || Time : 2023-02-20 00:29:51 || Item chuyển : [ 383 Số lượng : 1;  383 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : goodti3u giao dịch với bimvf555 || Time : 2023-02-20 00:30:43 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :50000000
+Name : bimvf555 giao dịch với goodti3u || Time : 2023-02-20 00:30:43 || Item chuyển : [] Xu giao dịch :50000000 || Item Nhận :[] Xu nhận :0
+Name : goodboy giao dịch với tokudajav || Time : 2023-02-20 00:35:32 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 170 Số lượng : 1;  140 Số lượng : 1; ] Xu nhận :0
+Name : tokudajav giao dịch với goodboy || Time : 2023-02-20 00:35:32 || Item chuyển : [ 170 Số lượng : 1;  140 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : goodti3u giao dịch với 5ggggf || Time : 2023-02-20 00:38:17 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 182 Số lượng : 1; ] Xu nhận :50000000
+Name : 5ggggf giao dịch với goodti3u || Time : 2023-02-20 00:38:17 || Item chuyển : [ 182 Số lượng : 1; ] Xu giao dịch :50000000 || Item Nhận :[] Xu nhận :0
+Name : vodanh giao dịch với 1as112 || Time : 2023-02-20 00:45:39 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 170 Số lượng : 1; ] Xu nhận :50000000
+Name : 1as112 giao dịch với vodanh || Time : 2023-02-20 00:45:39 || Item chuyển : [ 170 Số lượng : 1; ] Xu giao dịch :50000000 || Item Nhận :[] Xu nhận :0
+Name : vodanh giao dịch với 231sadsa || Time : 2023-02-20 00:53:13 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 160 Số lượng : 1; ] Xu nhận :50000000
+Name : 231sadsa giao dịch với vodanh || Time : 2023-02-20 00:53:13 || Item chuyển : [ 160 Số lượng : 1; ] Xu giao dịch :50000000 || Item Nhận :[] Xu nhận :0
+Name : vodanh giao dịch với 321asda1 || Time : 2023-02-20 01:10:18 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 192 Số lượng : 1;  187 Số lượng : 1; ] Xu nhận :50000000
+Name : 321asda1 giao dịch với vodanh || Time : 2023-02-20 01:10:18 || Item chuyển : [ 192 Số lượng : 1;  187 Số lượng : 1; ] Xu giao dịch :50000000 || Item Nhận :[] Xu nhận :0
+Name : xxboyxx giao dịch với zxboyzx || Time : 2023-02-20 01:12:20 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 919 Số lượng : 1; ] Xu nhận :0
+Name : zxboyzx giao dịch với xxboyxx || Time : 2023-02-20 01:12:20 || Item chuyển : [ 919 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : xxboyxx giao dịch với zxboyzx || Time : 2023-02-20 01:17:35 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 952 Số lượng : 1; ] Xu nhận :0
+Name : zxboyzx giao dịch với xxboyxx || Time : 2023-02-20 01:17:35 || Item chuyển : [ 952 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : huylol giao dịch với zoday120 || Time : 2023-02-20 01:23:11 || Item chuyển : [383 Số lượng : 2;829 Số lượng : 1;983 Số lượng : 6877;642 Số lượng : 1;788 Số lượng : 3002;] Xu giao dịch :59997000 || Item Nhận :[] Xu nhận :0
+Name : zoday120 giao dịch với huylol || Time : 2023-02-20 01:23:11 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[383 Số lượng : 2;829 Số lượng : 1;983 Số lượng : 6877;642 Số lượng : 1;788 Số lượng : 3002;] Xu nhận :59997000
+Name : chimchichbong giao dịch với hieudubai || Time : 2023-02-20 01:25:37 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 333 Số lượng : 1;  371 Số lượng : 1;  510 Số lượng : 1;  523 Số lượng : 1; ] Xu nhận :0
+Name : hieudubai giao dịch với chimchichbong || Time : 2023-02-20 01:25:37 || Item chuyển : [ 333 Số lượng : 1;  371 Số lượng : 1;  510 Số lượng : 1;  523 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : 2iammewt giao dịch với sttbuon || Time : 2023-02-20 01:27:48 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 485 Số lượng : 1;  788 Số lượng : 10000; ] Xu nhận :0
+Name : sttbuon giao dịch với 2iammewt || Time : 2023-02-20 01:27:48 || Item chuyển : [ 485 Số lượng : 1;  788 Số lượng : 10000; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : 12asda3x giao dịch với vodanh || Time : 2023-02-20 01:33:07 || Item chuyển : [939 Số lượng : 1;182 Số lượng : 1;] Xu giao dịch :50000000 || Item Nhận :[] Xu nhận :0
+Name : vodanh giao dịch với 12asda3x || Time : 2023-02-20 01:33:07 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[939 Số lượng : 1;182 Số lượng : 1;] Xu nhận :50000000
+Name : zxboyzx giao dịch với xxboyxx || Time : 2023-02-20 01:44:23 || Item chuyển : [369 Số lượng : 1;410 Số lượng : 1;322 Số lượng : 1;321 Số lượng : 1;319 Số lượng : 1;326 Số lượng : 1;321 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : xxboyxx giao dịch với zxboyzx || Time : 2023-02-20 01:44:23 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[369 Số lượng : 1;410 Số lượng : 1;322 Số lượng : 1;321 Số lượng : 1;319 Số lượng : 1;326 Số lượng : 1;321 Số lượng : 1;] Xu nhận :0
+Name : badboy giao dịch với badgirl || Time : 2023-02-20 01:44:32 || Item chuyển : [369 Số lượng : 1;503 Số lượng : 1;506 Số lượng : 1;502 Số lượng : 1;140 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : badgirl giao dịch với badboy || Time : 2023-02-20 01:44:32 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[369 Số lượng : 1;503 Số lượng : 1;506 Số lượng : 1;502 Số lượng : 1;140 Số lượng : 1;] Xu nhận :0
+Name : huylol0 giao dịch với zoday120 || Time : 2023-02-20 02:04:08 || Item chuyển : [383 Số lượng : 2;638 Số lượng : 11;879 Số lượng : 13;880 Số lượng : 9;852 Số lượng : 7;651 Số lượng : 11;340 Số lượng : 454;928 Số lượng : 5000;920 Số lượng : 100;523 Số lượng : 1;] Xu giao dịch :60000000 || Item Nhận :[] Xu nhận :0
+Name : zoday120 giao dịch với huylol0 || Time : 2023-02-20 02:04:08 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[383 Số lượng : 2;638 Số lượng : 11;879 Số lượng : 13;880 Số lượng : 9;852 Số lượng : 7;651 Số lượng : 11;340 Số lượng : 454;928 Số lượng : 5000;920 Số lượng : 100;523 Số lượng : 1;] Xu nhận :60000000
+Name : 2iammewt giao dịch với concac20cm || Time : 2023-02-20 02:24:43 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 375 Số lượng : 1;  376 Số lượng : 1; ] Xu nhận :0
+Name : concac20cm giao dịch với 2iammewt || Time : 2023-02-20 02:24:43 || Item chuyển : [ 375 Số lượng : 1;  376 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : zoday120 giao dịch với admcailon || Time : 2023-02-20 02:41:01 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 953 Số lượng : 1;  383 Số lượng : 1;  383 Số lượng : 1; ] Xu nhận :60000000
+Name : admcailon giao dịch với zoday120 || Time : 2023-02-20 02:41:01 || Item chuyển : [ 953 Số lượng : 1;  383 Số lượng : 1;  383 Số lượng : 1; ] Xu giao dịch :60000000 || Item Nhận :[] Xu nhận :0
+Name : sttbuon giao dịch với concac20cm || Time : 2023-02-20 02:42:39 || Item chuyển : [316 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : concac20cm giao dịch với sttbuon || Time : 2023-02-20 02:42:39 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[316 Số lượng : 1;] Xu nhận :0
+Name : anhnongdan giao dịch với goodboy || Time : 2023-02-20 03:56:19 || Item chuyển : [182 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : goodboy giao dịch với anhnongdan || Time : 2023-02-20 03:56:19 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[182 Số lượng : 1;] Xu nhận :0
+Name : boss1234 giao dịch với tinhshin11 || Time : 2023-02-20 05:29:34 || Item chuyển : [383 Số lượng : 2;] Xu giao dịch :50000000 || Item Nhận :[] Xu nhận :0
+Name : tinhshin11 giao dịch với boss1234 || Time : 2023-02-20 05:29:34 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[383 Số lượng : 2;] Xu nhận :50000000
+Name : boss1234 giao dịch với tinhshin11 || Time : 2023-02-20 05:32:18 || Item chuyển : [340 Số lượng : 600;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : tinhshin11 giao dịch với boss1234 || Time : 2023-02-20 05:32:18 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[340 Số lượng : 600;] Xu nhận :0
+Name : boss1234 giao dịch với tinhshin11 || Time : 2023-02-20 05:37:24 || Item chuyển : [983 Số lượng : 100;340 Số lượng : 600;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : tinhshin11 giao dịch với boss1234 || Time : 2023-02-20 05:37:24 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[983 Số lượng : 100;340 Số lượng : 600;] Xu nhận :0
+Name : boss1234 giao dịch với tinhshin11 || Time : 2023-02-20 06:12:02 || Item chuyển : [475 Số lượng : 1;475 Số lượng : 1;475 Số lượng : 1;475 Số lượng : 1;475 Số lượng : 1;475 Số lượng : 1;475 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : tinhshin11 giao dịch với boss1234 || Time : 2023-02-20 06:12:02 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[475 Số lượng : 1;475 Số lượng : 1;475 Số lượng : 1;475 Số lượng : 1;475 Số lượng : 1;475 Số lượng : 1;475 Số lượng : 1;] Xu nhận :0
+Name : tinhshin11 giao dịch với jfjxbk || Time : 2023-02-20 06:27:03 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 383 Số lượng : 1;  383 Số lượng : 1; ] Xu nhận :20000000
+Name : jfjxbk giao dịch với tinhshin11 || Time : 2023-02-20 06:27:03 || Item chuyển : [ 383 Số lượng : 1;  383 Số lượng : 1; ] Xu giao dịch :20000000 || Item Nhận :[] Xu nhận :0
+Name : tinhshin11 giao dịch với boss1234 || Time : 2023-02-20 07:37:11 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 983 Số lượng : 500; ] Xu nhận :0
+Name : boss1234 giao dịch với tinhshin11 || Time : 2023-02-20 07:37:11 || Item chuyển : [ 983 Số lượng : 500; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : kencau giao dịch với caubebuon || Time : 2023-02-20 07:52:50 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 117 Số lượng : 1; ] Xu nhận :0
+Name : caubebuon giao dịch với kencau || Time : 2023-02-20 07:52:50 || Item chuyển : [ 117 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : shizuka giao dịch với nobita || Time : 2023-02-20 08:27:53 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 383 Số lượng : 2; ] Xu nhận :0
+Name : nobita giao dịch với shizuka || Time : 2023-02-20 08:27:53 || Item chuyển : [ 383 Số lượng : 2; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : hjkjjhh giao dịch với lboy9x || Time : 2023-02-20 08:46:10 || Item chuyển : [983 Số lượng : 5599;919 Số lượng : 1;383 Số lượng : 1;383 Số lượng : 1;] Xu giao dịch :60000000 || Item Nhận :[] Xu nhận :0
+Name : lboy9x giao dịch với hjkjjhh || Time : 2023-02-20 08:46:10 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[983 Số lượng : 5599;919 Số lượng : 1;383 Số lượng : 1;383 Số lượng : 1;] Xu nhận :60000000
+Name : lboy9x giao dịch với jhhhhhh || Time : 2023-02-20 08:59:24 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 383 Số lượng : 1;  383 Số lượng : 1; ] Xu nhận :60000000
+Name : jhhhhhh giao dịch với lboy9x || Time : 2023-02-20 08:59:24 || Item chuyển : [ 383 Số lượng : 1;  383 Số lượng : 1; ] Xu giao dịch :60000000 || Item Nhận :[] Xu nhận :0
+Name : jhhhhhh giao dịch với lboy9x || Time : 2023-02-20 09:00:13 || Item chuyển : [983 Số lượng : 8800;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : lboy9x giao dịch với jhhhhhh || Time : 2023-02-20 09:00:13 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[983 Số lượng : 8800;] Xu nhận :0
+Name : kencau1 giao dịch với kencau || Time : 2023-02-20 09:07:00 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 117 Số lượng : 1; ] Xu nhận :0
+Name : kencau giao dịch với kencau1 || Time : 2023-02-20 09:07:00 || Item chuyển : [ 117 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : disneyy giao dịch với xuantruong || Time : 2023-02-20 09:07:54 || Item chuyển : [642 Số lượng : 15000;8 Số lượng : 1;8 Số lượng : 1;9 Số lượng : 1;8 Số lượng : 1;8 Số lượng : 1;324 Số lượng : 1;788 Số lượng : 1000;500 Số lượng : 1;741 Số lượng : 106;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : xuantruong giao dịch với disneyy || Time : 2023-02-20 09:07:54 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[642 Số lượng : 15000;8 Số lượng : 1;8 Số lượng : 1;9 Số lượng : 1;8 Số lượng : 1;8 Số lượng : 1;324 Số lượng : 1;788 Số lượng : 1000;500 Số lượng : 1;741 Số lượng : 106;] Xu nhận :0
+Name : rdyerrytu giao dịch với bucukoanh || Time : 2023-02-20 09:09:38 || Item chuyển : [] Xu giao dịch :50000000 || Item Nhận :[] Xu nhận :0
+Name : bucukoanh giao dịch với rdyerrytu || Time : 2023-02-20 09:09:38 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :50000000
+Name : hggggghj giao dịch với lboy9x || Time : 2023-02-20 09:09:59 || Item chuyển : [947 Số lượng : 1;953 Số lượng : 1;383 Số lượng : 1;383 Số lượng : 1;] Xu giao dịch :60000000 || Item Nhận :[] Xu nhận :0
+Name : lboy9x giao dịch với hggggghj || Time : 2023-02-20 09:09:59 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[947 Số lượng : 1;953 Số lượng : 1;383 Số lượng : 1;383 Số lượng : 1;] Xu nhận :60000000
+Name : ggffdffd giao dịch với lboy9x || Time : 2023-02-20 09:15:43 || Item chuyển : [383 Số lượng : 2;] Xu giao dịch :60000000 || Item Nhận :[] Xu nhận :0
+Name : lboy9x giao dịch với ggffdffd || Time : 2023-02-20 09:15:43 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[383 Số lượng : 2;] Xu nhận :60000000
+Name : raydutdit giao dịch với bucukoanh || Time : 2023-02-20 09:17:48 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 554 Số lượng : 1; ] Xu nhận :0
+Name : bucukoanh giao dịch với raydutdit || Time : 2023-02-20 09:17:48 || Item chuyển : [ 554 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : bucukoanh giao dịch với rdyerrytue || Time : 2023-02-20 09:18:55 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 141 Số lượng : 1; ] Xu nhận :50000000
+Name : rdyerrytue giao dịch với bucukoanh || Time : 2023-02-20 09:18:55 || Item chuyển : [ 141 Số lượng : 1; ] Xu giao dịch :50000000 || Item Nhận :[] Xu nhận :0
+Name : lboy9x giao dịch với hghjhjgh || Time : 2023-02-20 09:20:58 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 383 Số lượng : 1;  383 Số lượng : 1; ] Xu nhận :60000000
+Name : hghjhjgh giao dịch với lboy9x || Time : 2023-02-20 09:20:58 || Item chuyển : [ 383 Số lượng : 1;  383 Số lượng : 1; ] Xu giao dịch :60000000 || Item Nhận :[] Xu nhận :0
+Name : hghjhjgh giao dịch với lboy9x || Time : 2023-02-20 09:23:04 || Item chuyển : [1017 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : lboy9x giao dịch với hghjhjgh || Time : 2023-02-20 09:23:04 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[1017 Số lượng : 1;] Xu nhận :0
+Name : raydudit giao dịch với raydutdit || Time : 2023-02-20 09:24:00 || Item chuyển : [170 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : raydutdit giao dịch với raydudit || Time : 2023-02-20 09:24:00 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[170 Số lượng : 1;] Xu nhận :0
+Name : champa giao dịch với hieukaka || Time : 2023-02-20 09:34:06 || Item chuyển : [983 Số lượng : 99;] Xu giao dịch :0 || Item Nhận :[ 5 Số lượng : 1;  5 Số lượng : 1;  6 Số lượng : 1;  4 Số lượng : 1;  6 Số lượng : 1; ] Xu nhận :0
+Name : hieukaka giao dịch với champa || Time : 2023-02-20 09:34:06 || Item chuyển : [ 5 Số lượng : 1;  5 Số lượng : 1;  6 Số lượng : 1;  4 Số lượng : 1;  6 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[983 Số lượng : 99;] Xu nhận :0
+Name : champa giao dịch với hieukaka || Time : 2023-02-20 09:35:30 || Item chuyển : [983 Số lượng : 3000;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : hieukaka giao dịch với champa || Time : 2023-02-20 09:35:30 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[983 Số lượng : 3000;] Xu nhận :0
+Name : ggggghh giao dịch với lboy9x || Time : 2023-02-20 09:40:00 || Item chuyển : [383 Số lượng : 1;383 Số lượng : 1;] Xu giao dịch :60000000 || Item Nhận :[] Xu nhận :0
+Name : lboy9x giao dịch với ggggghh || Time : 2023-02-20 09:40:00 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[383 Số lượng : 1;383 Số lượng : 1;] Xu nhận :60000000
+Name : chimchichbong giao dịch với hieukaka || Time : 2023-02-20 09:46:12 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 380 Số lượng : 1;  375 Số lượng : 1;  378 Số lượng : 1;  377 Số lượng : 1;  376 Số lượng : 1;  9 Số lượng : 1;  8 Số lượng : 1;  9 Số lượng : 1;  9 Số lượng : 1;  485 Số lượng : 1;  9 Số lượng : 1; ] Xu nhận :0
+Name : hieukaka giao dịch với chimchichbong || Time : 2023-02-20 09:46:12 || Item chuyển : [ 380 Số lượng : 1;  375 Số lượng : 1;  378 Số lượng : 1;  377 Số lượng : 1;  376 Số lượng : 1;  9 Số lượng : 1;  8 Số lượng : 1;  9 Số lượng : 1;  9 Số lượng : 1;  485 Số lượng : 1;  9 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : champa giao dịch với chimchichbong || Time : 2023-02-20 09:48:11 || Item chuyển : [983 Số lượng : 3000;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : chimchichbong giao dịch với champa || Time : 2023-02-20 09:48:11 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[983 Số lượng : 3000;] Xu nhận :0
+Name : ggggghh giao dịch với lboy9x || Time : 2023-02-20 09:48:26 || Item chuyển : [8 Số lượng : 1;523 Số lượng : 1;8 Số lượng : 1;9 Số lượng : 1;8 Số lượng : 1;8 Số lượng : 1;436 Số lượng : 1;370 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : lboy9x giao dịch với ggggghh || Time : 2023-02-20 09:48:26 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[8 Số lượng : 1;523 Số lượng : 1;8 Số lượng : 1;9 Số lượng : 1;8 Số lượng : 1;8 Số lượng : 1;436 Số lượng : 1;370 Số lượng : 1;] Xu nhận :0
+Name : google giao dịch với shoppe || Time : 2023-02-20 09:58:53 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 443 Số lượng : 1;  523 Số lượng : 1;  523 Số lượng : 1;  523 Số lượng : 1;  485 Số lượng : 1;  503 Số lượng : 1;  372 Số lượng : 1; ] Xu nhận :0
+Name : shoppe giao dịch với google || Time : 2023-02-20 09:58:53 || Item chuyển : [ 443 Số lượng : 1;  523 Số lượng : 1;  523 Số lượng : 1;  523 Số lượng : 1;  485 Số lượng : 1;  503 Số lượng : 1;  372 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : google giao dịch với shoppe || Time : 2023-02-20 10:16:54 || Item chuyển : [130 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : shoppe giao dịch với google || Time : 2023-02-20 10:16:54 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[130 Số lượng : 1;] Xu nhận :0
+Name : imfan4u giao dịch với clow1zz || Time : 2023-02-20 10:16:57 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 122 Số lượng : 1; ] Xu nhận :0
+Name : clow1zz giao dịch với imfan4u || Time : 2023-02-20 10:16:57 || Item chuyển : [ 122 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : trumblow giao dịch với trumblow2 || Time : 2023-02-20 10:19:28 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 177 Số lượng : 1; ] Xu nhận :0
+Name : trumblow2 giao dịch với trumblow || Time : 2023-02-20 10:19:28 || Item chuyển : [ 177 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : google giao dịch với clone1 || Time : 2023-02-20 10:31:26 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 182 Số lượng : 1;  160 Số lượng : 1; ] Xu nhận :0
+Name : clone1 giao dịch với google || Time : 2023-02-20 10:31:26 || Item chuyển : [ 182 Số lượng : 1;  160 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : google giao dịch với clone6 || Time : 2023-02-20 10:47:03 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 177 Số lượng : 1; ] Xu nhận :0
+Name : clone6 giao dịch với google || Time : 2023-02-20 10:47:03 || Item chuyển : [ 177 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : google giao dịch với clone6 || Time : 2023-02-20 10:49:07 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :50000000
+Name : clone6 giao dịch với google || Time : 2023-02-20 10:49:07 || Item chuyển : [] Xu giao dịch :50000000 || Item Nhận :[] Xu nhận :0
+Name : google giao dịch với clone1 || Time : 2023-02-20 10:49:46 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :50000000
+Name : clone1 giao dịch với google || Time : 2023-02-20 10:49:46 || Item chuyển : [] Xu giao dịch :50000000 || Item Nhận :[] Xu nhận :0
+Name : asdaa1 giao dịch với vodanh || Time : 2023-02-20 10:54:58 || Item chuyển : [270 Số lượng : 1;270 Số lượng : 1;270 Số lượng : 1;270 Số lượng : 1;270 Số lượng : 1;270 Số lượng : 1;270 Số lượng : 1;270 Số lượng : 1;270 Số lượng : 1;410 Số lượng : 1;409 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : vodanh giao dịch với asdaa1 || Time : 2023-02-20 10:54:58 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[270 Số lượng : 1;270 Số lượng : 1;270 Số lượng : 1;270 Số lượng : 1;270 Số lượng : 1;270 Số lượng : 1;270 Số lượng : 1;270 Số lượng : 1;270 Số lượng : 1;410 Số lượng : 1;409 Số lượng : 1;] Xu nhận :0
+Name : vodanh giao dịch với asdaa1 || Time : 2023-02-20 10:56:01 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 331 Số lượng : 1;  322 Số lượng : 1;  320 Số lượng : 1;  325 Số lượng : 1;  983 Số lượng : 6000;  324 Số lượng : 1;  318 Số lượng : 1;  317 Số lượng : 1;  323 Số lượng : 1; ] Xu nhận :0
+Name : asdaa1 giao dịch với vodanh || Time : 2023-02-20 10:56:01 || Item chuyển : [ 331 Số lượng : 1;  322 Số lượng : 1;  320 Số lượng : 1;  325 Số lượng : 1;  983 Số lượng : 6000;  324 Số lượng : 1;  318 Số lượng : 1;  317 Số lượng : 1;  323 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : asdaa1 giao dịch với vodanh || Time : 2023-02-20 10:56:55 || Item chuyển : [319 Số lượng : 1;] Xu giao dịch :60000000 || Item Nhận :[] Xu nhận :0
+Name : vodanh giao dịch với asdaa1 || Time : 2023-02-20 10:56:55 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[319 Số lượng : 1;] Xu nhận :60000000
+Name : asdaa1 giao dịch với vodanh || Time : 2023-02-20 11:00:44 || Item chuyển : [8 Số lượng : 1;8 Số lượng : 1;8 Số lượng : 1;8 Số lượng : 1;9 Số lượng : 1;8 Số lượng : 1;9 Số lượng : 1;9 Số lượng : 1;9 Số lượng : 1;8 Số lượng : 1;8 Số lượng : 1;9 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : vodanh giao dịch với asdaa1 || Time : 2023-02-20 11:00:44 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[8 Số lượng : 1;8 Số lượng : 1;8 Số lượng : 1;8 Số lượng : 1;9 Số lượng : 1;8 Số lượng : 1;9 Số lượng : 1;9 Số lượng : 1;9 Số lượng : 1;8 Số lượng : 1;8 Số lượng : 1;9 Số lượng : 1;] Xu nhận :0
+Name : chimchichbong giao dịch với hieukaka || Time : 2023-02-20 11:07:11 || Item chuyển : [556 Số lượng : 1;556 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[ 313 Số lượng : 1; ] Xu nhận :0
+Name : hieukaka giao dịch với chimchichbong || Time : 2023-02-20 11:07:11 || Item chuyển : [ 313 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[556 Số lượng : 1;556 Số lượng : 1;] Xu nhận :0
+Name : chiyeuem giao dịch với caubebuon || Time : 2023-02-20 11:07:14 || Item chuyển : [182 Số lượng : 1;] Xu giao dịch :50000000 || Item Nhận :[] Xu nhận :0
+Name : caubebuon giao dịch với chiyeuem || Time : 2023-02-20 11:07:14 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[182 Số lượng : 1;] Xu nhận :50000000
+Name : clone1 giao dịch với google || Time : 2023-02-20 11:10:29 || Item chuyển : [523 Số lượng : 1;523 Số lượng : 1;485 Số lượng : 1;485 Số lượng : 1;485 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : google giao dịch với clone1 || Time : 2023-02-20 11:10:29 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[523 Số lượng : 1;523 Số lượng : 1;485 Số lượng : 1;485 Số lượng : 1;485 Số lượng : 1;] Xu nhận :0
+Name : chiyeuem1 giao dịch với caubebuon || Time : 2023-02-20 11:11:06 || Item chuyển : [] Xu giao dịch :50000000 || Item Nhận :[] Xu nhận :0
+Name : caubebuon giao dịch với chiyeuem1 || Time : 2023-02-20 11:11:06 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :50000000
+Name : shizuka giao dịch với noooo1 || Time : 2023-02-20 11:21:12 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 334 Số lượng : 1; ] Xu nhận :0
+Name : noooo1 giao dịch với shizuka || Time : 2023-02-20 11:21:12 || Item chuyển : [ 334 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : caubebuon giao dịch với ahihiz || Time : 2023-02-20 11:21:52 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :50000000
+Name : ahihiz giao dịch với caubebuon || Time : 2023-02-20 11:21:52 || Item chuyển : [] Xu giao dịch :50000000 || Item Nhận :[] Xu nhận :0
+Name : ahihizz giao dịch với caubebuon || Time : 2023-02-20 11:24:52 || Item chuyển : [130 Số lượng : 1;] Xu giao dịch :50000000 || Item Nhận :[] Xu nhận :0
+Name : caubebuon giao dịch với ahihizz || Time : 2023-02-20 11:24:52 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[130 Số lượng : 1;] Xu nhận :50000000
+Name : google giao dịch với clone6 || Time : 2023-02-20 11:24:55 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 983 Số lượng : 8979; ] Xu nhận :0
+Name : clone6 giao dịch với google || Time : 2023-02-20 11:24:55 || Item chuyển : [ 983 Số lượng : 8979; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : asdaa1 giao dịch với vodanh || Time : 2023-02-20 11:28:39 || Item chuyển : [321 Số lượng : 1;6 Số lượng : 1;6 Số lượng : 1;6 Số lượng : 1;6 Số lượng : 1;7 Số lượng : 1;5 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : vodanh giao dịch với asdaa1 || Time : 2023-02-20 11:28:39 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[321 Số lượng : 1;6 Số lượng : 1;6 Số lượng : 1;6 Số lượng : 1;6 Số lượng : 1;7 Số lượng : 1;5 Số lượng : 1;] Xu nhận :0
+Name : caubebuon giao dịch với meomez || Time : 2023-02-20 11:28:41 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 160 Số lượng : 1; ] Xu nhận :50000000
+Name : meomez giao dịch với caubebuon || Time : 2023-02-20 11:28:41 || Item chuyển : [ 160 Số lượng : 1; ] Xu giao dịch :50000000 || Item Nhận :[] Xu nhận :0
+Name : meomezz giao dịch với caubebuon || Time : 2023-02-20 11:32:12 || Item chuyển : [170 Số lượng : 1;] Xu giao dịch :50000000 || Item Nhận :[] Xu nhận :0
+Name : caubebuon giao dịch với meomezz || Time : 2023-02-20 11:32:12 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[170 Số lượng : 1;] Xu nhận :50000000
+Name : truongmvp giao dịch với xuantruong || Time : 2023-02-20 11:37:15 || Item chuyển : [919 Số lượng : 1;] Xu giao dịch :59990000 || Item Nhận :[] Xu nhận :0
+Name : xuantruong giao dịch với truongmvp || Time : 2023-02-20 11:37:15 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[919 Số lượng : 1;] Xu nhận :59990000
+Name : shizuka giao dịch với shdfgf || Time : 2023-02-20 11:47:21 || Item chuyển : [] Xu giao dịch :40000000 || Item Nhận :[ 160 Số lượng : 1;  160 Số lượng : 1;  192 Số lượng : 1;  192 Số lượng : 1;  192 Số lượng : 1;  97 Số lượng : 1;  130 Số lượng : 1; ] Xu nhận :0
+Name : shdfgf giao dịch với shizuka || Time : 2023-02-20 11:47:21 || Item chuyển : [ 160 Số lượng : 1;  160 Số lượng : 1;  192 Số lượng : 1;  192 Số lượng : 1;  192 Số lượng : 1;  97 Số lượng : 1;  130 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :40000000
+Name : shdfgf giao dịch với shizuka || Time : 2023-02-20 11:47:58 || Item chuyển : [182 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : shizuka giao dịch với shdfgf || Time : 2023-02-20 11:47:58 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[182 Số lượng : 1;] Xu nhận :0
+Name : vjpkoae giao dịch với concac20cm || Time : 2023-02-20 11:49:42 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 553 Số lượng : 1; ] Xu nhận :0
+Name : concac20cm giao dịch với vjpkoae || Time : 2023-02-20 11:49:42 || Item chuyển : [ 553 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : nobita giao dịch với shizuka || Time : 2023-02-20 11:49:51 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 160 Số lượng : 1;  192 Số lượng : 1;  97 Số lượng : 1;  130 Số lượng : 1;  182 Số lượng : 1; ] Xu nhận :0
+Name : shizuka giao dịch với nobita || Time : 2023-02-20 11:49:51 || Item chuyển : [ 160 Số lượng : 1;  192 Số lượng : 1;  97 Số lượng : 1;  130 Số lượng : 1;  182 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : shizuka giao dịch với noooo1 || Time : 2023-02-20 11:52:45 || Item chuyển : [192 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : noooo1 giao dịch với shizuka || Time : 2023-02-20 11:52:45 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[192 Số lượng : 1;] Xu nhận :0
+Name : sukuna giao dịch với hiorio || Time : 2023-02-20 11:55:14 || Item chuyển : [315 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;743 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;485 Số lượng : 1;972 Số lượng : 2;379 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;485 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : hiorio giao dịch với sukuna || Time : 2023-02-20 11:55:14 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[315 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;743 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;485 Số lượng : 1;972 Số lượng : 2;379 Số lượng : 1;454 Số lượng : 1;454 Số lượng : 1;485 Số lượng : 1;] Xu nhận :0
+Name : hiorio giao dịch với sukuna || Time : 2023-02-20 11:55:40 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 454 Số lượng : 1;  454 Số lượng : 1;  383 Số lượng : 1; ] Xu nhận :0
+Name : sukuna giao dịch với hiorio || Time : 2023-02-20 11:55:40 || Item chuyển : [ 454 Số lượng : 1;  454 Số lượng : 1;  383 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : sukuna giao dịch với hiorio || Time : 2023-02-20 11:59:36 || Item chuyển : [9 Số lượng : 1;9 Số lượng : 1;9 Số lượng : 1;9 Số lượng : 1;9 Số lượng : 1;456 Số lượng : 1;959 Số lượng : 10;456 Số lượng : 1;456 Số lượng : 1;456 Số lượng : 1;456 Số lượng : 1;456 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[ 143 Số lượng : 1; ] Xu nhận :0
+Name : hiorio giao dịch với sukuna || Time : 2023-02-20 11:59:36 || Item chuyển : [ 143 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[9 Số lượng : 1;9 Số lượng : 1;9 Số lượng : 1;9 Số lượng : 1;9 Số lượng : 1;456 Số lượng : 1;959 Số lượng : 10;456 Số lượng : 1;456 Số lượng : 1;456 Số lượng : 1;456 Số lượng : 1;456 Số lượng : 1;] Xu nhận :0
+Name : sukuna giao dịch với hiorio || Time : 2023-02-20 12:00:01 || Item chuyển : [9 Số lượng : 1;456 Số lượng : 1;456 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : hiorio giao dịch với sukuna || Time : 2023-02-20 12:00:01 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[9 Số lượng : 1;456 Số lượng : 1;456 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;] Xu nhận :0
+Name : sukuna giao dịch với hiorio || Time : 2023-02-20 12:00:36 || Item chuyển : [455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;8 Số lượng : 1;8 Số lượng : 1;8 Số lượng : 1;8 Số lượng : 1;8 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : hiorio giao dịch với sukuna || Time : 2023-02-20 12:00:36 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;8 Số lượng : 1;8 Số lượng : 1;8 Số lượng : 1;8 Số lượng : 1;8 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;] Xu nhận :0
+Name : hiorio giao dịch với sukuna || Time : 2023-02-20 12:00:56 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  8 Số lượng : 1; ] Xu nhận :0
+Name : sukuna giao dịch với hiorio || Time : 2023-02-20 12:00:56 || Item chuyển : [ 455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  8 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : zamhiua giao dịch với uainiy || Time : 2023-02-20 12:07:53 || Item chuyển : [131 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[ 97 Số lượng : 1; ] Xu nhận :0
+Name : uainiy giao dịch với zamhiua || Time : 2023-02-20 12:07:53 || Item chuyển : [ 97 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[131 Số lượng : 1;] Xu nhận :0
+Name : caoboi giao dịch với starboy || Time : 2023-02-20 12:13:34 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 383 Số lượng : 2; ] Xu nhận :60000000
+Name : starboy giao dịch với caoboi || Time : 2023-02-20 12:13:34 || Item chuyển : [ 383 Số lượng : 2; ] Xu giao dịch :60000000 || Item Nhận :[] Xu nhận :0
+Name : dghnzsd giao dịch với caoboi || Time : 2023-02-20 12:16:45 || Item chuyển : [383 Số lượng : 1;383 Số lượng : 1;] Xu giao dịch :60000000 || Item Nhận :[] Xu nhận :0
+Name : caoboi giao dịch với dghnzsd || Time : 2023-02-20 12:16:45 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[383 Số lượng : 1;383 Số lượng : 1;] Xu nhận :60000000
+Name : google giao dịch với clone1 || Time : 2023-02-20 12:20:15 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 334 Số lượng : 1;  409 Số lượng : 1;  410 Số lượng : 1;  7 Số lượng : 1;  7 Số lượng : 1;  8 Số lượng : 1;  410 Số lượng : 1; ] Xu nhận :0
+Name : clone1 giao dịch với google || Time : 2023-02-20 12:20:15 || Item chuyển : [ 334 Số lượng : 1;  409 Số lượng : 1;  410 Số lượng : 1;  7 Số lượng : 1;  7 Số lượng : 1;  8 Số lượng : 1;  410 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : dghnzsdd giao dịch với caoboi || Time : 2023-02-20 00:00:00 || Item chuyển : [383 Số lượng : 1;383 Số lượng : 1;] Xu giao dịch :60000000 || Item Nhận :[] Xu nhận :0
+Name : caoboi giao dịch với dghnzsdd || Time : 2023-02-20 12:22:06 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[383 Số lượng : 1;383 Số lượng : 1;] Xu nhận :60000000
+Name : dghnzsddu giao dịch với caoboi || Time : 2023-02-20 12:25:04 || Item chuyển : [383 Số lượng : 1;383 Số lượng : 1;] Xu giao dịch :60000000 || Item Nhận :[] Xu nhận :0
+Name : caoboi giao dịch với dghnzsddu || Time : 2023-02-20 12:25:04 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[383 Số lượng : 1;383 Số lượng : 1;] Xu nhận :60000000
+Name : dghnzs giao dịch với caoboi || Time : 2023-02-20 12:26:42 || Item chuyển : [383 Số lượng : 1;383 Số lượng : 1;] Xu giao dịch :60000000 || Item Nhận :[] Xu nhận :0
+Name : caoboi giao dịch với dghnzs || Time : 2023-02-20 12:26:42 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[383 Số lượng : 1;383 Số lượng : 1;] Xu nhận :60000000
+Name : dghnzsh giao dịch với caoboi || Time : 2023-02-20 12:28:00 || Item chuyển : [383 Số lượng : 1;383 Số lượng : 1;] Xu giao dịch :60000000 || Item Nhận :[] Xu nhận :0
+Name : caoboi giao dịch với dghnzsh || Time : 2023-02-20 12:28:00 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[383 Số lượng : 1;383 Số lượng : 1;] Xu nhận :60000000
+Name : quatbuffchaymay giao dịch với nsotungkjll || Time : 2023-02-20 12:28:09 || Item chuyển : [946 Số lượng : 1;] Xu giao dịch :40000000 || Item Nhận :[] Xu nhận :0
+Name : nsotungkjll giao dịch với quatbuffchaymay || Time : 2023-02-20 12:28:09 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[946 Số lượng : 1;] Xu nhận :40000000
+Name : dghnzshk giao dịch với caoboi || Time : 2023-02-20 12:30:01 || Item chuyển : [383 Số lượng : 1;383 Số lượng : 1;] Xu giao dịch :60000000 || Item Nhận :[] Xu nhận :0
+Name : caoboi giao dịch với dghnzshk || Time : 2023-02-20 12:30:01 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[383 Số lượng : 1;383 Số lượng : 1;] Xu nhận :60000000
+Name : adyoral giao dịch với caoboi || Time : 2023-02-20 12:32:02 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 383 Số lượng : 16;  436 Số lượng : 4;  437 Số lượng : 4;  638 Số lượng : 137;  639 Số lượng : 130;  640 Số lượng : 170;  641 Số lượng : 162; ] Xu nhận :300000000
+Name : caoboi giao dịch với adyoral || Time : 2023-02-20 12:32:02 || Item chuyển : [ 383 Số lượng : 16;  436 Số lượng : 4;  437 Số lượng : 4;  638 Số lượng : 137;  639 Số lượng : 130;  640 Số lượng : 170;  641 Số lượng : 162; ] Xu giao dịch :300000000 || Item Nhận :[] Xu nhận :0
+Name : boss1234 giao dịch với tinhshin11 || Time : 2023-02-20 12:33:12 || Item chuyển : [983 Số lượng : 500;] Xu giao dịch :10000000 || Item Nhận :[] Xu nhận :0
+Name : tinhshin11 giao dịch với boss1234 || Time : 2023-02-20 12:33:12 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[983 Số lượng : 500;] Xu nhận :10000000
+Name : adyoral giao dịch với caoboi || Time : 2023-02-20 12:34:54 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 283 Số lượng : 1; ] Xu nhận :100000000
+Name : caoboi giao dịch với adyoral || Time : 2023-02-20 12:34:54 || Item chuyển : [ 283 Số lượng : 1; ] Xu giao dịch :100000000 || Item Nhận :[] Xu nhận :0
+Name : adyoral giao dịch với caoboi || Time : 2023-02-20 12:38:13 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 642 Số lượng : 40; ] Xu nhận :0
+Name : caoboi giao dịch với adyoral || Time : 2023-02-20 12:38:13 || Item chuyển : [ 642 Số lượng : 40; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : google giao dịch với clone6 || Time : 2023-02-20 12:43:21 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 383 Số lượng : 12; ] Xu nhận :0
+Name : clone6 giao dịch với google || Time : 2023-02-20 12:43:21 || Item chuyển : [ 383 Số lượng : 12; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : tonystark giao dịch với tonyteo || Time : 2023-02-20 13:01:02 || Item chuyển : [383 Số lượng : 2;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : tonyteo giao dịch với tonystark || Time : 2023-02-20 13:01:02 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[383 Số lượng : 2;] Xu nhận :0
+Name : tonyteo giao dịch với tonyphu || Time : 2023-02-20 13:14:29 || Item chuyển : [643 Số lượng : 20;523 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[ 383 Số lượng : 2; ] Xu nhận :0
+Name : tonyphu giao dịch với tonyteo || Time : 2023-02-20 13:14:29 || Item chuyển : [ 383 Số lượng : 2; ] Xu giao dịch :0 || Item Nhận :[643 Số lượng : 20;523 Số lượng : 1;] Xu nhận :0
+Name : s2shu2s giao dịch với small23 || Time : 2023-02-20 13:15:40 || Item chuyển : [38 Số lượng : 8;569 Số lượng : 1;6 Số lượng : 1;5 Số lượng : 1;383 Số lượng : 2;] Xu giao dịch :49920000 || Item Nhận :[] Xu nhận :0
+Name : small23 giao dịch với s2shu2s || Time : 2023-02-20 13:15:40 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[38 Số lượng : 8;569 Số lượng : 1;6 Số lượng : 1;5 Số lượng : 1;383 Số lượng : 2;] Xu nhận :49920000
+Name : s2shu2s giao dịch với small23 || Time : 2023-02-20 13:18:49 || Item chuyển : [829 Số lượng : 1;835 Số lượng : 1;802 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : small23 giao dịch với s2shu2s || Time : 2023-02-20 13:18:49 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[829 Số lượng : 1;835 Số lượng : 1;802 Số lượng : 1;] Xu nhận :0
+Name : s2shu2s giao dịch với s2sbeats2s || Time : 2023-02-20 13:21:09 || Item chuyển : [829 Số lượng : 1;803 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : s2sbeats2s giao dịch với s2shu2s || Time : 2023-02-20 13:21:09 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[829 Số lượng : 1;803 Số lượng : 1;] Xu nhận :0
+Name : s2shu2s giao dịch với s2sbeats2s || Time : 2023-02-20 13:22:46 || Item chuyển : [801 Số lượng : 1;801 Số lượng : 1;802 Số lượng : 1;802 Số lượng : 1;803 Số lượng : 1;803 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : s2sbeats2s giao dịch với s2shu2s || Time : 2023-02-20 13:22:46 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[801 Số lượng : 1;801 Số lượng : 1;802 Số lượng : 1;802 Số lượng : 1;803 Số lượng : 1;803 Số lượng : 1;] Xu nhận :0
+Name : s2shu2s giao dịch với s2sbeats2s || Time : 2023-02-20 13:26:27 || Item chuyển : [803 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : s2sbeats2s giao dịch với s2shu2s || Time : 2023-02-20 13:26:27 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[803 Số lượng : 1;] Xu nhận :0
+Name : s2shu2s giao dịch với s2sbeats2s || Time : 2023-02-20 13:28:01 || Item chuyển : [803 Số lượng : 1;803 Số lượng : 1;803 Số lượng : 1;803 Số lượng : 1;803 Số lượng : 1;803 Số lượng : 1;803 Số lượng : 1;803 Số lượng : 1;803 Số lượng : 1;803 Số lượng : 1;803 Số lượng : 1;803 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : s2sbeats2s giao dịch với s2shu2s || Time : 2023-02-20 13:28:01 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[803 Số lượng : 1;803 Số lượng : 1;803 Số lượng : 1;803 Số lượng : 1;803 Số lượng : 1;803 Số lượng : 1;803 Số lượng : 1;803 Số lượng : 1;803 Số lượng : 1;803 Số lượng : 1;803 Số lượng : 1;803 Số lượng : 1;] Xu nhận :0
+Name : trumnso giao dịch với cloess || Time : 2023-02-20 13:30:16 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 383 Số lượng : 1;  983 Số lượng : 8990;  383 Số lượng : 1; ] Xu nhận :60000000
+Name : cloess giao dịch với trumnso || Time : 2023-02-20 13:30:16 || Item chuyển : [ 383 Số lượng : 1;  983 Số lượng : 8990;  383 Số lượng : 1; ] Xu giao dịch :60000000 || Item Nhận :[] Xu nhận :0
+Name : cloesss giao dịch với trumclone || Time : 2023-02-20 13:32:14 || Item chuyển : [983 Số lượng : 4900;383 Số lượng : 1;383 Số lượng : 1;] Xu giao dịch :60000000 || Item Nhận :[] Xu nhận :0
+Name : trumclone giao dịch với cloesss || Time : 2023-02-20 13:32:14 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[983 Số lượng : 4900;383 Số lượng : 1;383 Số lượng : 1;] Xu nhận :60000000
+Name : trumclone giao dịch với cloesss || Time : 2023-02-20 13:33:12 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 983 Số lượng : 4000; ] Xu nhận :0
+Name : cloesss giao dịch với trumclone || Time : 2023-02-20 13:33:12 || Item chuyển : [ 983 Số lượng : 4000; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : small23 giao dịch với s2shu2s || Time : 2023-02-20 13:34:39 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 803 Số lượng : 1;  803 Số lượng : 1;  803 Số lượng : 1;  803 Số lượng : 1;  803 Số lượng : 1; ] Xu nhận :0
+Name : s2shu2s giao dịch với small23 || Time : 2023-02-20 13:34:39 || Item chuyển : [ 803 Số lượng : 1;  803 Số lượng : 1;  803 Số lượng : 1;  803 Số lượng : 1;  803 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : small23 giao dịch với s2shu2s || Time : 2023-02-20 13:36:33 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 803 Số lượng : 1;  803 Số lượng : 1;  803 Số lượng : 1;  803 Số lượng : 1;  803 Số lượng : 1; ] Xu nhận :0
+Name : s2shu2s giao dịch với small23 || Time : 2023-02-20 13:36:33 || Item chuyển : [ 803 Số lượng : 1;  803 Số lượng : 1;  803 Số lượng : 1;  803 Số lượng : 1;  803 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : small23 giao dịch với s2shu2s || Time : 2023-02-20 13:38:16 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 803 Số lượng : 1;  803 Số lượng : 1;  803 Số lượng : 1;  803 Số lượng : 1;  803 Số lượng : 1; ] Xu nhận :0
+Name : s2shu2s giao dịch với small23 || Time : 2023-02-20 13:38:16 || Item chuyển : [ 803 Số lượng : 1;  803 Số lượng : 1;  803 Số lượng : 1;  803 Số lượng : 1;  803 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : s2shu2s giao dịch với small23 || Time : 2023-02-20 13:40:54 || Item chuyển : [803 Số lượng : 1;803 Số lượng : 1;803 Số lượng : 1;803 Số lượng : 1;803 Số lượng : 1;803 Số lượng : 1;803 Số lượng : 1;803 Số lượng : 1;803 Số lượng : 1;803 Số lượng : 1;803 Số lượng : 1;803 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : small23 giao dịch với s2shu2s || Time : 2023-02-20 13:40:54 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[803 Số lượng : 1;803 Số lượng : 1;803 Số lượng : 1;803 Số lượng : 1;803 Số lượng : 1;803 Số lượng : 1;803 Số lượng : 1;803 Số lượng : 1;803 Số lượng : 1;803 Số lượng : 1;803 Số lượng : 1;803 Số lượng : 1;] Xu nhận :0
+Name : dfffdg giao dịch với s2sbeats2s || Time : 2023-02-20 13:48:52 || Item chuyển : [383 Số lượng : 1;383 Số lượng : 1;] Xu giao dịch :50000000 || Item Nhận :[] Xu nhận :0
+Name : s2sbeats2s giao dịch với dfffdg || Time : 2023-02-20 13:48:52 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[383 Số lượng : 1;383 Số lượng : 1;] Xu nhận :50000000
+Name : membu112 giao dịch với shdfgf || Time : 2023-02-20 13:57:31 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 316 Số lượng : 1;  380 Số lượng : 1;  276 Số lượng : 2;  539 Số lượng : 16; ] Xu nhận :0
+Name : shdfgf giao dịch với membu112 || Time : 2023-02-20 13:57:31 || Item chuyển : [ 316 Số lượng : 1;  380 Số lượng : 1;  276 Số lượng : 2;  539 Số lượng : 16; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : agumon giao dịch với dfffdg || Time : 2023-02-20 13:59:59 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 803 Số lượng : 1;  215 Số lượng : 1;  229 Số lượng : 1;  283 Số lượng : 1;  829 Số lượng : 1;  248 Số lượng : 1; ] Xu nhận :0
+Name : dfffdg giao dịch với agumon || Time : 2023-02-20 13:59:59 || Item chuyển : [ 803 Số lượng : 1;  215 Số lượng : 1;  229 Số lượng : 1;  283 Số lượng : 1;  829 Số lượng : 1;  248 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : trumhack giao dịch với trumclone || Time : 2023-02-20 14:02:05 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 983 Số lượng : 4000; ] Xu nhận :0
+Name : trumclone giao dịch với trumhack || Time : 2023-02-20 14:02:05 || Item chuyển : [ 983 Số lượng : 4000; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : agumon giao dịch với dfffdg || Time : 2023-02-20 14:02:45 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 569 Số lượng : 1; ] Xu nhận :0
+Name : dfffdg giao dịch với agumon || Time : 2023-02-20 14:02:45 || Item chuyển : [ 569 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : vodanh giao dịch với bucukoanh || Time : 2023-02-20 14:14:54 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 375 Số lượng : 1; ] Xu nhận :0
+Name : bucukoanh giao dịch với vodanh || Time : 2023-02-20 14:14:54 || Item chuyển : [ 375 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : uainiy giao dịch với aawast || Time : 2023-02-20 14:23:39 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 182 Số lượng : 1;  171 Số lượng : 1; ] Xu nhận :60000000
+Name : aawast giao dịch với uainiy || Time : 2023-02-20 14:23:39 || Item chuyển : [ 182 Số lượng : 1;  171 Số lượng : 1; ] Xu giao dịch :60000000 || Item Nhận :[] Xu nhận :0
+Name : kiasnda giao dịch với uainiy || Time : 2023-02-20 14:27:55 || Item chuyển : [140 Số lượng : 1;140 Số lượng : 1;] Xu giao dịch :60000000 || Item Nhận :[] Xu nhận :0
+Name : uainiy giao dịch với kiasnda || Time : 2023-02-20 14:27:55 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[140 Số lượng : 1;140 Số lượng : 1;] Xu nhận :60000000
+Name : loajwsa giao dịch với uainiy || Time : 2023-02-20 14:31:52 || Item chuyển : [170 Số lượng : 1;170 Số lượng : 1;] Xu giao dịch :60000000 || Item Nhận :[] Xu nhận :0
+Name : uainiy giao dịch với loajwsa || Time : 2023-02-20 14:31:52 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[170 Số lượng : 1;170 Số lượng : 1;] Xu nhận :60000000
+Name : lozbaa giao dịch với uainiy || Time : 2023-02-20 14:36:17 || Item chuyển : [107 Số lượng : 1;187 Số lượng : 1;] Xu giao dịch :60000000 || Item Nhận :[] Xu nhận :0
+Name : uainiy giao dịch với lozbaa || Time : 2023-02-20 14:36:17 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[107 Số lượng : 1;187 Số lượng : 1;] Xu nhận :60000000
+Name : hihipk2 giao dịch với hihipk || Time : 2023-02-20 14:43:56 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :60000000
+Name : hihipk giao dịch với hihipk2 || Time : 2023-02-20 14:43:56 || Item chuyển : [] Xu giao dịch :60000000 || Item Nhận :[] Xu nhận :0
+Name : hihipk2 giao dịch với hihipk1 || Time : 2023-02-20 14:44:31 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 140 Số lượng : 1;  170 Số lượng : 1; ] Xu nhận :60000000
+Name : hihipk1 giao dịch với hihipk2 || Time : 2023-02-20 14:44:31 || Item chuyển : [ 140 Số lượng : 1;  170 Số lượng : 1; ] Xu giao dịch :60000000 || Item Nhận :[] Xu nhận :0
+Name : zamhiua giao dịch với uainiy || Time : 2023-02-20 14:44:40 || Item chuyển : [] Xu giao dịch :59000000 || Item Nhận :[] Xu nhận :0
+Name : uainiy giao dịch với zamhiua || Time : 2023-02-20 14:44:40 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :59000000
+Name : hihipk1 giao dịch với hihipk2 || Time : 2023-02-20 14:46:31 || Item chuyển : [953 Số lượng : 1;952 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : hihipk2 giao dịch với hihipk1 || Time : 2023-02-20 14:46:31 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[953 Số lượng : 1;952 Số lượng : 1;] Xu nhận :0
+Name : hihipk2 giao dịch với hihipk || Time : 2023-02-20 14:48:34 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 983 Số lượng : 5102;  954 Số lượng : 1; ] Xu nhận :0
+Name : hihipk giao dịch với hihipk2 || Time : 2023-02-20 14:48:34 || Item chuyển : [ 983 Số lượng : 5102;  954 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : hihipk2 giao dịch với hihipk1 || Time : 2023-02-20 14:49:14 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 983 Số lượng : 2280; ] Xu nhận :0
+Name : hihipk1 giao dịch với hihipk2 || Time : 2023-02-20 14:49:14 || Item chuyển : [ 983 Số lượng : 2280; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : trumblow1 giao dịch với hihipk2 || Time : 2023-02-20 14:51:12 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 953 Số lượng : 1;  954 Số lượng : 1;  952 Số lượng : 1;  983 Số lượng : 7483; ] Xu nhận :180000000
+Name : hihipk2 giao dịch với trumblow1 || Time : 2023-02-20 14:51:12 || Item chuyển : [ 953 Số lượng : 1;  954 Số lượng : 1;  952 Số lượng : 1;  983 Số lượng : 7483; ] Xu giao dịch :180000000 || Item Nhận :[] Xu nhận :0
+Name : trumblow2 giao dịch với trumblow1 || Time : 2023-02-20 14:51:55 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 983 Số lượng : 2500;  952 Số lượng : 1; ] Xu nhận :0
+Name : trumblow1 giao dịch với trumblow2 || Time : 2023-02-20 14:51:55 || Item chuyển : [ 983 Số lượng : 2500;  952 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : trumblow1 giao dịch với trumblow || Time : 2023-02-20 14:53:00 || Item chuyển : [954 Số lượng : 1;983 Số lượng : 2488;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : trumblow giao dịch với trumblow1 || Time : 2023-02-20 14:53:00 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[954 Số lượng : 1;983 Số lượng : 2488;] Xu nhận :0
+Name : zamhiua giao dịch với uainiy || Time : 2023-02-20 15:01:02 || Item chuyển : [454 Số lượng : 1;899 Số lượng : 1;454 Số lượng : 1;573 Số lượng : 3;574 Số lượng : 1;576 Số lượng : 2;9 Số lượng : 1;8 Số lượng : 1;8 Số lượng : 1;9 Số lượng : 1;852 Số lượng : 176;853 Số lượng : 203;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : uainiy giao dịch với zamhiua || Time : 2023-02-20 15:01:02 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[454 Số lượng : 1;899 Số lượng : 1;454 Số lượng : 1;573 Số lượng : 3;574 Số lượng : 1;576 Số lượng : 2;9 Số lượng : 1;8 Số lượng : 1;8 Số lượng : 1;9 Số lượng : 1;852 Số lượng : 176;853 Số lượng : 203;] Xu nhận :0
+Name : trumlh giao dịch với trumnso || Time : 2023-02-20 15:01:08 || Item chuyển : [332 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : trumnso giao dịch với trumlh || Time : 2023-02-20 15:01:08 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[332 Số lượng : 1;] Xu nhận :0
+Name : trummen giao dịch với trumnso || Time : 2023-02-20 15:37:14 || Item chuyển : [931 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : trumnso giao dịch với trummen || Time : 2023-02-20 15:37:14 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[931 Số lượng : 1;] Xu nhận :0
+Name : trummen giao dịch với trumnso || Time : 2023-02-20 15:39:11 || Item chuyển : [919 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : trumnso giao dịch với trummen || Time : 2023-02-20 15:39:11 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[919 Số lượng : 1;] Xu nhận :0
+Name : clone1 giao dịch với google || Time : 2023-02-20 16:29:41 || Item chuyển : [320 Số lượng : 1;328 Số lượng : 1;325 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : google giao dịch với clone1 || Time : 2023-02-20 16:29:41 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[320 Số lượng : 1;328 Số lượng : 1;325 Số lượng : 1;] Xu nhận :0
+Name : hafasf giao dịch với trumhacam || Time : 2023-02-20 16:31:57 || Item chuyển : [1017 Số lượng : 1;383 Số lượng : 2;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : trumhacam giao dịch với hafasf || Time : 2023-02-20 16:31:57 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[1017 Số lượng : 1;383 Số lượng : 2;] Xu nhận :0
+Name : trumhack giao dịch với trumnso || Time : 2023-02-20 16:47:33 || Item chuyển : [643 Số lượng : 20;] Xu giao dịch :0 || Item Nhận :[ 251 Số lượng : 8;  455 Số lượng : 1;  456 Số lượng : 1;  455 Số lượng : 1;  236 Số lượng : 13;  971 Số lượng : 6;  970 Số lượng : 8;  455 Số lượng : 1; ] Xu nhận :0
+Name : trumnso giao dịch với trumhack || Time : 2023-02-20 16:47:33 || Item chuyển : [ 251 Số lượng : 8;  455 Số lượng : 1;  456 Số lượng : 1;  455 Số lượng : 1;  236 Số lượng : 13;  971 Số lượng : 6;  970 Số lượng : 8;  455 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[643 Số lượng : 20;] Xu nhận :0
+Name : trumnso giao dịch với trumhack || Time : 2023-02-20 16:49:42 || Item chuyển : [555 Số lượng : 1;375 Số lượng : 1;376 Số lượng : 1;557 Số lượng : 1;554 Số lượng : 1;556 Số lượng : 1;552 Số lượng : 1;378 Số lượng : 1;553 Số lượng : 1;380 Số lượng : 1;379 Số lượng : 1;380 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : trumhack giao dịch với trumnso || Time : 2023-02-20 16:49:42 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[555 Số lượng : 1;375 Số lượng : 1;376 Số lượng : 1;557 Số lượng : 1;554 Số lượng : 1;556 Số lượng : 1;552 Số lượng : 1;378 Số lượng : 1;553 Số lượng : 1;380 Số lượng : 1;379 Số lượng : 1;380 Số lượng : 1;] Xu nhận :0
+Name : satthan giao dịch với avxz11 || Time : 2023-02-20 16:52:45 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 1017 Số lượng : 1;  569 Số lượng : 1; ] Xu nhận :0
+Name : avxz11 giao dịch với satthan || Time : 2023-02-20 16:52:45 || Item chuyển : [ 1017 Số lượng : 1;  569 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : avxz11 giao dịch với satthan || Time : 2023-02-20 16:53:26 || Item chuyển : [383 Số lượng : 1;383 Số lượng : 1;] Xu giao dịch :60000000 || Item Nhận :[] Xu nhận :0
+Name : satthan giao dịch với avxz11 || Time : 2023-02-20 16:53:26 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[383 Số lượng : 1;383 Số lượng : 1;] Xu nhận :60000000
+Name : thiendeblow giao dịch với thienvuongblow || Time : 2023-02-20 16:58:59 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 130 Số lượng : 1; ] Xu nhận :0
+Name : thienvuongblow giao dịch với thiendeblow || Time : 2023-02-20 16:58:59 || Item chuyển : [ 130 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : thienvuongblow giao dịch với kimtruongblow || Time : 2023-02-20 16:59:29 || Item chuyển : [182 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : kimtruongblow giao dịch với thienvuongblow || Time : 2023-02-20 16:59:29 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[182 Số lượng : 1;] Xu nhận :0
+Name : thienvuongblow giao dịch với thiendeblow || Time : 2023-02-20 17:00:43 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 140 Số lượng : 1; ] Xu nhận :0
+Name : thiendeblow giao dịch với thienvuongblow || Time : 2023-02-20 17:00:43 || Item chuyển : [ 140 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : colene giao dịch với kimtruongblow || Time : 2023-02-20 17:06:55 || Item chuyển : [383 Số lượng : 1;383 Số lượng : 1;] Xu giao dịch :60000000 || Item Nhận :[] Xu nhận :0
+Name : kimtruongblow giao dịch với colene || Time : 2023-02-20 17:06:55 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[383 Số lượng : 1;383 Số lượng : 1;] Xu nhận :60000000
+Name : kimtruongblow giao dịch với colene1 || Time : 2023-02-20 17:08:03 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 383 Số lượng : 1;  383 Số lượng : 1; ] Xu nhận :60000000
+Name : colene1 giao dịch với kimtruongblow || Time : 2023-02-20 17:08:03 || Item chuyển : [ 383 Số lượng : 1;  383 Số lượng : 1; ] Xu giao dịch :60000000 || Item Nhận :[] Xu nhận :0
+Name : kimtruongblow giao dịch với colene2 || Time : 2023-02-20 17:08:54 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 383 Số lượng : 1; ] Xu nhận :60000000
+Name : colene2 giao dịch với kimtruongblow || Time : 2023-02-20 17:08:54 || Item chuyển : [ 383 Số lượng : 1; ] Xu giao dịch :60000000 || Item Nhận :[] Xu nhận :0
+Name : kimtruongblow giao dịch với colene2 || Time : 2023-02-20 17:10:54 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 383 Số lượng : 1; ] Xu nhận :0
+Name : colene2 giao dịch với kimtruongblow || Time : 2023-02-20 17:10:54 || Item chuyển : [ 383 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : colene3 giao dịch với thienvuongblow || Time : 2023-02-20 17:13:58 || Item chuyển : [383 Số lượng : 1;383 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : thienvuongblow giao dịch với colene3 || Time : 2023-02-20 17:13:58 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[383 Số lượng : 1;383 Số lượng : 1;] Xu nhận :0
+Name : thienvuongblow giao dịch với colene4 || Time : 2023-02-20 17:14:53 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 383 Số lượng : 1;  383 Số lượng : 1; ] Xu nhận :0
+Name : colene4 giao dịch với thienvuongblow || Time : 2023-02-20 17:14:53 || Item chuyển : [ 383 Số lượng : 1;  383 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : trumnso giao dịch với trumhack || Time : 2023-02-20 17:15:25 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 829 Số lượng : 1; ] Xu nhận :0
+Name : trumhack giao dịch với trumnso || Time : 2023-02-20 17:15:25 || Item chuyển : [ 829 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : colene5 giao dịch với thienvuongblow || Time : 2023-02-20 17:15:45 || Item chuyển : [383 Số lượng : 1;383 Số lượng : 1;] Xu giao dịch :60000000 || Item Nhận :[] Xu nhận :0
+Name : thienvuongblow giao dịch với colene5 || Time : 2023-02-20 17:15:45 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[383 Số lượng : 1;383 Số lượng : 1;] Xu nhận :60000000
+Name : colene3 giao dịch với thienvuongblow || Time : 2023-02-20 17:16:54 || Item chuyển : [283 Số lượng : 1;283 Số lượng : 1;] Xu giao dịch :60000000 || Item Nhận :[] Xu nhận :0
+Name : thienvuongblow giao dịch với colene3 || Time : 2023-02-20 17:16:54 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[283 Số lượng : 1;283 Số lượng : 1;] Xu nhận :60000000
+Name : colene4 giao dịch với thienvuongblow || Time : 2023-02-20 17:17:21 || Item chuyển : [] Xu giao dịch :60000000 || Item Nhận :[] Xu nhận :0
+Name : thienvuongblow giao dịch với colene4 || Time : 2023-02-20 17:17:21 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :60000000
+Name : colene6 giao dịch với thienvuongblow || Time : 2023-02-20 17:18:33 || Item chuyển : [383 Số lượng : 1;383 Số lượng : 1;] Xu giao dịch :60000000 || Item Nhận :[] Xu nhận :0
+Name : thienvuongblow giao dịch với colene6 || Time : 2023-02-20 17:18:33 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[383 Số lượng : 1;383 Số lượng : 1;] Xu nhận :60000000
+Name : trumclone giao dịch với trumnso || Time : 2023-02-20 17:19:32 || Item chuyển : [182 Số lượng : 1;130 Số lượng : 1;187 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : trumnso giao dịch với trumclone || Time : 2023-02-20 17:19:32 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[182 Số lượng : 1;130 Số lượng : 1;187 Số lượng : 1;] Xu nhận :0
+Name : colene7 giao dịch với thienvuongblow || Time : 2023-02-20 17:19:34 || Item chuyển : [383 Số lượng : 1;383 Số lượng : 1;] Xu giao dịch :60000000 || Item Nhận :[] Xu nhận :0
+Name : thienvuongblow giao dịch với colene7 || Time : 2023-02-20 17:19:34 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[383 Số lượng : 1;383 Số lượng : 1;] Xu nhận :60000000
+Name : thienvuongblow giao dịch với colene8 || Time : 2023-02-20 17:20:16 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 383 Số lượng : 1;  383 Số lượng : 1; ] Xu nhận :60000000
+Name : colene8 giao dịch với thienvuongblow || Time : 2023-02-20 17:20:16 || Item chuyển : [ 383 Số lượng : 1;  383 Số lượng : 1; ] Xu giao dịch :60000000 || Item Nhận :[] Xu nhận :0
+Name : chienthan giao dịch với raydutdit || Time : 2023-02-20 17:21:04 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 1017 Số lượng : 1; ] Xu nhận :0
+Name : raydutdit giao dịch với chienthan || Time : 2023-02-20 17:21:04 || Item chuyển : [ 1017 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : colene9 giao dịch với thienvuongblow || Time : 2023-02-20 17:21:27 || Item chuyển : [383 Số lượng : 1;383 Số lượng : 1;] Xu giao dịch :60000000 || Item Nhận :[] Xu nhận :0
+Name : thienvuongblow giao dịch với colene9 || Time : 2023-02-20 17:21:27 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[383 Số lượng : 1;383 Số lượng : 1;] Xu nhận :60000000
+Name : chienthan giao dịch với raydutdit || Time : 2023-02-20 17:22:07 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 1018 Số lượng : 1;  1019 Số lượng : 1;  1020 Số lượng : 1; ] Xu nhận :0
+Name : raydutdit giao dịch với chienthan || Time : 2023-02-20 17:22:07 || Item chuyển : [ 1018 Số lượng : 1;  1019 Số lượng : 1;  1020 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : thienvuongblow giao dịch với kimtruongblow || Time : 2023-02-20 17:23:39 || Item chuyển : [187 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : kimtruongblow giao dịch với thienvuongblow || Time : 2023-02-20 17:23:39 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[187 Số lượng : 1;] Xu nhận :0
+Name : satthan giao dịch với a122aa1 || Time : 2023-02-20 17:24:09 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 383 Số lượng : 1;  383 Số lượng : 1; ] Xu nhận :60000000
+Name : a122aa1 giao dịch với satthan || Time : 2023-02-20 17:24:09 || Item chuyển : [ 383 Số lượng : 1;  383 Số lượng : 1; ] Xu giao dịch :60000000 || Item Nhận :[] Xu nhận :0
+Name : thienvuongblow giao dịch với thiendeblow || Time : 2023-02-20 17:24:26 || Item chuyển : [140 Số lượng : 1;140 Số lượng : 1;187 Số lượng : 1;] Xu giao dịch :180000000 || Item Nhận :[] Xu nhận :0
+Name : thiendeblow giao dịch với thienvuongblow || Time : 2023-02-20 17:24:26 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[140 Số lượng : 1;140 Số lượng : 1;187 Số lượng : 1;] Xu nhận :180000000
+Name : thienvuongblow giao dịch với kimtruongblow || Time : 2023-02-20 17:25:25 || Item chuyển : [] Xu giao dịch :30000000 || Item Nhận :[] Xu nhận :0
+Name : kimtruongblow giao dịch với thienvuongblow || Time : 2023-02-20 17:25:25 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :30000000
+Name : thienvuongblow giao dịch với thiendeblow || Time : 2023-02-20 17:25:54 || Item chuyển : [] Xu giao dịch :10000000 || Item Nhận :[] Xu nhận :0
+Name : thiendeblow giao dịch với thienvuongblow || Time : 2023-02-20 17:25:54 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :10000000
+Name : a122aa2 giao dịch với satthan || Time : 2023-02-20 17:26:15 || Item chuyển : [383 Số lượng : 1;383 Số lượng : 1;] Xu giao dịch :60000000 || Item Nhận :[] Xu nhận :0
+Name : satthan giao dịch với a122aa2 || Time : 2023-02-20 17:26:15 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[383 Số lượng : 1;383 Số lượng : 1;] Xu nhận :60000000
+Name : thiendeblow giao dịch với kimtruongblow || Time : 2023-02-20 17:26:35 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :10000000
+Name : kimtruongblow giao dịch với thiendeblow || Time : 2023-02-20 17:26:35 || Item chuyển : [] Xu giao dịch :10000000 || Item Nhận :[] Xu nhận :0
+Name : satthan giao dịch với a122aa3 || Time : 2023-02-20 17:31:42 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 383 Số lượng : 1;  383 Số lượng : 1; ] Xu nhận :60000000
+Name : a122aa3 giao dịch với satthan || Time : 2023-02-20 17:31:42 || Item chuyển : [ 383 Số lượng : 1;  383 Số lượng : 1; ] Xu giao dịch :60000000 || Item Nhận :[] Xu nhận :0
+Name : a122aa4 giao dịch với satthan || Time : 2023-02-20 17:33:51 || Item chuyển : [383 Số lượng : 1;383 Số lượng : 1;] Xu giao dịch :60000000 || Item Nhận :[] Xu nhận :0
+Name : satthan giao dịch với a122aa4 || Time : 2023-02-20 17:33:51 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[383 Số lượng : 1;383 Số lượng : 1;] Xu nhận :60000000
+Name : satthan giao dịch với accas1 || Time : 2023-02-20 17:36:29 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 983 Số lượng : 2000; ] Xu nhận :60000000
+Name : accas1 giao dịch với satthan || Time : 2023-02-20 17:36:29 || Item chuyển : [ 983 Số lượng : 2000; ] Xu giao dịch :60000000 || Item Nhận :[] Xu nhận :0
+Name : satthan giao dịch với 12aa11 || Time : 2023-02-20 17:43:31 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 383 Số lượng : 1;  383 Số lượng : 1; ] Xu nhận :50000000
+Name : 12aa11 giao dịch với satthan || Time : 2023-02-20 17:43:31 || Item chuyển : [ 383 Số lượng : 1;  383 Số lượng : 1; ] Xu giao dịch :50000000 || Item Nhận :[] Xu nhận :0
+Name : 12aa11a giao dịch với satthan || Time : 2023-02-20 17:44:24 || Item chuyển : [383 Số lượng : 1;383 Số lượng : 1;] Xu giao dịch :50000000 || Item Nhận :[] Xu nhận :0
+Name : satthan giao dịch với 12aa11a || Time : 2023-02-20 17:44:24 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[383 Số lượng : 1;383 Số lượng : 1;] Xu nhận :50000000
+Name : 12aa11a1 giao dịch với satthan || Time : 2023-02-20 17:45:21 || Item chuyển : [383 Số lượng : 1;383 Số lượng : 1;] Xu giao dịch :50000000 || Item Nhận :[] Xu nhận :0
+Name : satthan giao dịch với 12aa11a1 || Time : 2023-02-20 17:45:21 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[383 Số lượng : 1;383 Số lượng : 1;] Xu nhận :50000000
+Name : satthan giao dịch với 2311asv || Time : 2023-02-20 17:46:38 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 383 Số lượng : 1;  383 Số lượng : 1; ] Xu nhận :50000000
+Name : 2311asv giao dịch với satthan || Time : 2023-02-20 17:46:38 || Item chuyển : [ 383 Số lượng : 1;  383 Số lượng : 1; ] Xu giao dịch :50000000 || Item Nhận :[] Xu nhận :0
+Name : 2311asv1 giao dịch với satthan || Time : 2023-02-20 17:47:19 || Item chuyển : [383 Số lượng : 1;383 Số lượng : 1;] Xu giao dịch :50000000 || Item Nhận :[] Xu nhận :0
+Name : satthan giao dịch với 2311asv1 || Time : 2023-02-20 17:47:19 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[383 Số lượng : 1;383 Số lượng : 1;] Xu nhận :50000000
+Name : 2311asv12 giao dịch với satthan || Time : 2023-02-20 17:48:03 || Item chuyển : [383 Số lượng : 1;383 Số lượng : 1;] Xu giao dịch :50000000 || Item Nhận :[] Xu nhận :0
+Name : satthan giao dịch với 2311asv12 || Time : 2023-02-20 17:48:03 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[383 Số lượng : 1;383 Số lượng : 1;] Xu nhận :50000000
+Name : minhphuong giao dịch với nezukos || Time : 2023-02-20 19:17:26 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 383 Số lượng : 2;  642 Số lượng : 50;  983 Số lượng : 2300; ] Xu nhận :60000000
+Name : nezukos giao dịch với minhphuong || Time : 2023-02-20 19:17:26 || Item chuyển : [ 383 Số lượng : 2;  642 Số lượng : 50;  983 Số lượng : 2300; ] Xu giao dịch :60000000 || Item Nhận :[] Xu nhận :0
+Name : minhphuong giao dịch với nezukos || Time : 2023-02-20 19:19:51 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 642 Số lượng : 1200;  983 Số lượng : 6000; ] Xu nhận :0
+Name : nezukos giao dịch với minhphuong || Time : 2023-02-20 19:19:51 || Item chuyển : [ 642 Số lượng : 1200;  983 Số lượng : 6000; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : minhphuong giao dịch với coccac || Time : 2023-02-20 19:35:47 || Item chuyển : [640 Số lượng : 2531;638 Số lượng : 2508;641 Số lượng : 2478;639 Số lượng : 2528;642 Số lượng : 1250;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : coccac giao dịch với minhphuong || Time : 2023-02-20 19:35:47 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[640 Số lượng : 2531;638 Số lượng : 2508;641 Số lượng : 2478;639 Số lượng : 2528;642 Số lượng : 1250;] Xu nhận :0
+Name : minhphuong giao dịch với coccac || Time : 2023-02-20 19:36:55 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 643 Số lượng : 10;  383 Số lượng : 2; ] Xu nhận :0
+Name : coccac giao dịch với minhphuong || Time : 2023-02-20 19:36:55 || Item chuyển : [ 643 Số lượng : 10;  383 Số lượng : 2; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : minhphuong giao dịch với coccac || Time : 2023-02-20 19:38:26 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 643 Số lượng : 200; ] Xu nhận :0
+Name : coccac giao dịch với minhphuong || Time : 2023-02-20 19:38:26 || Item chuyển : [ 643 Số lượng : 200; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : shdfgf giao dịch với godti3i || Time : 2023-02-20 19:43:13 || Item chuyển : [377 Số lượng : 1;313 Số lượng : 1;314 Số lượng : 1;314 Số lượng : 1;312 Số lượng : 1;378 Số lượng : 1;312 Số lượng : 1;376 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : godti3i giao dịch với shdfgf || Time : 2023-02-20 19:43:13 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[377 Số lượng : 1;313 Số lượng : 1;314 Số lượng : 1;314 Số lượng : 1;312 Số lượng : 1;378 Số lượng : 1;312 Số lượng : 1;376 Số lượng : 1;] Xu nhận :0
+Name : minhphuong giao dịch với coccac || Time : 2023-02-20 19:44:53 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 642 Số lượng : 1200;  639 Số lượng : 1478;  641 Số lượng : 1428;  638 Số lượng : 1458;  983 Số lượng : 7770;  640 Số lượng : 1481; ] Xu nhận :49500000
+Name : coccac giao dịch với minhphuong || Time : 2023-02-20 19:44:53 || Item chuyển : [ 642 Số lượng : 1200;  639 Số lượng : 1478;  641 Số lượng : 1428;  638 Số lượng : 1458;  983 Số lượng : 7770;  640 Số lượng : 1481; ] Xu giao dịch :49500000 || Item Nhận :[] Xu nhận :0
+Name : xuantruong giao dịch với raydutdit || Time : 2023-02-20 19:45:10 || Item chuyển : [] Xu giao dịch :15000000 || Item Nhận :[ 376 Số lượng : 1; ] Xu nhận :0
+Name : raydutdit giao dịch với xuantruong || Time : 2023-02-20 19:45:10 || Item chuyển : [ 376 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :15000000
+Name : godti3i giao dịch với trumpkunai || Time : 2023-02-20 19:45:30 || Item chuyển : [377 Số lượng : 1;313 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : trumpkunai giao dịch với godti3i || Time : 2023-02-20 19:45:30 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[377 Số lượng : 1;313 Số lượng : 1;] Xu nhận :0
+Name : raydutdit giao dịch với dimensity || Time : 2023-02-20 19:47:08 || Item chuyển : [312 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :15000000
+Name : dimensity giao dịch với raydutdit || Time : 2023-02-20 19:47:08 || Item chuyển : [] Xu giao dịch :15000000 || Item Nhận :[312 Số lượng : 1;] Xu nhận :0
+Name : minhphuong giao dịch với trumhack || Time : 2023-02-20 20:02:24 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 376 Số lượng : 1;  743 Số lượng : 1; ] Xu nhận :0
+Name : trumhack giao dịch với minhphuong || Time : 2023-02-20 20:02:24 || Item chuyển : [ 376 Số lượng : 1;  743 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : legend giao dịch với chienthan || Time : 2023-02-20 20:08:17 || Item chuyển : [985 Số lượng : 1;996 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : chienthan giao dịch với legend || Time : 2023-02-20 20:08:17 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[985 Số lượng : 1;996 Số lượng : 1;] Xu nhận :0
+Name : raydutdit giao dịch với legend || Time : 2023-02-20 20:17:12 || Item chuyển : [553 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : legend giao dịch với raydutdit || Time : 2023-02-20 20:17:12 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[553 Số lượng : 1;] Xu nhận :0
+Name : trumnso giao dịch với trumhack || Time : 2023-02-20 20:26:14 || Item chuyển : [455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[ 357 Số lượng : 1; ] Xu nhận :59000000
+Name : trumhack giao dịch với trumnso || Time : 2023-02-20 20:26:14 || Item chuyển : [ 357 Số lượng : 1; ] Xu giao dịch :59000000 || Item Nhận :[455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;455 Số lượng : 1;] Xu nhận :0
+Name : trumclone giao dịch với trumnso || Time : 2023-02-20 20:27:29 || Item chuyển : [] Xu giao dịch :120000000 || Item Nhận :[ 455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1; ] Xu nhận :0
+Name : trumnso giao dịch với trumclone || Time : 2023-02-20 20:27:29 || Item chuyển : [ 455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :120000000
+Name : trumnso giao dịch với chuado || Time : 2023-02-20 20:35:39 || Item chuyển : [456 Số lượng : 1;456 Số lượng : 1;456 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;456 Số lượng : 1;456 Số lượng : 1;456 Số lượng : 1;456 Số lượng : 1;456 Số lượng : 1;456 Số lượng : 1;456 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : chuado giao dịch với trumnso || Time : 2023-02-20 20:35:39 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[456 Số lượng : 1;456 Số lượng : 1;456 Số lượng : 1;457 Số lượng : 1;457 Số lượng : 1;456 Số lượng : 1;456 Số lượng : 1;456 Số lượng : 1;456 Số lượng : 1;456 Số lượng : 1;456 Số lượng : 1;456 Số lượng : 1;] Xu nhận :0
+Name : chuado giao dịch với trumnso || Time : 2023-02-20 20:36:02 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 456 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1;  457 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1; ] Xu nhận :0
+Name : trumnso giao dịch với chuado || Time : 2023-02-20 20:36:02 || Item chuyển : [ 456 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  457 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1;  457 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : chuado giao dịch với trumnso || Time : 2023-02-20 20:37:06 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 456 Số lượng : 1;  457 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1;  457 Số lượng : 1;  456 Số lượng : 1; ] Xu nhận :0
+Name : trumnso giao dịch với chuado || Time : 2023-02-20 20:37:06 || Item chuyển : [ 456 Số lượng : 1;  457 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1;  456 Số lượng : 1;  457 Số lượng : 1;  456 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : chuado giao dịch với trumnso || Time : 2023-02-20 20:37:34 || Item chuyển : [383 Số lượng : 2;] Xu giao dịch :50000000 || Item Nhận :[ 456 Số lượng : 1;  557 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1; ] Xu nhận :0
+Name : trumnso giao dịch với chuado || Time : 2023-02-20 20:37:34 || Item chuyển : [ 456 Số lượng : 1;  557 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1;  455 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[383 Số lượng : 2;] Xu nhận :50000000
+Name : minhphuong giao dịch với trumnso || Time : 2023-02-20 20:41:02 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 370 Số lượng : 1; ] Xu nhận :0
+Name : trumnso giao dịch với minhphuong || Time : 2023-02-20 20:41:02 || Item chuyển : [ 370 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : boss1234 giao dịch với tinhshin11 || Time : 2023-02-20 20:47:27 || Item chuyển : [983 Số lượng : 800;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : tinhshin11 giao dịch với boss1234 || Time : 2023-02-20 20:47:27 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[983 Số lượng : 800;] Xu nhận :0
+Name : upnlsk1 giao dịch với trumhacam || Time : 2023-02-20 20:59:50 || Item chuyển : [641 Số lượng : 1409;638 Số lượng : 1342;639 Số lượng : 1365;640 Số lượng : 1355;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : trumhacam giao dịch với upnlsk1 || Time : 2023-02-20 20:59:50 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[641 Số lượng : 1409;638 Số lượng : 1342;639 Số lượng : 1365;640 Số lượng : 1355;] Xu nhận :0
+Name : upnlsk giao dịch với trumhacam || Time : 2023-02-20 21:00:23 || Item chuyển : [641 Số lượng : 1139;639 Số lượng : 1098;638 Số lượng : 1128;640 Số lượng : 1203;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : trumhacam giao dịch với upnlsk || Time : 2023-02-20 21:00:23 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[641 Số lượng : 1139;639 Số lượng : 1098;638 Số lượng : 1128;640 Số lượng : 1203;] Xu nhận :0
+Name : xuantruong giao dịch với truongmvp || Time : 2023-02-20 21:05:36 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 9 Số lượng : 1;  9 Số lượng : 1;  9 Số lượng : 1;  9 Số lượng : 1; ] Xu nhận :0
+Name : truongmvp giao dịch với xuantruong || Time : 2023-02-20 21:05:36 || Item chuyển : [ 9 Số lượng : 1;  9 Số lượng : 1;  9 Số lượng : 1;  9 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : boychaypho giao dịch với hotgirlxyz || Time : 2023-02-20 21:08:49 || Item chuyển : [383 Số lượng : 2;] Xu giao dịch :50000000 || Item Nhận :[] Xu nhận :0
+Name : hotgirlxyz giao dịch với boychaypho || Time : 2023-02-20 21:08:49 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[383 Số lượng : 2;] Xu nhận :50000000
+Name : upnlsk2 giao dịch với trumhacam || Time : 2023-02-20 21:10:48 || Item chuyển : [640 Số lượng : 455;639 Số lượng : 474;641 Số lượng : 464;638 Số lượng : 471;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : trumhacam giao dịch với upnlsk2 || Time : 2023-02-20 21:10:48 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[640 Số lượng : 455;639 Số lượng : 474;641 Số lượng : 464;638 Số lượng : 471;] Xu nhận :0
+Name : upnlsk giao dịch với trumhacam || Time : 2023-02-20 21:14:44 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 642 Số lượng : 4500;  641 Số lượng : 4676;  639 Số lượng : 4519;  640 Số lượng : 4617;  638 Số lượng : 4553; ] Xu nhận :0
+Name : trumhacam giao dịch với upnlsk || Time : 2023-02-20 21:14:44 || Item chuyển : [ 642 Số lượng : 4500;  641 Số lượng : 4676;  639 Số lượng : 4519;  640 Số lượng : 4617;  638 Số lượng : 4553; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : upnlsk giao dịch với trumnso || Time : 2023-02-20 21:16:16 || Item chuyển : [643 Số lượng : 600;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : trumnso giao dịch với upnlsk || Time : 2023-02-20 21:16:16 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[643 Số lượng : 600;] Xu nhận :0
+Name : tonyteo giao dịch với tonyphong || Time : 2023-02-20 21:21:50 || Item chuyển : [640 Số lượng : 211;641 Số lượng : 201;639 Số lượng : 212;638 Số lượng : 204;] Xu giao dịch :0 || Item Nhận :[ 383 Số lượng : 1; ] Xu nhận :0
+Name : tonyphong giao dịch với tonyteo || Time : 2023-02-20 21:21:50 || Item chuyển : [ 383 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[640 Số lượng : 211;641 Số lượng : 201;639 Số lượng : 212;638 Số lượng : 204;] Xu nhận :0
+Name : raydutdit giao dịch với zxboyzx || Time : 2023-02-20 21:21:58 || Item chuyển : [553 Số lượng : 1;376 Số lượng : 1;312 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : zxboyzx giao dịch với raydutdit || Time : 2023-02-20 21:21:58 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[553 Số lượng : 1;376 Số lượng : 1;312 Số lượng : 1;] Xu nhận :0
+Name : minhphuong giao dịch với clonexx || Time : 2023-02-20 21:22:04 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 383 Số lượng : 2; ] Xu nhận :0
+Name : clonexx giao dịch với minhphuong || Time : 2023-02-20 21:22:04 || Item chuyển : [ 383 Số lượng : 2; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : zio21tvm giao dịch với diotomaudo || Time : 2023-02-20 21:22:22 || Item chuyển : [6 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[ 383 Số lượng : 1;  383 Số lượng : 1; ] Xu nhận :0
+Name : diotomaudo giao dịch với zio21tvm || Time : 2023-02-20 21:22:22 || Item chuyển : [ 383 Số lượng : 1;  383 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[6 Số lượng : 1;] Xu nhận :0
+Name : ninjaheo giao dịch với hotgirlxyz || Time : 2023-02-20 21:26:32 || Item chuyển : [383 Số lượng : 2;340 Số lượng : 1000;801 Số lượng : 1;] Xu giao dịch :50000000 || Item Nhận :[] Xu nhận :0
+Name : hotgirlxyz giao dịch với ninjaheo || Time : 2023-02-20 21:26:32 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[383 Số lượng : 2;340 Số lượng : 1000;801 Số lượng : 1;] Xu nhận :50000000
+Name : hotgirlxyz giao dịch với ninjaheo || Time : 2023-02-20 21:27:22 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :10000000
+Name : ninjaheo giao dịch với hotgirlxyz || Time : 2023-02-20 21:27:22 || Item chuyển : [] Xu giao dịch :10000000 || Item Nhận :[] Xu nhận :0
+Name : zio21tvm giao dịch với diotomaudo || Time : 2023-02-20 21:30:11 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 340 Số lượng : 5000; ] Xu nhận :0
+Name : diotomaudo giao dịch với zio21tvm || Time : 2023-02-20 21:30:11 || Item chuyển : [ 340 Số lượng : 5000; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : hoixamtro giao dịch với hotgirlxyz || Time : 2023-02-20 21:30:37 || Item chuyển : [383 Số lượng : 2;852 Số lượng : 19;648 Số lượng : 19;851 Số lượng : 15;880 Số lượng : 19;853 Số lượng : 15;650 Số lượng : 21;649 Số lượng : 22;651 Số lượng : 23;] Xu giao dịch :60000000 || Item Nhận :[] Xu nhận :0
+Name : hotgirlxyz giao dịch với hoixamtro || Time : 2023-02-20 21:30:37 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[383 Số lượng : 2;852 Số lượng : 19;648 Số lượng : 19;851 Số lượng : 15;880 Số lượng : 19;853 Số lượng : 15;650 Số lượng : 21;649 Số lượng : 22;651 Số lượng : 23;] Xu nhận :60000000
+Name : bimvf555 giao dịch với goodti3u || Time : 2023-02-20 21:32:56 || Item chuyển : [910 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : goodti3u giao dịch với bimvf555 || Time : 2023-02-20 21:32:56 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[910 Số lượng : 1;] Xu nhận :0
+Name : truongmvp giao dịch với xuantruong || Time : 2023-02-20 21:33:10 || Item chuyển : [909 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : xuantruong giao dịch với truongmvp || Time : 2023-02-20 21:33:10 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[909 Số lượng : 1;] Xu nhận :0
+Name : trumnso giao dịch với trumclone || Time : 2023-02-20 21:33:50 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 909 Số lượng : 1; ] Xu nhận :0
+Name : trumclone giao dịch với trumnso || Time : 2023-02-20 21:33:50 || Item chuyển : [ 909 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : tonyteo giao dịch với tonystark || Time : 2023-02-20 21:37:28 || Item chuyển : [317 Số lượng : 1;162 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : tonystark giao dịch với tonyteo || Time : 2023-02-20 21:37:28 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[317 Số lượng : 1;162 Số lượng : 1;] Xu nhận :0
+Name : tonyteo giao dịch với tonyphu || Time : 2023-02-20 21:38:27 || Item chuyển : [132 Số lượng : 1;162 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : tonyphu giao dịch với tonyteo || Time : 2023-02-20 21:38:27 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[132 Số lượng : 1;162 Số lượng : 1;] Xu nhận :0
+Name : tonyphong giao dịch với tonyphu || Time : 2023-02-20 21:40:39 || Item chuyển : [638 Số lượng : 337;640 Số lượng : 369;639 Số lượng : 347;880 Số lượng : 166;879 Số lượng : 132;854 Số lượng : 131;852 Số lượng : 143;851 Số lượng : 137;853 Số lượng : 121;649 Số lượng : 150;651 Số lượng : 133;650 Số lượng : 122;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : tonyphu giao dịch với tonyphong || Time : 2023-02-20 21:40:39 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[638 Số lượng : 337;640 Số lượng : 369;639 Số lượng : 347;880 Số lượng : 166;879 Số lượng : 132;854 Số lượng : 131;852 Số lượng : 143;851 Số lượng : 137;853 Số lượng : 121;649 Số lượng : 150;651 Số lượng : 133;650 Số lượng : 122;] Xu nhận :0
+Name : tonyphu giao dịch với tonyphong || Time : 2023-02-20 21:41:03 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 641 Số lượng : 354;  642 Số lượng : 50;  648 Số lượng : 140; ] Xu nhận :0
+Name : tonyphong giao dịch với tonyphu || Time : 2023-02-20 21:41:03 || Item chuyển : [ 641 Số lượng : 354;  642 Số lượng : 50;  648 Số lượng : 140; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : tonyphu giao dịch với tonystark || Time : 2023-02-20 21:42:47 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 854 Số lượng : 308;  649 Số lượng : 325;  853 Số lượng : 308;  651 Số lượng : 291;  648 Số lượng : 300;  650 Số lượng : 318;  852 Số lượng : 282;  880 Số lượng : 320;  639 Số lượng : 320;  879 Số lượng : 295;  851 Số lượng : 272;  640 Số lượng : 283; ] Xu nhận :0
+Name : tonystark giao dịch với tonyphu || Time : 2023-02-20 21:42:47 || Item chuyển : [ 854 Số lượng : 308;  649 Số lượng : 325;  853 Số lượng : 308;  651 Số lượng : 291;  648 Số lượng : 300;  650 Số lượng : 318;  852 Số lượng : 282;  880 Số lượng : 320;  639 Số lượng : 320;  879 Số lượng : 295;  851 Số lượng : 272;  640 Số lượng : 283; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : tonystark giao dịch với tonyphu || Time : 2023-02-20 21:43:16 || Item chuyển : [638 Số lượng : 275;641 Số lượng : 295;236 Số lượng : 103;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : tonyphu giao dịch với tonystark || Time : 2023-02-20 21:43:16 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[638 Số lượng : 275;641 Số lượng : 295;236 Số lượng : 103;] Xu nhận :0
+Name : tonyteo giao dịch với tonyphu || Time : 2023-02-20 21:44:38 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 650 Số lượng : 569;  651 Số lượng : 522;  851 Số lượng : 533;  649 Số lượng : 588;  879 Số lượng : 556;  854 Số lượng : 551;  880 Số lượng : 612;  853 Số lượng : 558;  852 Số lượng : 543;  648 Số lượng : 547;  236 Số lượng : 103; ] Xu nhận :0
+Name : tonyphu giao dịch với tonyteo || Time : 2023-02-20 21:44:38 || Item chuyển : [ 650 Số lượng : 569;  651 Số lượng : 522;  851 Số lượng : 533;  649 Số lượng : 588;  879 Số lượng : 556;  854 Số lượng : 551;  880 Số lượng : 612;  853 Số lượng : 558;  852 Số lượng : 543;  648 Số lượng : 547;  236 Số lượng : 103; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : xuantruong giao dịch với zio21tvm || Time : 2023-02-20 21:44:39 || Item chuyển : [523 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[ 567 Số lượng : 1; ] Xu nhận :0
+Name : zio21tvm giao dịch với xuantruong || Time : 2023-02-20 21:44:39 || Item chuyển : [ 567 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[523 Số lượng : 1;] Xu nhận :0
+Name : ninjahacam giao dịch với truongmvp || Time : 2023-02-20 21:53:25 || Item chuyển : [638 Số lượng : 249;539 Số lượng : 2;639 Số lượng : 220;640 Số lượng : 220;641 Số lượng : 224;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : truongmvp giao dịch với ninjahacam || Time : 2023-02-20 21:53:25 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[638 Số lượng : 249;539 Số lượng : 2;639 Số lượng : 220;640 Số lượng : 220;641 Số lượng : 224;] Xu nhận :0
+Name : trumblow giao dịch với trumblow1 || Time : 2023-02-20 21:55:29 || Item chuyển : [370 Số lượng : 1;319 Số lượng : 1;317 Số lượng : 1;270 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : trumblow1 giao dịch với trumblow || Time : 2023-02-20 21:55:29 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[370 Số lượng : 1;319 Số lượng : 1;317 Số lượng : 1;270 Số lượng : 1;] Xu nhận :0
+Name : trumblow giao dịch với trumblow1 || Time : 2023-02-20 21:56:04 || Item chuyển : [270 Số lượng : 1;270 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : trumblow1 giao dịch với trumblow || Time : 2023-02-20 21:56:04 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[270 Số lượng : 1;270 Số lượng : 1;] Xu nhận :0
+Name : ninjahacam giao dịch với truongmvp || Time : 2023-02-20 21:56:23 || Item chuyển : [] Xu giao dịch :20000000 || Item Nhận :[] Xu nhận :0
+Name : truongmvp giao dịch với ninjahacam || Time : 2023-02-20 21:56:23 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[] Xu nhận :20000000
+Name : trumblow2 giao dịch với trumblow || Time : 2023-02-20 21:56:35 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 270 Số lượng : 1;  270 Số lượng : 1;  374 Số lượng : 1; ] Xu nhận :0
+Name : trumblow giao dịch với trumblow2 || Time : 2023-02-20 21:56:35 || Item chuyển : [ 270 Số lượng : 1;  270 Số lượng : 1;  374 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : hotgirlxyz giao dịch với bedamdang || Time : 2023-02-20 21:57:14 || Item chuyển : [215 Số lượng : 1;229 Số lượng : 1;283 Số lượng : 1;829 Số lượng : 1;37 Số lượng : 1;248 Số lượng : 1;443 Số lượng : 1;498 Số lượng : 1;340 Số lượng : 177;86 Số lượng : 1;87 Số lượng : 1;88 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : bedamdang giao dịch với hotgirlxyz || Time : 2023-02-20 21:57:14 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[215 Số lượng : 1;229 Số lượng : 1;283 Số lượng : 1;829 Số lượng : 1;37 Số lượng : 1;248 Số lượng : 1;443 Số lượng : 1;498 Số lượng : 1;340 Số lượng : 177;86 Số lượng : 1;87 Số lượng : 1;88 Số lượng : 1;] Xu nhận :0
+Name : bedamdang giao dịch với hotgirlxyz || Time : 2023-02-20 21:58:28 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 742 Số lượng : 1;  768 Số lượng : 11;  502 Số lượng : 1;  852 Số lượng : 36;  383 Số lượng : 6;  340 Số lượng : 1000;  801 Số lượng : 1;  648 Số lượng : 19;  851 Số lượng : 28;  880 Số lượng : 35;  853 Số lượng : 15;  650 Số lượng : 21; ] Xu nhận :0
+Name : hotgirlxyz giao dịch với bedamdang || Time : 2023-02-20 21:58:28 || Item chuyển : [ 742 Số lượng : 1;  768 Số lượng : 11;  502 Số lượng : 1;  852 Số lượng : 36;  383 Số lượng : 6;  340 Số lượng : 1000;  801 Số lượng : 1;  648 Số lượng : 19;  851 Số lượng : 28;  880 Số lượng : 35;  853 Số lượng : 15;  650 Số lượng : 21; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : bedamdang giao dịch với hotgirlxyz || Time : 2023-02-20 21:59:25 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 649 Số lượng : 22;  651 Số lượng : 23;  374 Số lượng : 1;  504 Số lượng : 1;  485 Số lượng : 1;  443 Số lượng : 1;  485 Số lượng : 1;  38 Số lượng : 17;  854 Số lượng : 24;  443 Số lượng : 1;  485 Số lượng : 1;  321 Số lượng : 1; ] Xu nhận :0
+Name : hotgirlxyz giao dịch với bedamdang || Time : 2023-02-20 21:59:25 || Item chuyển : [ 649 Số lượng : 22;  651 Số lượng : 23;  374 Số lượng : 1;  504 Số lượng : 1;  485 Số lượng : 1;  443 Số lượng : 1;  485 Số lượng : 1;  38 Số lượng : 17;  854 Số lượng : 24;  443 Số lượng : 1;  485 Số lượng : 1;  321 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : hotgirlxyz giao dịch với bedamdang || Time : 2023-02-20 21:59:59 || Item chuyển : [93 Số lượng : 1;92 Số lượng : 1;91 Số lượng : 1;90 Số lượng : 1;89 Số lượng : 1;837 Số lượng : 1;569 Số lượng : 1;] Xu giao dịch :229920000 || Item Nhận :[] Xu nhận :0
+Name : bedamdang giao dịch với hotgirlxyz || Time : 2023-02-20 21:59:59 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[93 Số lượng : 1;92 Số lượng : 1;91 Số lượng : 1;90 Số lượng : 1;89 Số lượng : 1;837 Số lượng : 1;569 Số lượng : 1;] Xu nhận :229920000
+Name : dgfdfghfd giao dịch với bedamdang || Time : 2023-02-20 22:00:58 || Item chuyển : [383 Số lượng : 2;852 Số lượng : 14;854 Số lượng : 16;853 Số lượng : 12;639 Số lượng : 13;640 Số lượng : 13;879 Số lượng : 19;638 Số lượng : 19;649 Số lượng : 24;650 Số lượng : 19;880 Số lượng : 14;641 Số lượng : 22;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : bedamdang giao dịch với dgfdfghfd || Time : 2023-02-20 22:00:58 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[383 Số lượng : 2;852 Số lượng : 14;854 Số lượng : 16;853 Số lượng : 12;639 Số lượng : 13;640 Số lượng : 13;879 Số lượng : 19;638 Số lượng : 19;649 Số lượng : 24;650 Số lượng : 19;880 Số lượng : 14;641 Số lượng : 22;] Xu nhận :0
+Name : bedamdang giao dịch với dgfdfghfd || Time : 2023-02-20 22:01:24 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 651 Số lượng : 19;  851 Số lượng : 14;  38 Số lượng : 17;  905 Số lượng : 1;  648 Số lượng : 22; ] Xu nhận :59700000
+Name : dgfdfghfd giao dịch với bedamdang || Time : 2023-02-20 22:01:24 || Item chuyển : [ 651 Số lượng : 19;  851 Số lượng : 14;  38 Số lượng : 17;  905 Số lượng : 1;  648 Số lượng : 22; ] Xu giao dịch :59700000 || Item Nhận :[] Xu nhận :0
+Name : tinhshin11 giao dịch với boss1234 || Time : 2023-02-20 22:02:33 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 909 Số lượng : 1; ] Xu nhận :0
+Name : boss1234 giao dịch với tinhshin11 || Time : 2023-02-20 22:02:33 || Item chuyển : [ 909 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : truongmvp giao dịch với xuantruong || Time : 2023-02-20 22:03:56 || Item chuyển : [643 Số lượng : 100;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : xuantruong giao dịch với truongmvp || Time : 2023-02-20 22:03:56 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[643 Số lượng : 100;] Xu nhận :0
+Name : adyoral giao dịch với dghnzshk || Time : 2023-02-20 22:07:18 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 905 Số lượng : 1; ] Xu nhận :0
+Name : dghnzshk giao dịch với adyoral || Time : 2023-02-20 22:07:18 || Item chuyển : [ 905 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : ilovegirl giao dịch với aladdin || Time : 2023-02-20 22:10:18 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 651 Số lượng : 89;  853 Số lượng : 73;  879 Số lượng : 76;  638 Số lượng : 70;  650 Số lượng : 53;  851 Số lượng : 66;  639 Số lượng : 84;  648 Số lượng : 58;  649 Số lượng : 44;  640 Số lượng : 58;  854 Số lượng : 70;  880 Số lượng : 65; ] Xu nhận :50000000
+Name : aladdin giao dịch với ilovegirl || Time : 2023-02-20 22:10:18 || Item chuyển : [ 651 Số lượng : 89;  853 Số lượng : 73;  879 Số lượng : 76;  638 Số lượng : 70;  650 Số lượng : 53;  851 Số lượng : 66;  639 Số lượng : 84;  648 Số lượng : 58;  649 Số lượng : 44;  640 Số lượng : 58;  854 Số lượng : 70;  880 Số lượng : 65; ] Xu giao dịch :50000000 || Item Nhận :[] Xu nhận :0
+Name : ilovegirl giao dịch với aladdin || Time : 2023-02-20 22:10:47 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 852 Số lượng : 64;  641 Số lượng : 53;  170 Số lượng : 1;  523 Số lượng : 1; ] Xu nhận :0
+Name : aladdin giao dịch với ilovegirl || Time : 2023-02-20 22:10:47 || Item chuyển : [ 852 Số lượng : 64;  641 Số lượng : 53;  170 Số lượng : 1;  523 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : canallsv giao dịch với songoku || Time : 2023-02-20 22:26:24 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 102 Số lượng : 1;  639 Số lượng : 17;  641 Số lượng : 24;  640 Số lượng : 11;  638 Số lượng : 14; ] Xu nhận :0
+Name : songoku giao dịch với canallsv || Time : 2023-02-20 22:26:24 || Item chuyển : [ 102 Số lượng : 1;  639 Số lượng : 17;  641 Số lượng : 24;  640 Số lượng : 11;  638 Số lượng : 14; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : chichi giao dịch với canallsv || Time : 2023-02-20 22:27:16 || Item chuyển : [640 Số lượng : 7;641 Số lượng : 4;638 Số lượng : 3;639 Số lượng : 10;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : canallsv giao dịch với chichi || Time : 2023-02-20 22:27:16 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[640 Số lượng : 7;641 Số lượng : 4;638 Số lượng : 3;639 Số lượng : 10;] Xu nhận :0
+Name : tonyphu giao dịch với tonyphong || Time : 2023-02-20 22:27:28 || Item chuyển : [523 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : tonyphong giao dịch với tonyphu || Time : 2023-02-20 22:27:28 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[523 Số lượng : 1;] Xu nhận :0
+Name : dfffdg giao dịch với sonic150r || Time : 2023-02-20 22:36:46 || Item chuyển : [505 Số lượng : 1;5 Số lượng : 1;5 Số lượng : 1;370 Số lượng : 1;505 Số lượng : 1;319 Số lượng : 1;4 Số lượng : 1;4 Số lượng : 1;4 Số lượng : 1;7 Số lượng : 1;5 Số lượng : 1;5 Số lượng : 1;] Xu giao dịch :10000000 || Item Nhận :[] Xu nhận :0
+Name : sonic150r giao dịch với dfffdg || Time : 2023-02-20 22:36:46 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[505 Số lượng : 1;5 Số lượng : 1;5 Số lượng : 1;370 Số lượng : 1;505 Số lượng : 1;319 Số lượng : 1;4 Số lượng : 1;4 Số lượng : 1;4 Số lượng : 1;7 Số lượng : 1;5 Số lượng : 1;5 Số lượng : 1;] Xu nhận :10000000
+Name : tonyphu giao dịch với tonystark || Time : 2023-02-20 22:37:54 || Item chuyển : [523 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : tonystark giao dịch với tonyphu || Time : 2023-02-20 22:37:54 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[523 Số lượng : 1;] Xu nhận :0
+Name : dfffdg giao dịch với s2sbeats2s || Time : 2023-02-20 22:38:42 || Item chuyển : [494 Số lượng : 1;499 Số lượng : 1;321 Số lượng : 1;317 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : s2sbeats2s giao dịch với dfffdg || Time : 2023-02-20 22:38:42 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[494 Số lượng : 1;499 Số lượng : 1;321 Số lượng : 1;317 Số lượng : 1;] Xu nhận :0
+Name : dfffdg giao dịch với agumon || Time : 2023-02-20 22:50:19 || Item chuyển : [336 Số lượng : 1;511 Số lượng : 1;317 Số lượng : 1;328 Số lượng : 1;319 Số lượng : 1;324 Số lượng : 1;320 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : agumon giao dịch với dfffdg || Time : 2023-02-20 22:50:19 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[336 Số lượng : 1;511 Số lượng : 1;317 Số lượng : 1;328 Số lượng : 1;319 Số lượng : 1;324 Số lượng : 1;320 Số lượng : 1;] Xu nhận :0
+Name : dfffdg giao dịch với sonic150r || Time : 2023-02-20 23:02:27 || Item chuyển : [322 Số lượng : 1;332 Số lượng : 1;507 Số lượng : 1;523 Số lượng : 1;] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : sonic150r giao dịch với dfffdg || Time : 2023-02-20 23:02:27 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[322 Số lượng : 1;332 Số lượng : 1;507 Số lượng : 1;523 Số lượng : 1;] Xu nhận :0
+Name : s2sbeats2s giao dịch với dfffdg || Time : 2023-02-20 23:05:04 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 371 Số lượng : 1;  502 Số lượng : 1;  9 Số lượng : 1;  9 Số lượng : 1;  523 Số lượng : 1;  8 Số lượng : 1;  8 Số lượng : 1;  8 Số lượng : 1; ] Xu nhận :0
+Name : dfffdg giao dịch với s2sbeats2s || Time : 2023-02-20 23:05:04 || Item chuyển : [ 371 Số lượng : 1;  502 Số lượng : 1;  9 Số lượng : 1;  9 Số lượng : 1;  523 Số lượng : 1;  8 Số lượng : 1;  8 Số lượng : 1;  8 Số lượng : 1; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : small23 giao dịch với sonic150r || Time : 2023-02-20 23:12:10 || Item chuyển : [383 Số lượng : 3;879 Số lượng : 532;851 Số lượng : 510;854 Số lượng : 499;638 Số lượng : 493;641 Số lượng : 538;880 Số lượng : 507;650 Số lượng : 488;853 Số lượng : 503;852 Số lượng : 506;648 Số lượng : 527;649 Số lượng : 492;] Xu giao dịch :99840000 || Item Nhận :[] Xu nhận :0
+Name : sonic150r giao dịch với small23 || Time : 2023-02-20 23:12:10 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[383 Số lượng : 3;879 Số lượng : 532;851 Số lượng : 510;854 Số lượng : 499;638 Số lượng : 493;641 Số lượng : 538;880 Số lượng : 507;650 Số lượng : 488;853 Số lượng : 503;852 Số lượng : 506;648 Số lượng : 527;649 Số lượng : 492;] Xu nhận :99840000
+Name : tonyteo113 giao dịch với tonystark || Time : 2023-02-20 23:22:56 || Item chuyển : [340 Số lượng : 5000;383 Số lượng : 2;] Xu giao dịch :50000000 || Item Nhận :[] Xu nhận :0
+Name : tonystark giao dịch với tonyteo113 || Time : 2023-02-20 23:22:56 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[340 Số lượng : 5000;383 Số lượng : 2;] Xu nhận :50000000
+Name : tonyteo114 giao dịch với tonystark || Time : 2023-02-20 23:33:31 || Item chuyển : [383 Số lượng : 2;] Xu giao dịch :50000000 || Item Nhận :[] Xu nhận :0
+Name : tonystark giao dịch với tonyteo114 || Time : 2023-02-20 23:33:31 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[383 Số lượng : 2;] Xu nhận :50000000
+Name : tonyteo giao dịch với tonystark || Time : 2023-02-20 23:34:02 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 383 Số lượng : 4; ] Xu nhận :0
+Name : tonystark giao dịch với tonyteo || Time : 2023-02-20 23:34:02 || Item chuyển : [ 383 Số lượng : 4; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0
+Name : boizodayboi giao dịch với bohetzday || Time : 2023-02-20 23:42:16 || Item chuyển : [] Xu giao dịch :0 || Item Nhận :[ 130 Số lượng : 1;  638 Số lượng : 36;  640 Số lượng : 48;  641 Số lượng : 38;  639 Số lượng : 37; ] Xu nhận :0
+Name : bohetzday giao dịch với boizodayboi || Time : 2023-02-20 23:42:16 || Item chuyển : [ 130 Số lượng : 1;  638 Số lượng : 36;  640 Số lượng : 48;  641 Số lượng : 38;  639 Số lượng : 37; ] Xu giao dịch :0 || Item Nhận :[] Xu nhận :0

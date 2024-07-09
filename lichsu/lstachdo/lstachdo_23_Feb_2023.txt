@@ -1,0 +1,11 @@
+Name : tinhshin11 đã tách vật phẩm || Vật phẩm tách: 983 || Số lượng vật phẩm ban đầu 42290 || Số lượng tách: 200 || Số lượng vật phẩm sau khi tách: 42090 và 200|| Thời gian tách : 2023-02-23 07:12:52
+Name : ikaros đã tách vật phẩm || Vật phẩm tách: 38 || Số lượng vật phẩm ban đầu 1634 || Số lượng tách: 100 || Số lượng vật phẩm sau khi tách: 1534 và 100|| Thời gian tách : 2023-02-23 07:36:10
+Name : tonyteo đã tách vật phẩm || Vật phẩm tách: 540 || Số lượng vật phẩm ban đầu 5 || Số lượng tách: 3 || Số lượng vật phẩm sau khi tách: 2 và 3|| Thời gian tách : 2023-02-23 09:18:50
+Name : nanttaj đã tách vật phẩm || Vật phẩm tách: 540 || Số lượng vật phẩm ban đầu 18 || Số lượng tách: 3 || Số lượng vật phẩm sau khi tách: 15 và 3|| Thời gian tách : 2023-02-23 11:27:04
+Name : nanttaj đã tách vật phẩm || Vật phẩm tách: 540 || Số lượng vật phẩm ban đầu 15 || Số lượng tách: 3 || Số lượng vật phẩm sau khi tách: 12 và 3|| Thời gian tách : 2023-02-23 11:27:07
+Name : sadboy đã tách vật phẩm || Vật phẩm tách: 540 || Số lượng vật phẩm ban đầu 5 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 4 và 1|| Thời gian tách : 2023-02-23 12:39:41
+Name : vailoz đã tách vật phẩm || Vật phẩm tách: 540 || Số lượng vật phẩm ban đầu 8 || Số lượng tách: 4 || Số lượng vật phẩm sau khi tách: 4 và 4|| Thời gian tách : 2023-02-23 18:57:20
+Name : chanbedu đã tách vật phẩm || Vật phẩm tách: 38 || Số lượng vật phẩm ban đầu 227 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 226 và 1|| Thời gian tách : 2023-02-23 19:12:22
+Name : mobifone đã tách vật phẩm || Vật phẩm tách: 540 || Số lượng vật phẩm ban đầu 18 || Số lượng tách: 5 || Số lượng vật phẩm sau khi tách: 13 và 5|| Thời gian tách : 2023-02-23 19:46:07
+Name : sadboy đã tách vật phẩm || Vật phẩm tách: 540 || Số lượng vật phẩm ban đầu 4 || Số lượng tách: 1 || Số lượng vật phẩm sau khi tách: 3 và 1|| Thời gian tách : 2023-02-23 20:43:03
+Name : chienthan đã tách vật phẩm || Vật phẩm tách: 540 || Số lượng vật phẩm ban đầu 1127 || Số lượng tách: 500 || Số lượng vật phẩm sau khi tách: 627 và 500|| Thời gian tách : 2023-02-23 21:44:08

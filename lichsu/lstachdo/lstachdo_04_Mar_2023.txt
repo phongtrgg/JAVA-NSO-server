@@ -1,0 +1,15 @@
+Name : toptieu01 đã tách vật phẩm || Vật phẩm tách: 540 || Số lượng vật phẩm ban đầu 13 || Số lượng tách: 4 || Số lượng vật phẩm sau khi tách: 9 và 4|| Thời gian tách : 2023-03-04 07:21:27
+Name : toptieu01 đã tách vật phẩm || Vật phẩm tách: 540 || Số lượng vật phẩm ban đầu 9 || Số lượng tách: 4 || Số lượng vật phẩm sau khi tách: 5 và 4|| Thời gian tách : 2023-03-04 07:21:33
+Name : inosuke đã tách vật phẩm || Vật phẩm tách: 638 || Số lượng vật phẩm ban đầu 42914 || Số lượng tách: 25000 || Số lượng vật phẩm sau khi tách: 17914 và 25000|| Thời gian tách : 2023-03-04 08:35:34
+Name : inosuke đã tách vật phẩm || Vật phẩm tách: 641 || Số lượng vật phẩm ban đầu 42899 || Số lượng tách: 25000 || Số lượng vật phẩm sau khi tách: 17899 và 25000|| Thời gian tách : 2023-03-04 08:35:38
+Name : inosuke đã tách vật phẩm || Vật phẩm tách: 639 || Số lượng vật phẩm ban đầu 43155 || Số lượng tách: 25000 || Số lượng vật phẩm sau khi tách: 18155 và 25000|| Thời gian tách : 2023-03-04 08:35:44
+Name : inosuke đã tách vật phẩm || Vật phẩm tách: 640 || Số lượng vật phẩm ban đầu 42802 || Số lượng tách: 25000 || Số lượng vật phẩm sau khi tách: 17802 và 25000|| Thời gian tách : 2023-03-04 08:35:50
+Name : predators đã tách vật phẩm || Vật phẩm tách: 651 || Số lượng vật phẩm ban đầu 34213 || Số lượng tách: 245 || Số lượng vật phẩm sau khi tách: 33968 và 245|| Thời gian tách : 2023-03-04 10:51:57
+Name : predators đã tách vật phẩm || Vật phẩm tách: 649 || Số lượng vật phẩm ban đầu 33602 || Số lượng tách: 200 || Số lượng vật phẩm sau khi tách: 33402 và 200|| Thời gian tách : 2023-03-04 10:52:02
+Name : predators đã tách vật phẩm || Vật phẩm tách: 650 || Số lượng vật phẩm ban đầu 33387 || Số lượng tách: 400 || Số lượng vật phẩm sau khi tách: 32987 và 400|| Thời gian tách : 2023-03-04 10:52:09
+Name : predators đã tách vật phẩm || Vật phẩm tách: 648 || Số lượng vật phẩm ban đầu 17808 || Số lượng tách: 400 || Số lượng vật phẩm sau khi tách: 17408 và 400|| Thời gian tách : 2023-03-04 10:52:13
+Name : predators đã tách vật phẩm || Vật phẩm tách: 651 || Số lượng vật phẩm ban đầu 44272 || Số lượng tách: 30000 || Số lượng vật phẩm sau khi tách: 14272 và 30000|| Thời gian tách : 2023-03-04 11:16:53
+Name : predators đã tách vật phẩm || Vật phẩm tách: 649 || Số lượng vật phẩm ban đầu 43922 || Số lượng tách: 30000 || Số lượng vật phẩm sau khi tách: 13922 và 30000|| Thời gian tách : 2023-03-04 11:16:57
+Name : predators đã tách vật phẩm || Vật phẩm tách: 650 || Số lượng vật phẩm ban đầu 43521 || Số lượng tách: 30000 || Số lượng vật phẩm sau khi tách: 13521 và 30000|| Thời gian tách : 2023-03-04 11:17:01
+Name : hokage đã tách vật phẩm || Vật phẩm tách: 540 || Số lượng vật phẩm ban đầu 488 || Số lượng tách: 100 || Số lượng vật phẩm sau khi tách: 388 và 100|| Thời gian tách : 2023-03-04 12:28:03
+Name : predators đã tách vật phẩm || Vật phẩm tách: 276 || Số lượng vật phẩm ban đầu 528 || Số lượng tách: 20 || Số lượng vật phẩm sau khi tách: 508 và 20|| Thời gian tách : 2023-03-04 14:26:21

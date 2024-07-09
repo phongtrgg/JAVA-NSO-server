@@ -1,0 +1,3 @@
+Name : shadowpro đã tách vật phẩm || Vật phẩm tách: 392 || Số lượng vật phẩm ban đầu 20 || Số lượng tách: 5 || Số lượng vật phẩm sau khi tách: 15 và 5|| Thời gian tách : 2023-03-07 20:28:58
+Name : promaxx đã tách vật phẩm || Vật phẩm tách: 395 || Số lượng vật phẩm ban đầu 6280 || Số lượng tách: 150 || Số lượng vật phẩm sau khi tách: 6130 và 150|| Thời gian tách : 2023-03-07 22:11:48
+Name : promaxx đã tách vật phẩm || Vật phẩm tách: 395 || Số lượng vật phẩm ban đầu 6280 || Số lượng tách: 100 || Số lượng vật phẩm sau khi tách: 6180 và 100|| Thời gian tách : 2023-03-07 22:12:02
