@@ -978,55 +978,70 @@ public class Menu {
         switch (menuId) {
             
             case 0: {
-             if (p.c.isNhanban) {
-                    p.conn.sendMessageLog(Language.NOT_FOR_PHAN_THAN);
-                    return;
-                }
-                if (p.c.coin > 0 ) {
-                    p.conn.sendMessageLog("con đã nhận rồi . tham quá đel tốt nhe con");
-                    return;
-                }
-                Server.manager.sendTB(p, "Hướng dẫn", "- con hãy mạng coin của ta mà đi mua đồ đi nhé " + "\n"
-                        + "- còn mua ở đâu thì : "
-                        + "\n 1 là con lên web shop tại nsoblow.com"
-                        + "\n 2 là con chạy qua bên trái 1 tý là thấy nhé"
-                        + "\n giờ thì đếm 1 đến 10s ta sẽ đá con ra ngoài để cộng coin nhé bye");
-                p.c.coin += 1;
-                p.coin += 180000;
-                SQLManager.stat.executeUpdate("UPDATE `player` SET `coin`=" + p.coin + " WHERE `id`=" + p.id + " LIMIT 1;");
-                Service.chatKTG( "Hệ Thống " +"Wao npc BLOW vừa tặng "+ p.c.name + " 180k coin . mng hãy đến npc BLOW nhận đi nào");
-                int TimeSeconds =10 ;
-                    while (TimeSeconds > 0) {
-                            TimeSeconds--;
-                            Thread.sleep(1000);
-                            }
-                            Client.gI().kickSession(p.conn);
+            //  if (p.c.isNhanban) {
+            //         p.conn.sendMessageLog(Language.NOT_FOR_PHAN_THAN);
+            //         return;
+            //     }
+            //     if (p.c.coin > 0 ) {
+            //         p.conn.sendMessageLog("con đã nhận rồi . tham quá đel tốt nhe con");
+            //         return;
+            //     }
+            //     Server.manager.sendTB(p, "Hướng dẫn", "- con hãy mạng coin của ta mà đi mua đồ đi nhé " + "\n"
+            //             + "- còn mua ở đâu thì : "
+            //             + "\n 1 là con lên web shop tại nsoblow.com"
+            //             + "\n 2 là con chạy qua bên trái 1 tý là thấy nhé"
+            //             + "\n giờ thì đếm 1 đến 10s ta sẽ đá con ra ngoài để cộng coin nhé bye");
+            //     p.c.coin += 1;
+            //     p.coin += 180000;
+            //     SQLManager.stat.executeUpdate("UPDATE `player` SET `coin`=" + p.coin + " WHERE `id`=" + p.id + " LIMIT 1;");
+            //     Service.chatKTG( "Hệ Thống " +"Wao npc BLOW vừa tặng "+ p.c.name + " 180k coin . mng hãy đến npc BLOW nhận đi nào");
+            //     int TimeSeconds =10 ;
+            //         while (TimeSeconds > 0) {
+            //                 TimeSeconds--;
+            //                 Thread.sleep(1000);
+            //                 }
+            //                 Client.gI().kickSession(p.conn);
+            Locale localeEN = new Locale("en", "EN");
+            NumberFormat en = NumberFormat.getInstance(localeEN);
+            Server.manager.sendTB(p, "NsoBlow",
+                    " - TÀI KHOẢN : " + p.username
+                    + "\n+ tên nhân vật : " + p.c.name
+                    + "\n+ Level : " + p.c.level
+                    + "\n+ Hp : " + en.format(p.c.getMaxHP())
+                    + "\n+ Mp : " + en.format(p.c.getMaxMP())
+                    + "\n- TẤN CÔNG : " + en.format(p.c.dameMin()) + " - " + en.format(p.c.dameMax())
+                    + "\n+ số hành trang có  : " + p.c.maxluggage
+                    + "\n+ coin : " + en.format(p.coin)
+                    + "\n+ Lượng : " + en.format(p.luong)
+                    + "\n+ Xu : " + en.format(p.c.xu)
+                    + "\n+ Yên : " + en.format(p.c.yen)
+                    + "\n - TIỀN NĂNG\n"
+                    + "    + Sức mạnh : " + en.format(p.c.potential0)
+                    + "\n    + Thân pháp : " + en.format(p.c.potential1)
+                    + "\n    + Thể lực : " + en.format(p.c.potential2)
+                    + "\n    + Charka : " + en.format(p.c.potential3)
+                    + "\n+ Chính Xác : " + en.format(p.c.Exactly())
+                    + "\n+ Né : " + en.format(p.c.Miss())
+            );
             break;
                     }
             
             case 1: {
-                Locale localeEN = new Locale("en", "EN");
-                NumberFormat en = NumberFormat.getInstance(localeEN);
-                Server.manager.sendTB(p, "NsoBlow",
-                        " - TÀI KHOẢN : " + p.username
-                        + "\n+ tên nhân vật : " + p.c.name
-                        + "\n+ Level : " + p.c.level
-                        + "\n+ Hp : " + en.format(p.c.getMaxHP())
-                        + "\n+ Mp : " + en.format(p.c.getMaxMP())
-                        + "\n- TẤN CÔNG : " + en.format(p.c.dameMin()) + " - " + en.format(p.c.dameMax())
-                        + "\n+ số hành trang có  : " + p.c.maxluggage
-                        + "\n+ coin : " + en.format(p.coin)
-                        + "\n+ Lượng : " + en.format(p.luong)
-                        + "\n+ Xu : " + en.format(p.c.xu)
-                        + "\n+ Yên : " + en.format(p.c.yen)
-                        + "\n - TIỀN NĂNG\n"
-                        + "    + Sức mạnh : " + en.format(p.c.potential0)
-                        + "\n    + Thân pháp : " + en.format(p.c.potential1)
-                        + "\n    + Thể lực : " + en.format(p.c.potential2)
-                        + "\n    + Charka : " + en.format(p.c.potential3)
-                        + "\n+ Chính Xác : " + en.format(p.c.Exactly())
-                        + "\n+ Né : " + en.format(p.c.Miss())
-                );
+              
+                if (p.luong <5000000){
+                    Service.chatNPC(p, (short) npcid, "Nhân vật phải có 5.000.000 lượng");
+                    return;}
+                if (p.c.isNhanban) {
+                Service.chatNPC(p, (short) npcid, "Không Dành cho Thứ thân");
+                return;
+                }
+                if(p.c.level < 130 ){
+                    Service.chatNPC(p, (short) npcid, "Con Chưa Đạt Level 130 Hãy Thăm Ngàn Rồi Quay Lại Đây ");
+                    return;
+                }
+                p.luongMessage(-5000000L);
+                p.updateExp(Level.getMaxExp(1)-p.c.exp);
+                Manager.chatKTG("Chúc Mừng người chơi " + p.c.name +  " Chuyển sinh về level 1 rồi Lưu ý là chuyển sinh rồi không được tẩy tn và chuyển phái nhé không là còn cái nịt");
                 break;
             }
             
@@ -1040,10 +1055,10 @@ public class Menu {
                         p.upluongMessage(250L);
                         p.c.luongTN += 250L;
                     } else {
-                        p.upluongMessage(50000L);
+                        p.upluongMessage(2000L);
                     }
                     p.c.isDiemDanh = 1;
-                    Service.chatNPC(p, Short.valueOf(npcid), "Điểm danh thành công, con nhận được 50000 lượng.");
+                    Service.chatNPC(p, Short.valueOf(npcid), "Điểm danh thành công, con nhận được 2000 lượng.");
                     break;
                 }
                 Service.chatNPC(p, Short.valueOf(npcid), "Hôm nay con đã điểm danh rồi, hãy quay lại vào ngày hôm sau nha!");
@@ -1062,13 +1077,13 @@ public class Menu {
 
                 if (p.c.countHangDong >= 2) {
                     if (p.status == 1) {
-                        p.upluongMessage(750L);
-                        p.c.luongTN += 750;
+                        p.upluongMessage(500L);
+                        p.c.luongTN += 500;
                     } else {
-                        p.upluongMessage(10000L);
+                        p.upluongMessage(1000L);
                     }
                     p.c.isQuaHangDong = 1;
-                    Service.chatNPC(p, (short) npcid, "Nhận quà hoàn thành hang động thành công, con nhận được 10000 lượng.");
+                    Service.chatNPC(p, (short) npcid, "Nhận quà hoàn thành hang động thành công, con nhận được 1000 lượng.");
                 } else if (p.c.countHangDong < 2) {
                     Service.chatNPC(p, (short) npcid, "Con chưa hoàn thành đủ 2 lần đi hang động, hãy hoàn thành đủ 2 lần và quay lại gặp ta đã nhận thường");
                 }
@@ -1088,7 +1103,7 @@ public class Menu {
                 if (p.c.level == 1) {
                     p.updateExp(Level.getMaxExp(10));
                     if (p.status == 1) {
-                        p.upluongMessage(100000L);
+                        p.upluongMessage(5000L);
                         p.c.upxuMessage(25000000L);
                         p.c.upyenMessage(25000000L);
                         p.c.luongTN += 10000;
@@ -1098,7 +1113,7 @@ public class Menu {
                         p.c.addItemBag(false, ItemTemplate.itemDefault(539, true));
                         p.c.addItemBag(false, ItemTemplate.itemDefault(383, false));
                     } else {
-                        p.upluongMessage(20000L);
+                        p.upluongMessage(10000L);
                         p.c.upxuMessage(50000000L);
                         p.c.upyenMessage(50000000L);
                         p.c.addItemBag(false, ItemTemplate.itemDefault(222, true));
@@ -1124,10 +1139,10 @@ public class Menu {
                     Service.chatNPC(p, (short) npcid, Language.NOT_FOR_PHAN_THAN);
                     return;
                 }
-                if (p.c.level == 1) {
-                    p.conn.sendMessageLog("Không thể thực hiện thao tác này..");
-                    return;
-                }
+                // if (p.c.level == 1) {
+                //     p.conn.sendMessageLog("Không thể thực hiện thao tác này..");
+                //     return;
+                // }
                 if (p.c.get().exptype == 1) {
                     p.c.get().exptype = 0;
                     p.sendAddchatYellow("Đã tắt nhận exp.");
@@ -1277,7 +1292,9 @@ public class Menu {
                 break;
             }
             case 8: {
-                Server.manager.sendTB(p, "Hướng dẫn", "- Vừa vào chơi, hãy đến chỗ ta nhận quà tân thủ bao gồm: 50tr xu, 20k lượng, 50tr yên \n- Mỗi ngày con được điềm danh hàng ngày 1 lần và nhận 50000 lượng \n- Nếu mỗi ngày hoàn thành hang động đủ 2 lần con hãy đến chỗ ta và Nhận quà hang động để nhận 10000 lượng\n\n** Lưu ý, nếu là tài khoản trải nghiệm, con chỉ có thể nhận được 1 nửa phần thường từ ta.");
+                Server.manager.sendTB(p, "Hướng dẫn", "- Vừa vào chơi, hãy đến chỗ ta nhận quà tân thủ bao gồm: 50tr xu, 10k lượng, 50tr yên \n- Mỗi ngày con được điềm danh hàng ngày 1 lần và nhận 2000 lượng \n- Nếu mỗi ngày hoàn thành hang động đủ 2 lần con hãy đến chỗ ta và Nhận quà hang động để nhận 1000 lượng\n\n** Lưu ý, nếu là tài khoản trải nghiệm, con chỉ có thể nhận được 1 nửa phần thường từ ta.\\n" + //
+                                        "\\n" + //
+                                        "Chuyển sinh cần ít nhất lv130 và 5tr lượng , lưu ý không tẩy tiềm năng");
                 break;
             }
         }
