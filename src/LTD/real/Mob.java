@@ -210,6 +210,8 @@ public class Mob {
         if (this.templates.id == 0 && _char.isTaskDanhVong == 1 && _char.taskDanhVong[0] == 6) {
             _char.taskDanhVong[1] = _char.taskDanhVong[1] + 1;
             if (_char.c.taskDanhVong[1] == _char.c.taskDanhVong[2]) {
+                _char.p.upluongMessage(100);
+                _char.p.sendAddchatYellow("Bạn nhận được 100 lượng");
                 _char.p.sendAddchatYellow("Bạn đã hoàn thành nhiệm vụ danh vọng.");
             }
         }
@@ -246,6 +248,8 @@ public class Mob {
                 this.tileMap.map.lanhDiaGiaToc.clanManager.upExp(50);
             } else if (this.lvboss == 1 && this.templates.id != 81) {
                 this.isRefresh = false;
+                _char.p.upluongMessage(200);
+                _char.p.sendAddchatYellow("Bạn nhận được 200 lượng");
                 ItemLeave.leaveChiaKhoa(this.tileMap, this, -1);
                 this.tileMap.map.lanhDiaGiaToc.plusPoint(2);
                 this.tileMap.map.lanhDiaGiaToc.clanManager.upExp(100);
@@ -265,6 +269,8 @@ public class Mob {
                 ItemLeave.leaveYen(this.tileMap, this, -1);
                 ItemLeave.leaveYen(this.tileMap, this, -1);
                 ItemLeave.leaveLDGT(this.tileMap, this, -1);
+                _char.p.upluongMessage(1000);
+                _char.p.sendAddchatYellow("Bạn nhận được 1000 lượng");
                 this.tileMap.map.lanhDiaGiaToc.finish();
                 this.tileMap.map.lanhDiaGiaToc.clanManager.upExp(300);
                 this.tileMap.map.lanhDiaGiaToc.plusPoint(3);
@@ -279,7 +285,7 @@ public class Mob {
         } else if (this.level > 1) {
             if (this.tileMap.map.cave != null) {
                 if (this.isboss) {
-                    this.tileMap.map.cave.updatePoint(50);
+                    this.tileMap.map.cave.updatePoint(100);
                 } else if (this.lvboss == 2) {
                     this.tileMap.map.cave.updatePoint(20);
                 } else if (this.lvboss == 1) {
@@ -315,17 +321,20 @@ public class Mob {
                             _char.taskTaThu[1] = _char.taskTaThu[1] + 1;
                             Service.updateTaskOrder(_char, (byte) 1);
                             pl.c.taskTaThu[1] = pl.c.taskTaThu[1] + 1;
+                            _char.p.upluongMessage(100);
                             Service.updateTaskOrder(pl.c, (byte) 1);
                         }
                     }
                 } else {
                     _char.taskTaThu[1] = _char.taskTaThu[1] + 1;
+                    _char.p.upluongMessage(100);
                     Service.updateTaskOrder(_char, (byte) 1);
                 }
             }
             if (_char.isTaskDanhVong == 1 && _char.taskDanhVong[0] == 7 && Math.abs(this.level - _char.get().level) <= 10) {
                 _char.taskDanhVong[1] = _char.taskDanhVong[1] + 1;
                 if (_char.c.taskDanhVong[1] == _char.c.taskDanhVong[2]) {
+                    _char.p.upluongMessage(100);
                     _char.p.sendAddchatYellow("Bạn đã hoàn thành nhiệm vụ danh vọng.");
                 }
             }
@@ -335,6 +344,7 @@ public class Mob {
                 if (_char.isTaskDanhVong == 1 && _char.taskDanhVong[0] == 8 && Math.abs(this.level - _char.get().level) <= 10) {
                     _char.taskDanhVong[1] = _char.taskDanhVong[1] + 1;
                     if (_char.c.taskDanhVong[1] == _char.c.taskDanhVong[2]) {
+                        _char.p.upluongMessage(100);
                         _char.p.sendAddchatYellow("Bạn đã hoàn thành nhiệm vụ danh vọng.");
                     }
                 }
@@ -343,6 +353,7 @@ public class Mob {
                 if (_char.isTaskDanhVong == 1 && _char.taskDanhVong[0] == 9 && Math.abs(this.level - _char.get().level) <= 10) {
                     _char.taskDanhVong[1] = _char.taskDanhVong[1] + 1;
                     if (_char.c.taskDanhVong[1] == _char.c.taskDanhVong[2]) {
+                        _char.p.upluongMessage(100);
                         _char.p.sendAddchatYellow("Bạn đã hoàn thành nhiệm vụ danh vọng.");
                     }
                 }
@@ -375,6 +386,8 @@ public class Mob {
                     if (_char.lvbht < 9) {
                         _char.expbht += 2000L;
                     }
+                    _char.p.upluongMessage(200);
+                    _char.p.sendAddchatYellow("Bạn nhận được 200 lượng");
                     _char.upyenMessage(10000);
                     _char.p.sendAddchatYellow("Bạn nhận được 10000 yên");
                 } else if (this.lvboss == 2) {
@@ -389,6 +402,8 @@ public class Mob {
                     if (_char.lvbht < 9) {
                         _char.expbht += 4000L;
                     }
+                    _char.p.upluongMessage(400);
+                    _char.p.sendAddchatYellow("Bạn nhận được 400 lượng");
                     _char.upyenMessage(20000);
                     _char.p.sendAddchatYellow("Bạn nhận được 20000 yên");
                 }
@@ -400,14 +415,22 @@ public class Mob {
                     itemup1.isLock = true;
                     _char.addItemBag(true, itemup);
                     _char.addItemBag(true, itemup1);
+                    _char.p.upluongMessage(1);
+                    _char.p.sendAddchatYellow("Bạn nhận được 1 lượng");
+                    _char.upxuMessage(50);
+                    _char.p.sendAddchatYellow("Bạn nhận được 50 xu");
                 }
             }
             byte tile = (byte) Util.nextInt(1, 100);
             if (this.lvboss == 1) {
+                _char.p.upluongMessage(30);
                 _char.upyenMessage(1000);
+                _char.p.sendAddchatYellow("Bạn nhận được 30 lượng");
                 _char.p.sendAddchatYellow("Bạn nhận được 1000 yên");
             } else if (this.lvboss == 2) {
+                _char.p.upluongMessage(50);
                 _char.upyenMessage(2000);
+                _char.p.sendAddchatYellow("Bạn nhận được 50 lượng");
                 _char.p.sendAddchatYellow("Bạn nhận được 2000 yên");
             }
             if (this.tileMap.map.VDMQ() && (_char.get().getEffId(40) != null || _char.get().getEffId(41) != null) && Math.abs(this.level - _char.get().level) <= 10) {
@@ -415,11 +438,13 @@ public class Mob {
             } else if (this.tileMap.map.LangCo()) {
                 ItemLeave.randomLeave(this.tileMap, this, master, Util.nextInt(1, 3), 1);
                 if (this.lvboss == 2) {
+                    _char.p.upluongMessage(400);
                     ItemLeave.leaveTTTT(this.tileMap, this, master);
                 }
             } else if (this.tileMap.map.TruyenThuyet()) {
                 ItemLeave.randomLeave(this.tileMap, this, master, Util.nextInt(1, 3), 1);
                 if (this.lvboss == 2) {
+                    _char.p.upluongMessage(800);
                     ItemLeave.leaveTTTT(this.tileMap, this, master);
                 }
             } else if (this.tileMap.map.LTDMap()) {
@@ -445,6 +470,7 @@ public class Mob {
                         short idI = ItemLeave.Ltd2[Util.nextInt(ItemLeave.Ltd2.length)];
                         Item itemup = ItemTemplate.itemDefault(idI);
                         itemup.isLock = itemup.isLock;
+                        _char.p.upluongMessage(400);
                         _char.addItemBag(true, itemup);
                     }
                     ItemLeave.leaveTLTT(this.tileMap, this, master);
@@ -472,7 +498,7 @@ public class Mob {
                     Item itemup = ItemTemplate.itemDefault(idI);
                     itemup.isLock = itemup.isLock;
                     _char.addItemBag(true, itemup);
-
+                    _char.p.upluongMessage(400);
                     Item itemup1 = ItemTemplate.itemDefault(704);
                     itemup1.isLock = itemup1.isLock;
                     _char.addItemBag(true, itemup1);
@@ -490,6 +516,9 @@ public class Mob {
                         _char.exphnt += 6000L;
                         _char.expbht += 6000L;
                     }
+                    _char.p.upluongMessage(50000);
+                    _char.upxuMessage(2500000);
+                    _char.bingo += 15;
                     Service.chatKTG(_char.name + " đã đập chết " + this.templates.name);
                     _char.bingo += 2;
                     for (int i = 0; i < 10; ++i) {
