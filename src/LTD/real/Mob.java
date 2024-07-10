@@ -410,11 +410,45 @@ public class Mob {
                 if (Server.manager.event != 0 && this.tileMap.map.id <= 164 && tile <= 30) {
                     short idI = ItemLeave.arrItemskgiaikhac[Util.nextInt(ItemLeave.arrItemskgiaikhac.length)];
                     Item itemup = ItemTemplate.itemDefault(idI);
-                    short idI1 = ItemLeave.arrItem8thang3[Util.nextInt(ItemLeave.arrItem8thang3.length)];
-                    Item itemup1 = ItemTemplate.itemDefault(idI1);
-                    itemup1.isLock = true;
-                    _char.addItemBag(true, itemup);
-                    _char.addItemBag(true, itemup1);
+                    // short idI1 = ItemLeave.arrItem8thang3[Util.nextInt(ItemLeave.arrItem8thang3.length)];
+                    short idI1 =0;
+                    switch (Server.manager.event) {
+                        case 1: {
+                            idI1 = ItemLeave.arrItemSuKienHe[Util.nextInt(ItemLeave.arrItemSuKienHe.length)];
+                            break;
+                        }
+                        case 2: {
+                            idI1 = ItemLeave.arrItemSuKienTrungThu[Util.nextInt(ItemLeave.arrItemSuKienNoel.length)];
+                            break;
+                        }
+                        case 3: {
+                            idI1 = ItemLeave.arrItemSuKienNoel[Util.nextInt(ItemLeave.arrItemSuKienNoel.length)];
+                            break;
+                        }
+                        case 4: {
+                            idI1 = ItemLeave.arrItemSuKienTet[Util.nextInt(ItemLeave.arrItemSuKienTet.length)];
+                            break;
+                        }
+                        case 5: {
+                            
+                            idI1 = ItemLeave.arrItem8thang3[Util.nextInt(ItemLeave.arrItem8thang3.length)];
+                            break;
+                        }
+                        case 6: {
+                            idI1 = ItemLeave.arrItem10thang3[Util.nextInt(ItemLeave.arrItem10thang3.length)];
+                            break;
+                        }
+                        case 7: {
+                            idI1 = ItemLeave.arrItemskgiaikhac[Util.nextInt(ItemLeave.arrItemskgiaikhac.length)];
+                            break;
+                        }
+                    }
+                    if(idI1 !=0){
+                        Item itemup1 = ItemTemplate.itemDefault(idI1);
+                        itemup1.isLock = true;
+                        _char.addItemBag(true, itemup1);
+                    }
+                    _char.addItemBag(true, itemup); 
                     _char.p.upluongMessage(1);
                     _char.p.sendAddchatYellow("Bạn nhận được 1 lượng");
                     _char.upxuMessage(50);

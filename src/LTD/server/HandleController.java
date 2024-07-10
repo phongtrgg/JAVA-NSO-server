@@ -471,11 +471,8 @@ public class HandleController {
                 if (p.luong < 1) {
                     p.conn.sendMessageLog("Bạn không đủ 1 lượng để hồi sinh!");
                 }
-                if (p.c.quantityItemyTotal(983) < 1) {
-                    p.conn.sendMessageLog("Bạn cần có vật phẩm bổ sung viên Chakra");
-                } else {
+                 else {
                     p.c.get().isDie = false;
-                    p.c.removeItemBags(983, 1);
                     p.luongMessage(-1L);
                     p.c.get().hp = p.c.get().getMaxHP();
                     p.c.get().mp = p.c.get().getMaxMP();
