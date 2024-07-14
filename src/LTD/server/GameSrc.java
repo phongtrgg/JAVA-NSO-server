@@ -1720,7 +1720,7 @@ public class GameSrc {
             int yen = 0;
             switch (tl) {
                 case 0: {
-                    percent = 60;
+                    percent = 80;
                     yen = 150000;
                     if (ttts != 3 || tttt != 0 || tttc != 0) {
                         p.conn.sendMessageLog("Tinh luyện cần 3 tử tinh thạch sơ.");
@@ -1729,7 +1729,7 @@ public class GameSrc {
                     break;
                 }
                 case 1: {
-                    percent = 45;
+                    percent = 70;
                     yen = 247500;
                     if (ttts != 5 || tttt != 0 || tttc != 0) {
                         p.conn.sendMessageLog("Tinh luyện 2 cần dùng 5 tử tinh thạch sơ");
@@ -1738,7 +1738,7 @@ public class GameSrc {
                     break;
                 }
                 case 2: {
-                    percent = 34;
+                    percent = 60;
                     yen = 408375;
                     if (ttts != 9 || tttt != 0 || tttc != 0) {
                         p.conn.sendMessageLog("Tinh luyện 3 cần dùng 9 tử tinh thạch sơ");
@@ -1747,7 +1747,7 @@ public class GameSrc {
                     break;
                 }
                 case 3: {
-                    percent = 26;
+                    percent = 50;
                     yen = 673819;
                     if (ttts != 0 || tttt != 4 || tttc != 0) {
                         p.conn.sendMessageLog("Tinh luyện 4 cần dùng 4 tử tinh thạch trung");
@@ -1756,7 +1756,7 @@ public class GameSrc {
                     break;
                 }
                 case 4: {
-                    percent = 20;
+                    percent = 40;
                     yen = 1111801;
                     if (ttts != 0 || tttt != 7 || tttc != 0) {
                         p.conn.sendMessageLog("Tinh luyện 5 cần dùng 7 tử tinh thạch trung");
@@ -1765,7 +1765,7 @@ public class GameSrc {
                     break;
                 }
                 case 5: {
-                    percent = 15;
+                    percent = 30;
                     yen = 2056832;
                     if (ttts != 0 || tttt != 10 || tttc != 0) {
                         p.conn.sendMessageLog("Tinh luyện 6 cần dùng 10 tử tinh thạch trung");
@@ -1774,7 +1774,7 @@ public class GameSrc {
                     break;
                 }
                 case 6: {
-                    percent = 11;
+                    percent = 20;
                     yen = 4010922;
                     if (ttts != 0 || tttt != 0 || tttc != 5) {
                         p.conn.sendMessageLog("Tinh luyện 7 cần dùng 5 tử tinh thạch cao");
@@ -1783,7 +1783,7 @@ public class GameSrc {
                     break;
                 }
                 case 7: {
-                    percent = 8;
+                    percent = 10;
                     yen = 7420021;
                     if (ttts != 0 || tttt != 0 || tttc != 7) {
                         p.conn.sendMessageLog("Tinh luyện 8 cần dùng 7 tử tinh thạch cao");
@@ -1792,7 +1792,7 @@ public class GameSrc {
                     break;
                 }
                 case 8: {
-                    percent = 6;
+                    percent = 10;
                     yen = 12243035;
                     if (ttts != 0 || tttt != 0 || tttc != 9) {
                         p.conn.sendMessageLog("Tinh luyện 9 cần dùng 9 tử tinh thạch cao");

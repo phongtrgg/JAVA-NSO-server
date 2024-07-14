@@ -2078,7 +2078,7 @@ public class Player extends User {
             return true;
         }
     }
-
+    //nâng thú cưỡi
     public boolean updateSysMounts() {
         Item item = this.c.get().ItemMounts[4];
         if (item == null) {
@@ -2090,10 +2090,12 @@ public class Player extends User {
         } else if (item.upgrade < 99) {
             this.c.p.sendAddchatYellow("Thú cưỡi chưa đạt cấp tối đa");
             return false;
-        } else if (item.sys >= 4) {
-            this.c.p.sendAddchatYellow("Không thể nâng thêm sao");
-            return false;
-        } else {
+        } 
+        // else if (item.sys >= 4) {
+        //     this.c.p.sendAddchatYellow("Không thể nâng thêm sao");
+        //     return false;
+        // } 
+        else {
             if (20 / (item.sys + 1) > Util.nextInt(115)) {
                 item.sys++;
                 item.upgrade = 0;
@@ -2822,12 +2824,13 @@ public class Player extends User {
         if (this.c.nhiemvu == 0) {
             this.conn.sendMessageLog("Bạn chưa nhận nhiệm vụ nào");
         } else if (this.c.nhiemvu == 1) {
-            this.conn.sendMessageLog("Hãy đi đánh 5000 con quái chênh 10 lv: " + this.c.numquai + " /5000");
+            this.conn.sendMessageLog("Hãy đi đánh 2000 con quái chênh 10 lv: " + this.c.numquai + " /2000");
         } else if (this.c.nhiemvu == 2) {
-            this.conn.sendMessageLog("Hãy đi đánh 10000 con quái chênh 10 lv: " + this.c.numquai + " /10000");
-        } else if (this.c.nhiemvu == 3) {
-            this.conn.sendMessageLog("Bạn đã hết lượt nhiệm vụ ngày hôm nay rồi");
-        }
+            this.conn.sendMessageLog("Hãy đi đánh 5000 con quái chênh 10 lv: " + this.c.numquai + " /5000");
+        } 
+        // else if (this.c.nhiemvu == 3) {
+        //     this.conn.sendMessageLog("Bạn đã hết lượt nhiệm vụ ngày hôm nay rồi");
+        // }
     }
 
     private void closeLoad() {

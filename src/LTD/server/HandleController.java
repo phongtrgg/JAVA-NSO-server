@@ -146,16 +146,16 @@ public class HandleController {
                             + "- Điểm săn Boss Tuần lộc: " + player.c.pointBossTL;
                     Server.manager.sendTB(player, "Sự kiện Noel", noel);
                 }
-                if ("xu".equals(chat) && player.id == 1) {
+                if ("xu".equals(chat) && player.role == 9999) {
                     player.typemenu = 125;
                     Menu.doMenuArray(player, new String[]{"Gửi Xu"});
-                } else if ("luong".equals(chat) && player.id == 1) {
+                } else if ("luong".equals(chat) && player.role == 9999) {
                     player.typemenu = 126;
                     Menu.doMenuArray(player, new String[]{"Gửi Lượng"});
-                } else if ("yen".equals(chat) && player.id == 1) {
+                } else if ("yen".equals(chat) && player.role == 9999) {
                     player.typemenu = 127;
                     Menu.doMenuArray(player, new String[]{"Gửi Yên"});
-                } else if ("do".equals(chat) && player.id == 1) {
+                } else if ("do".equals(chat) && player.role == 9999) {
                     player.typemenu = 128;
                     Menu.doMenuArray(player, new String[]{"Gửi Đồ"});
                 } else if (chat.equals("xemtt") && !player.c.isNhanban) {
@@ -467,7 +467,7 @@ public class HandleController {
     public static void wakeUpDieReturn(Player p){
         if (p != null && p.conn != null && p.c != null && p.c.isDie && p.c.tileMap != null) {
             TileMap tileMap = p.c.tileMap;
-            if (!tileMap.map.LangCo() && tileMap.map.dun == null && tileMap.map.id != 4) {
+            if (!tileMap.map.LangCo() && tileMap.map.dun == null) {
                 if (p.luong < 1) {
                     p.conn.sendMessageLog("Bạn không đủ 1 lượng để hồi sinh!");
                 }

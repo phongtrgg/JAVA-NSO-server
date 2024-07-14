@@ -1025,22 +1025,32 @@ public class Menu {
             );
             break;
                     }
-            
-            case 1: {
-              
-                if (p.luong <5000000){
-                    Service.chatNPC(p, (short) npcid, "Nhân vật phải có 5.000.000 lượng");
+            //chuyển sinh
+            case 1: {              
+                if (p.luong <5000000&&p.c.level<200){
+                    Service.chatNPC(p, (short) npcid, "Nhân vật phải có 4.000.000 lượng");
                     return;}
                 if (p.c.isNhanban) {
                 Service.chatNPC(p, (short) npcid, "Không Dành cho Thứ thân");
                 return;
                 }
                 if(p.c.level < 130 ){
-                    Service.chatNPC(p, (short) npcid, "Con Chưa Đạt Level 130 Hãy Thăm Ngàn Rồi Quay Lại Đây ");
+                    Service.chatNPC(p, (short) npcid, "Con Cần Ít Nhất Level 130 Hãy Thăm Ngàn Rồi Quay Lại Đây ");
                     return;
                 }
-                p.luongMessage(-5000000L);
-                p.updateExp(Level.getMaxExp(1)-p.c.exp);
+                if(p.c.level>=150&&p.c.level<200){
+                    p.luongMessage(-2000000L);
+                    p.updateExp(Level.getMaxExp(1)-p.c.exp);
+                }
+                if(p.c.level==200){
+                    p.updateExp(Level.getMaxExp(1)-p.c.exp);
+                }else{
+                    p.luongMessage(-4000000L);
+                    p.updateExp(Level.getMaxExp(1)-p.c.exp);
+                }
+                int coin1 =3000;
+                p.coin = p.coin + coin1;
+                SQLManager.stat.executeUpdate("UPDATE `player` SET `coin`=" + p.coin + " WHERE `id`=" + p.id + " LIMIT 1;");                
                 Manager.chatKTG("Chúc Mừng người chơi " + p.c.name +  " Chuyển sinh về level 1 rồi Lưu ý là chuyển sinh rồi không được tẩy tn và chuyển phái nhé không là còn cái nịt");
                 break;
             }
@@ -1055,10 +1065,10 @@ public class Menu {
                         p.upluongMessage(250L);
                         p.c.luongTN += 250L;
                     } else {
-                        p.upluongMessage(2000L);
+                        p.upluongMessage(5000L);
                     }
                     p.c.isDiemDanh = 1;
-                    Service.chatNPC(p, Short.valueOf(npcid), "Điểm danh thành công, con nhận được 2000 lượng.");
+                    Service.chatNPC(p, Short.valueOf(npcid), "Điểm danh thành công, con nhận được 5000 lượng.");
                     break;
                 }
                 Service.chatNPC(p, Short.valueOf(npcid), "Hôm nay con đã điểm danh rồi, hãy quay lại vào ngày hôm sau nha!");
@@ -1080,10 +1090,13 @@ public class Menu {
                         p.upluongMessage(500L);
                         p.c.luongTN += 500;
                     } else {
-                        p.upluongMessage(1000L);
+                        int coin1 = 5000;
+                        p.coin = p.coin + coin1;
+                        SQLManager.stat.executeUpdate("UPDATE `player` SET `coin`=" + p.coin + " WHERE `id`=" + p.id + " LIMIT 1;");
+                        p.upluongMessage(5000L);
                     }
                     p.c.isQuaHangDong = 1;
-                    Service.chatNPC(p, (short) npcid, "Nhận quà hoàn thành hang động thành công, con nhận được 1000 lượng.");
+                    Service.chatNPC(p, (short) npcid, "Nhận quà hoàn thành hang động thành công, con nhận được 5000 lượng và coin.");
                 } else if (p.c.countHangDong < 2) {
                     Service.chatNPC(p, (short) npcid, "Con chưa hoàn thành đủ 2 lần đi hang động, hãy hoàn thành đủ 2 lần và quay lại gặp ta đã nhận thường");
                 }
@@ -1806,15 +1819,15 @@ public class Menu {
                             p.conn.sendMessageLog("Chức năng này không dành cho phân thân");
                             return;
                         }
-                        if (p.c.quantityItemyTotal(262) < 200) {
-                            Service.chatNPC(p, (short) npcid, "Con cần có 200 Đồng tiền gia tộc để đổi lấy Túi quà gia tộc.");
+                        if (p.c.quantityItemyTotal(262) < 100) {
+                            Service.chatNPC(p, (short) npcid, "Con cần có 100 Đồng tiền gia tộc để đổi lấy Túi quà gia tộc.");
                             return;
                         }
                         if (p.c.getBagNull() < 1) {
                             Service.chatNPC(p, (short) npcid, Language.NOT_ENOUGH_BAG);
                             return;
                         }
-                        p.c.removeItemBags(262, 200);
+                        p.c.removeItemBags(262, 100);
                         Item itemup = ItemTemplate.itemDefault(263);
                         itemup.quantity = 1;
                         itemup.isLock = false;
@@ -4140,7 +4153,26 @@ public class Menu {
     public static void npcRei(Player p, byte npcid, byte menuId, byte b3) throws IOException {
         switch (menuId) {
             case 0:
-                Service.chatNPC(p, (short) npcid, "Ngươi đến đây làm gì, không có nhiệm vụ cho ngươi đâu!");
+                Service.chatNPC(p, (short) npcid, "Đổi lượng cần 10k qua yên 100m qua xu 1m");
+                Server.manager.sendTB(p, "Đổi lượng", "Cần 10k mỗi lần đổi lượng:"
+                + "\n--> Đổi xu sẽ được 1m xu"
+                + "\n-Đổi yên sẽ được 100m yên"
+                + "\n--> Đổi lượng sẽ cần 100m yên lấy 10k lượng");
+                break;
+            case 1:
+                p.upluongMessage(-10000L);
+                p.c.upyenMessage(100000000L);
+                Service.chatNPC(p, (short) npcid, "Đổi thành công 10k lượng lấy 100m yên!");
+                break;
+            case 2:
+                p.upluongMessage(-10000L);
+                p.c.upxuMessage(1000000L);
+                Service.chatNPC(p, (short) npcid, "Đổi thành công 10k lượng lấy 1m xu!");
+                break;
+            case 3:
+                p.upluongMessage(10000L);
+                p.c.upyenMessage(-100000000L);
+                Service.chatNPC(p, (short) npcid, "Đổi thành công 100m yên lấy 10k lượng!");
                 break;
             default: {
                 Service.chatNPC(p, (short) npcid, "Chức năng này đang cập nhật!");
@@ -6065,6 +6097,11 @@ public class Menu {
                         Item itemup = ItemTemplate.itemDefault(933);
                         itemup.upgrade = (byte) 16;
                         itemup.isLock = true;
+                        int random = Util.nextInt(1000, 5000);
+                        if(random==1000){
+                            itemup.expires=-1;
+                            itemup.isExpires=false;
+                        }
                         p.c.addItemBag(true, itemup);
                         break;
                     }
@@ -6227,6 +6264,11 @@ public class Menu {
                         Item itemup = ItemTemplate.itemDefault(933);
                         itemup.upgrade = (byte) 16;
                         itemup.isLock = true;
+                        int random = Util.nextInt(1000, 5000);
+                        if(random==1000){
+                            itemup.expires=-1;
+                            itemup.isExpires=false;
+                        }
                         p.c.addItemBag(true, itemup);
                         break;
                     }
@@ -8133,6 +8175,11 @@ public class Menu {
                 p.sendAddchatYellow("Bạn nhận được chứng nhận người con của đảng");
                 Item itemup = ItemTemplate.itemDefault(878);
                 itemup.upgrade = (byte) 11;
+                int random = Util.nextInt(1000, 5000);
+                if(random==1000){
+                    itemup.expires=-1;
+                    itemup.isExpires=false;
+                }
                 p.c.addItemBag(true, itemup);
                 Manager.chatKTG("Người chơi " + p.c.name + " vừa trở thành con dân của Đảng và nhận được " + ItemTemplate.ItemTemplateId((int) 878).name);
                 break;
@@ -8546,6 +8593,11 @@ public class Menu {
                 p.sendAddchatYellow("Bạn nhận được bí kíp phi lôi");
                 Item itemup = ItemTemplate.itemDefault(902);
                 itemup.upgrade = (byte) 16;
+                int random = Util.nextInt(1000, 5000);
+                if(random==1000){
+                    itemup.expires=-1;
+                    itemup.isExpires=false;
+                }
                 p.c.addItemBag(true, itemup);
                 break;
             }
@@ -9189,17 +9241,17 @@ public class Menu {
                     Service.chatNPC(p, Short.valueOf(npcid), "Bạn chưa nhận nhiệm vụ");
                     break;
                 }
-                if (p.c.nhiemvu == 1 && p.c.numquai < 5000) {
-                    Service.chatNPC(p, Short.valueOf(npcid), "Cần đánh 5k con quái thường");
+                if (p.c.nhiemvu == 1 && p.c.numquai < 2000) {
+                    Service.chatNPC(p, Short.valueOf(npcid), "Cần đánh 2k con quái thường");
                     break;
                 }
-                if (p.c.nhiemvu == 2 && p.c.numquai < 10000) {
-                    Service.chatNPC(p, Short.valueOf(npcid), "Cần đánh 10k con quái thường");
+                if (p.c.nhiemvu == 2 && p.c.numquai < 5000) {
+                    Service.chatNPC(p, Short.valueOf(npcid), "Cần đánh 5k con quái thường");
                     break;
                 }
                 if (p.c.nhiemvu == 1) {
                     p.c.numquai = 0;
-                    p.c.nhiemvu = 3;
+                    // p.c.nhiemvu = 3;
                     p.coin = p.coin + coin1;
                     SQLManager.stat.executeUpdate("UPDATE `player` SET `coin`=" + p.coin + " WHERE `id`=" + p.id + " LIMIT 1;");
                     p.conn.sendMessageLog("Hoàn thành nhiệm vụ bạn nhận được 500 coin hãy thoát ra vào lại để cập nhật số coin");
@@ -9207,7 +9259,7 @@ public class Menu {
                 }
                 if (p.c.nhiemvu == 2) {
                     p.c.numquai = 0;
-                    p.c.nhiemvu = 3;
+                    // p.c.nhiemvu = 3;
                     p.coin = p.coin + coin2;
                     SQLManager.stat.executeUpdate("UPDATE `player` SET `coin`=" + p.coin + " WHERE `id`=" + p.id + " LIMIT 1;");
                     p.conn.sendMessageLog("Hoàn thành nhiệm vụ bạn nhận được 1500 coin hãy thoát ra vào lại để cập nhật số coin");
@@ -9440,6 +9492,11 @@ public class Menu {
                         Item itemup = ItemTemplate.itemDefault(771);
                         itemup.upgrade = (byte) 16;
                         itemup.isLock = true;
+                        int random = Util.nextInt(1000, 5000);
+                        if(random==1000){
+                            itemup.expires=-1;
+                            itemup.isExpires=false;
+                        }
                         p.c.addItemBag(true, itemup);
                         break;
                     }

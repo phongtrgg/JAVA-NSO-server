@@ -1,0 +1,7 @@
+Name : oneshot mua vật phẩm  || Time : 2024-07-11 19:17:03 || Time : 2024-07-11 19:17:03 || Item mua :538 || Yên mua :0 || Xu mua :0 || Lượng mua :50
+Name : oneshot mua vật phẩm  || Time : 2024-07-11 19:19:22 || Time : 2024-07-11 19:19:22 || Item mua :669 || Yên mua :0 || Xu mua :0 || Lượng mua :5
+Name : oneshot mua vật phẩm  || Time : 2024-07-11 20:07:15 || Time : 2024-07-11 20:07:15 || Item mua :340 || Yên mua :0 || Xu mua :0 || Lượng mua :10
+Name : oneshot mua vật phẩm  || Time : 2024-07-11 20:08:09 || Time : 2024-07-11 20:08:09 || Item mua :270 || Yên mua :0 || Xu mua :0 || Lượng mua :150
+Name : oneshot mua vật phẩm  || Time : 2024-07-11 20:09:48 || Time : 2024-07-11 20:09:48 || Item mua :340 || Yên mua :0 || Xu mua :0 || Lượng mua :10
+Name : oneshot mua vật phẩm  || Time : 2024-07-11 20:11:56 || Time : 2024-07-11 20:11:56 || Item mua :271 || Yên mua :0 || Xu mua :0 || Lượng mua :500
+Name : oneshot mua vật phẩm  || Time : 2024-07-11 20:15:41 || Time : 2024-07-11 20:15:41 || Item mua :398 || Yên mua :0 || Xu mua :0 || Lượng mua :1500

@@ -203,6 +203,64 @@ public class Mob {
         return this.isDontMove;
     }
 
+    public void handlerUpExpAndEvent(Char _char,int master){
+        if(_char.p.c.get().level<=150){
+            if(!this.tileMap.map.LTDMap()&&!this.tileMap.map.LTDMap2()){
+                ItemLeave.randomLeave(this.tileMap, this, master, Util.nextInt(1, 3), 1);
+            }       
+            if (this.lvboss == 1) {
+                long expup = (Level.getMaxExp(_char.p.c.get().level + 1) - Level.getMaxExp(_char.p.c.get().level)) / 200;
+                _char.p.updateExp(expup);
+                _char.p.upluongMessage(1000);
+                _char.p.sendAddchatYellow("Bạn nhận được 1000 lượng");
+            }
+            if (this.lvboss == 2) {
+                long expup = (Level.getMaxExp(_char.p.c.get().level + 1) - Level.getMaxExp(_char.p.c.get().level)) / 20;
+                _char.p.updateExp(expup);
+                _char.p.upluongMessage(2000);
+                _char.p.sendAddchatYellow("Bạn nhận được 2000 lượng");
+                if(!this.tileMap.map.LTDMap()&&!this.tileMap.map.LTDMap2()){
+                    ItemLeave.leaveTTTT(this.tileMap, this, master);
+                }  
+                
+            }
+            if(this.lvboss != 1&&this.lvboss != 2){
+                long expup = (Level.getMaxExp(_char.p.c.get().level + 1) - Level.getMaxExp(_char.p.c.get().level)) / 199;
+                _char.p.updateExp(expup);
+                _char.p.upluongMessage(10);
+                _char.p.sendAddchatYellow("Bạn nhận được 10 lượng");
+            }
+        }
+        if(_char.p.c.get().level>150){
+            if(!this.tileMap.map.LTDMap()&&!this.tileMap.map.LTDMap2()){
+                ItemLeave.randomLeave(this.tileMap, this, master, Util.nextInt(1, 3), 1);
+            }        
+            if (this.lvboss == 1) {
+                long expup = (Level.getMaxExp(_char.p.c.get().level + 1) - Level.getMaxExp(_char.p.c.get().level)) / 200;
+                _char.p.updateExp(expup);
+                _char.p.upluongMessage(1000);
+                _char.p.sendAddchatYellow("Bạn nhận được 1000 lượng");
+            }
+            if (this.lvboss == 2) {
+                long expup = (Level.getMaxExp(_char.p.c.get().level + 1) - Level.getMaxExp(_char.p.c.get().level)) / 20;
+                _char.p.updateExp(expup);
+                _char.p.upluongMessage(2000);
+                _char.p.sendAddchatYellow("Bạn nhận được 2000 lượng");
+                if(!this.tileMap.map.LTDMap()&&!this.tileMap.map.LTDMap2()){
+                    ItemLeave.leaveTTTT(this.tileMap, this, master);
+                } 
+            }
+            if(this.lvboss != 1&&this.lvboss != 2){
+                _char.p.upluongMessage(10);
+                _char.p.sendAddchatYellow("Bạn nhận được 10 lượng");
+            }
+        }
+        short idI1=0;
+        idI1 = ItemLeave.arrSuKienLangCo[Util.nextInt(ItemLeave.arrSuKienLangCo.length)];
+        Item itemup1 = ItemTemplate.itemDefault(idI1);
+        _char.addItemBag(true, itemup1);
+    }
+
     public void handleAfterCharFight(Char _char) {
         if (this.level > 1) {
             ++this.tileMap.numMobDie;
@@ -210,14 +268,18 @@ public class Mob {
         if (this.templates.id == 0 && _char.isTaskDanhVong == 1 && _char.taskDanhVong[0] == 6) {
             _char.taskDanhVong[1] = _char.taskDanhVong[1] + 1;
             if (_char.c.taskDanhVong[1] == _char.c.taskDanhVong[2]) {
-                _char.p.upluongMessage(100);
-                _char.p.sendAddchatYellow("Bạn nhận được 100 lượng");
+                _char.p.upluongMessage(500);
+                _char.p.sendAddchatYellow("Bạn nhận được 500 lượng");
                 _char.p.sendAddchatYellow("Bạn đã hoàn thành nhiệm vụ danh vọng.");
             }
         }
         if (this.templates.id == 230 && this.tileMap.map.bossTuanLoc != null) {
             this.isRefresh = false;
             ItemLeave.leaveItemBOSSTuanLoc(this.tileMap, this, -1);
+            _char.upyenMessage(100000000);
+            _char.p.sendAddchatYellow("Bạn nhận được 100000000 yên");
+            _char.p.upluongMessage(10000);
+            _char.p.sendAddchatYellow("Bạn nhận được 10000 lượng");
             this.tileMap.mobs.clear();
         } else if (this.tileMap.map.mapLDGT()) {
             if (this.lvboss == 0 && this.templates.id != 81) {
@@ -248,8 +310,8 @@ public class Mob {
                 this.tileMap.map.lanhDiaGiaToc.clanManager.upExp(50);
             } else if (this.lvboss == 1 && this.templates.id != 81) {
                 this.isRefresh = false;
-                _char.p.upluongMessage(200);
-                _char.p.sendAddchatYellow("Bạn nhận được 200 lượng");
+                _char.p.upluongMessage(500);
+                _char.p.sendAddchatYellow("Bạn nhận được 500 lượng");
                 ItemLeave.leaveChiaKhoa(this.tileMap, this, -1);
                 this.tileMap.map.lanhDiaGiaToc.plusPoint(2);
                 this.tileMap.map.lanhDiaGiaToc.clanManager.upExp(100);
@@ -334,7 +396,7 @@ public class Mob {
             if (_char.isTaskDanhVong == 1 && _char.taskDanhVong[0] == 7 && Math.abs(this.level - _char.get().level) <= 10) {
                 _char.taskDanhVong[1] = _char.taskDanhVong[1] + 1;
                 if (_char.c.taskDanhVong[1] == _char.c.taskDanhVong[2]) {
-                    _char.p.upluongMessage(100);
+                    _char.p.upluongMessage(500);
                     _char.p.sendAddchatYellow("Bạn đã hoàn thành nhiệm vụ danh vọng.");
                 }
             }
@@ -344,7 +406,7 @@ public class Mob {
                 if (_char.isTaskDanhVong == 1 && _char.taskDanhVong[0] == 8 && Math.abs(this.level - _char.get().level) <= 10) {
                     _char.taskDanhVong[1] = _char.taskDanhVong[1] + 1;
                     if (_char.c.taskDanhVong[1] == _char.c.taskDanhVong[2]) {
-                        _char.p.upluongMessage(100);
+                        _char.p.upluongMessage(500);
                         _char.p.sendAddchatYellow("Bạn đã hoàn thành nhiệm vụ danh vọng.");
                     }
                 }
@@ -353,7 +415,7 @@ public class Mob {
                 if (_char.isTaskDanhVong == 1 && _char.taskDanhVong[0] == 9 && Math.abs(this.level - _char.get().level) <= 10) {
                     _char.taskDanhVong[1] = _char.taskDanhVong[1] + 1;
                     if (_char.c.taskDanhVong[1] == _char.c.taskDanhVong[2]) {
-                        _char.p.upluongMessage(100);
+                        _char.p.upluongMessage(500);
                         _char.p.sendAddchatYellow("Bạn đã hoàn thành nhiệm vụ danh vọng.");
                     }
                 }
@@ -386,8 +448,8 @@ public class Mob {
                     if (_char.lvbht < 9) {
                         _char.expbht += 2000L;
                     }
-                    _char.p.upluongMessage(200);
-                    _char.p.sendAddchatYellow("Bạn nhận được 200 lượng");
+                    _char.p.upluongMessage(500);
+                    _char.p.sendAddchatYellow("Bạn nhận được 500 lượng");
                     _char.upyenMessage(10000);
                     _char.p.sendAddchatYellow("Bạn nhận được 10000 yên");
                 } else if (this.lvboss == 2) {
@@ -402,8 +464,8 @@ public class Mob {
                     if (_char.lvbht < 9) {
                         _char.expbht += 4000L;
                     }
-                    _char.p.upluongMessage(400);
-                    _char.p.sendAddchatYellow("Bạn nhận được 400 lượng");
+                    _char.p.upluongMessage(1000);
+                    _char.p.sendAddchatYellow("Bạn nhận được 1000 lượng");
                     _char.upyenMessage(20000);
                     _char.p.sendAddchatYellow("Bạn nhận được 20000 yên");
                 }
@@ -449,38 +511,47 @@ public class Mob {
                         _char.addItemBag(true, itemup1);
                     }
                     _char.addItemBag(true, itemup); 
-                    _char.p.upluongMessage(1);
-                    _char.p.sendAddchatYellow("Bạn nhận được 1 lượng");
+                    _char.p.upluongMessage(5);
+                    _char.p.sendAddchatYellow("Bạn nhận được 5 lượng");
                     _char.upxuMessage(50);
                     _char.p.sendAddchatYellow("Bạn nhận được 50 xu");
+                    _char.upyenMessage(50);
+                    _char.p.sendAddchatYellow("Bạn nhận được 50 yên");
                 }
             }
             byte tile = (byte) Util.nextInt(1, 100);
             if (this.lvboss == 1) {
-                _char.p.upluongMessage(30);
+                short idI1 =0;
+                idI1 = ItemLeave.arrItemThuLinh[Util.nextInt(ItemLeave.arrItemThuLinh.length)];
+                Item itemup1 = ItemTemplate.itemDefault(idI1);
+                _char.addItemBag(true, itemup1);
+                _char.p.upluongMessage(100);
                 _char.upyenMessage(1000);
-                _char.p.sendAddchatYellow("Bạn nhận được 30 lượng");
+                _char.p.sendAddchatYellow("Bạn nhận được 100 lượng");
                 _char.p.sendAddchatYellow("Bạn nhận được 1000 yên");
             } else if (this.lvboss == 2) {
-                _char.p.upluongMessage(50);
+                short idI1 =0;
+                idI1 = ItemLeave.arrItemThuLinh[Util.nextInt(ItemLeave.arrItemThuLinh.length)];
+                Item itemup1 = ItemTemplate.itemDefault(idI1);
+                _char.addItemBag(true, itemup1);
+                _char.p.upluongMessage(400);
                 _char.upyenMessage(2000);
-                _char.p.sendAddchatYellow("Bạn nhận được 50 lượng");
+                _char.p.sendAddchatYellow("Bạn nhận được 400 lượng");
                 _char.p.sendAddchatYellow("Bạn nhận được 2000 yên");
             }
             if (this.tileMap.map.VDMQ() && (_char.get().getEffId(40) != null || _char.get().getEffId(41) != null) && Math.abs(this.level - _char.get().level) <= 10) {
                 ItemLeave.randomLeave(this.tileMap, this, master, Util.nextInt(1, 2), 0);
             } else if (this.tileMap.map.LangCo()) {
-                ItemLeave.randomLeave(this.tileMap, this, master, Util.nextInt(1, 3), 1);
-                if (this.lvboss == 2) {
-                    _char.p.upluongMessage(400);
-                    ItemLeave.leaveTTTT(this.tileMap, this, master);
-                }
+                //drop và exp làng cổ
+                handlerUpExpAndEvent(_char,master);
+          
             } else if (this.tileMap.map.TruyenThuyet()) {
-                ItemLeave.randomLeave(this.tileMap, this, master, Util.nextInt(1, 3), 1);
-                if (this.lvboss == 2) {
-                    _char.p.upluongMessage(800);
-                    ItemLeave.leaveTTTT(this.tileMap, this, master);
-                }
+                // ItemLeave.randomLeave(this.tileMap, this, master, Util.nextInt(1, 3), 1);
+                // if (this.lvboss == 2) {
+                //     _char.p.upluongMessage(800);
+                //     ItemLeave.leaveTTTT(this.tileMap, this, master);
+                // }
+                handlerUpExpAndEvent(_char,master);
             } else if (this.tileMap.map.LTDMap()) {
                 if (tile <= 5) {
                     Item itemup = ItemTemplate.itemDefault(236);
@@ -509,6 +580,7 @@ public class Mob {
                     }
                     ItemLeave.leaveTLTT(this.tileMap, this, master);
                 }
+                handlerUpExpAndEvent(_char,master);
             } else if (this.tileMap.map.LTDMap2()) {
                 if (tile <= 10) {
                     Item itemup = ItemTemplate.itemDefault(236);
@@ -537,6 +609,7 @@ public class Mob {
                     itemup1.isLock = itemup1.isLock;
                     _char.addItemBag(true, itemup1);
                 }
+                handlerUpExpAndEvent(_char,master);
             }
             if (this.isboss) {
                 if (this.templates.id == 228 && this.tileMap.map.id == 4) {
@@ -563,6 +636,7 @@ public class Mob {
                     ItemLeave.leaveYen(this.tileMap, this, master);
                     ItemLeave.leaveYen(this.tileMap, this, master);
                     this.tileMap.map.cave.updatePoint(this.tileMap.mobs.size());
+                    _char.p.upluongMessage(10);
                     for (int k2 = 0; k2 < this.tileMap.mobs.size(); k2 = (int) ((short) (k2 + 1))) {
                         if (this.tileMap.mobs.get(k2) == null) {
                             continue;

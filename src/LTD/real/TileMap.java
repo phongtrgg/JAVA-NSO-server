@@ -1475,13 +1475,14 @@ public class TileMap {
             if (_char.p.c.leveltutien > 0) {
                 dame += (_char.p.c.leveltutien * 1000L);
             }
-            if (this.map.cave == null && mob3.isboss && mob3.templates.id != 230 && mob3.templates.id != 228 && mob3.templates.id != 231 && mob3.templates.id != 140) {
-                if (_char.isNhanban && Math.abs(_char.clone.level - mob3.level) > 20) {
-                    dame = 1;
-                } else if (_char.isHuman && Math.abs(_char.level - mob3.level) > 20) {
-                    dame = 1;
-                }
-            }
+             //tấn công boss quá 20 lv
+            // if (this.map.cave == null && mob3.isboss && mob3.templates.id != 230 && mob3.templates.id != 228 && mob3.templates.id != 231 && mob3.templates.id != 140) {
+            //     if (_char.isNhanban && Math.abs(_char.clone.level - mob3.level) > 20) {
+            //         dame = 1;
+            //     } else if (_char.isHuman && Math.abs(_char.level - mob3.level) > 20) {
+            //         dame = 1;
+            //     }
+            // }
             
             if (this.map.LangCo()) {
                 switch (mob3.lvboss) {

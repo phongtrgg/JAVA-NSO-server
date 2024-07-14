@@ -9,7 +9,9 @@ import LTD.real.TileMap;
 import LTD.server.Server;
 
 public class ItemLeave {
-
+    public static short[] arrSuKienLangCo = new short[]{1008, 1010,1009, 1002,1003,926,927,845,848};
+    public static short[] arrItemThuLinh = new short[]{926,927};
+    //
     public static short[] arrTrangBiXeSoi = new short[]{439, 440, 441, 442, 488, 489, 487, 486};
     public static short[] arrExpXeSoi = new short[]{573, 574, 575, 576, 577, 578, 899};
     public static short[] arrItemOrther = new short[]{38, 648, 649, 650, 651, 851, 852, 853, 854, 879, 880};
@@ -21,8 +23,8 @@ public class ItemLeave {
     public static short[] arrItem8thang3 = new short[]{386, 387, 388 , 393,394,395};
     public static short[] arrItem10thang3 = new short[]{590, 591};
     public static short[] arrItemskgiaikhac = new short[]{ 38, 648, 649, 650, 651, 851, 852, 853, 854, 879, 880,1,1,1,1,1,1,2,2,2,2,2,3,3,3,3,3,3,3,4,4,4,4,4,4,5,5,5,5,5,5,6,6,6,6};
-    public static short[] arrItemBOSS = new short[]{8, 8, 8, 8, 8, 9, 9, 9, 9, 9, 454, 454, 456, 456, 455, 455, 455, 455, 455, 276, 277, 278, 485, 454, 454, 456, 456, 455, 455, 455, 455, 455, 959, 959, 959, 959, 959,972};
-    public static short[] arrItemBOSSTuanLoc = new short[]{457, 457, 457, 457, 457, 457, 457, 457, 457, 457};
+    public static short[] arrItemBOSS = new short[]{8, 8, 8, 8, 8, 9, 9, 9, 9, 9, 454, 454, 456, 456, 455, 455, 455, 455, 455, 276, 277, 278, 485, 454, 454, 456, 456, 455, 455, 455, 455, 455,926,927, 959, 959, 959, 959, 959,972,1002};
+    public static short[] arrItemBOSSTuanLoc = new short[]{457, 457, 457, 457, 457, 457, 457, 457, 457, 457,926,927};
     public static short[] arrItemLDGT = new short[]{881, 881, 881, 881, 881, 881, 881, 881, 881, 881,881, 881, 881, 881, 881, 881, 881, 881, 881, 881,881, 881, 881, 881, 881, 881, 881, 881, 881, 881, 959, 959, 959, 959, 959, 970, 970, 971, 971, 970, 970, 971, 971, 970, 971};
     public static short[] arrSVC6x = new short[]{311, 312, 313, 314, 315, 316};
     public static short[] arrSVC7x = new short[]{375, 376, 377, 378, 379, 380};
@@ -34,7 +36,7 @@ public class ItemLeave {
     public static short[] Dadv = new short[]{695, 696, 697, 698, 699, 700, 701, 702, 982};
     public static short[] Ltd = new short[]{922, 923};
     public static short[] Ltd2 = new short[]{970, 971, 959};
-    public static short[] ItemBossTo = new short[]{457, 457, 457, 457, 457, 457, 457, 457, 457, 457,855,855,855,855,855,855,855,855,855,855,856,856,856,856,856,856,856,856,856,856,856,855,855,855,855,855,855,855,855,855,855,856,856,856,856,856,856,856,856,856,856,856,385,384,384,384,384,875,875,876,959,959,959,959,959,959,959,959,959,959,972,972,875,875,876,959,959,959,959,959,959,959,959,959,959,972,972};
+    public static short[] ItemBossTo = new short[]{455,455,455,455,456,456,456,456,457, 457, 457, 457, 457, 457, 457, 457, 457, 457,855,855,855,855,855,855,855,855,855,855,856,856,856,856,856,856,856,856,856,856,856,855,855,855,855,855,855,855,855,855,855,856,856,856,856,856,856,856,856,856,856,856,385,384,384,384,384,385,385,875,875,876,959,959,959,959,959,959,959,959,959,959,972,972,875,875,876,959,959,959,959,959,959,959,959,959,959,972,972,1002};
 
     public static void randomLeave(TileMap place, Mob mob3, int master, int per, int map) {
         switch (per) {

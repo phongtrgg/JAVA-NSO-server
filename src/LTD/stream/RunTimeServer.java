@@ -29,10 +29,10 @@ public class RunTimeServer extends Thread {
     private static short[] mapBoss75 = new short[]{18, 36, 54};
     private static final short[] mapBossSKTet = new short[]{2, 3, 26, 28, 39, 71};
     private static short[] mapBossTo = new short[]{4};
-    private static final int[] hoursRefreshBossSKTet = new int[]{1, 3, 5, 7, 10, 13, 17, 19, 23};
-    private static final boolean[] isRefreshBossSKTet = new boolean[]{false, false, false, false, false, false, false, false, false};
-    private static int[] hoursRefreshBossTo = new int[]{9,21};
-    private static final boolean[] isRefreshBossTo = new boolean[]{false,false};
+    private static final int[] hoursRefreshBossSKTet = new int[]{1,2,3, 4,5,6,7,8,9,10,11, 12,13, 14,15, 16,17, 18,19 ,20,21, 22,23,24};
+    private static final boolean[] isRefreshBossSKTet = new boolean[]{false, false, false, false, false, false, false, false, false, false,false, false, false, false, false, false, false, false, false, false,false,false,false,false};
+    private static int[] hoursRefreshBossTo = new int[]{1,2,3, 4,5,6,7,8,9,10,11, 12,13, 14,15, 16,17, 18,19 ,20,21, 22,23,24};
+    private static final boolean[] isRefreshBossTo = new boolean[]{false, false, false, false, false, false, false, false, false, false,false, false, false, false, false, false, false, false, false, false,false,false,false,false};
     
 
     @Override
@@ -360,43 +360,44 @@ public class RunTimeServer extends Thread {
                 if (ChienTruong.chienTruong != null && hour == 22 && min == 30 && sec == 0 && ChienTruong.start) {
                     ChienTruong.chienTruong.finish();
                 }
+                //tu tien
+               if (hour == 21 && min == 43 && sec == 0) {
+                   Manager.serverChat("Server: ", "kết quả xổ số miền bắc hôm nay hãy ra npc xoso để cập nhâp kết quả! 7 giờ bạn sẽ đc nhận thưởng nếu bạn chúng.");
+                   Service.AutoSaveData();
+               }
 
-//                if (hour == 21 && min == 43 && sec == 0) {
-//                    Manager.serverChat("Server: ", "kết quả xổ số miền bắc hôm nay hãy ra npc xoso để cập nhâp kết quả! 7 giờ bạn sẽ đc nhận thưởng nếu bạn chúng.");
-//                    Service.AutoSaveData();
-//                }
+               if (TuTien.tuTien == null && (hour == 21)) {
+                   TuTien.start = true;
+                   TuTien.tuTien100 = true;
+                   TuTien.tuTien50 = false;
+                   TuTien.tuTien = new TuTien();
+                   TuTien.finish = false;
+                   //System.err.println("Open Tiên Cảnh");
+                   Manager.serverChat("Server", "Cải lão hoàn đồng toàn server đã mở ae hãy vào cày cuốc");
+               }
 
-//                if (TuTien.tuTien == null && (hour == 21)) {
-//                    TuTien.start = true;
-//                    TuTien.tuTien100 = true;
-//                    TuTien.tuTien50 = false;
-//                    TuTien.tuTien = new TuTien();
-//                    TuTien.finish = false;
-//                    //System.err.println("Open Tiên Cảnh");
-//                    Manager.serverChat("Server", "Cải lão hoàn đồng toàn server đã mở ae hãy vào cày cuốc");
-//                }
+               if(TuTien.tuTien != null && (hour == 22 && min == 0 && sec == 0) && TuTien.start) {
+                   Manager.serverChat("Server", "Cải lão hoàn đồng toàn server đã đóng cửa hãy quay lại vào ngày mai.");
+                   TuTien.tuTien.finish();
+                   System.err.println("Close Tiên Cảnh");
+               }
+               if(TuTien.tuTien == null && (hour % 2 == 0)) {
+                   TuTien.start = true;
+                   TuTien.tuTien50 = true;
+                   TuTien.tuTien100 = false;
+                   TuTien.tuTien = new TuTien();
+                   TuTien.finish = false;
+                   //System.err.println("Open Tiên Cảnh");
+                   Manager.serverChat("Server", "Cải lão hoàn đồng VIP đã mở ae hãy vào cày cuốc.");
+               
+               }
 
-//                if(TuTien.tuTien != null && (hour == 22 && min == 0 && sec == 0) && TuTien.start) {
-//                    Manager.serverChat("Server", "Cải lão hoàn đồng toàn server đã đóng cửa hãy quay lại vào ngày mai.");
-//                    TuTien.tuTien.finish();
-//                    System.err.println("Close Tiên Cảnh");
-//                }
-//                if(TuTien.tuTien == null && (hour % 2 == 0)) {
-//                    TuTien.start = true;
-//                    TuTien.tuTien50 = true;
-//                    TuTien.tuTien100 = false;
-//                    TuTien.tuTien = new TuTien();
-//                    TuTien.finish = false;
-//                    //System.err.println("Open Tiên Cảnh");
-//                    Manager.serverChat("Server", "Cải lão hoàn đồng VIP đã mở ae hãy vào cày cuốc.");
-//                
-//                }
-//
-//                if(TuTien.tuTien != null && (hour % 2 != 0 && min == 0 && sec == 0) && TuTien.start) {
-//                    Manager.serverChat("Server", "Cải lão hoàn đồng VIP đã mở ae hãy vào sau");
-//                    System.err.println("Close Tiên Cảnh");
-//                    TuTien.tuTien.finish();
-//                }
+               if(TuTien.tuTien != null && (hour % 2 != 0 && min == 0 && sec == 0) && TuTien.start) {
+                   Manager.serverChat("Server", "Cải lão hoàn đồng VIP đã mở ae hãy vào sau");
+                   System.err.println("Close Tiên Cảnh");
+                   TuTien.tuTien.finish();
+               }
+               //end //tu tien
                 if (sec == 10) {
 
                     synchronized (Client.gI().conns) {

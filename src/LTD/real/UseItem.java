@@ -36,10 +36,11 @@ public class UseItem {
     public static short[] idItemDieuVai = new short[]{4, 4, 5, 5, 6, 6, 7, 7, 8, 9, 10, 11, 275, 276, 277, 278, 289, 340, 340, 383, 409, 410, 419, 436, 436, 436, 436, 436, 436, 437, 437, 438, 443, 485, 524, 567, 567, 549, 550, 551, 569, 577, 742, 781};
     public static short[] idItemRuongMaQuai = new short[]{8, 8, 8, 9, 9, 9, 280, 280, 280, 436, 437, 436, 437, 618, 619, 620, 621, 622, 623, 624, 625, 626, 627, 628, 629, 630, 631, 632, 633, 634, 635, 636, 637};
     public static short[] idItemPhucNangNhanGia = new short[]{-1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, -1, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, -1};
-    public static short[] idItemBanhChocolate = new short[]{4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 6, 6, 6, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 8, 9, 275, 276, 277, 278, 289, 289, 340, 340, 383, 409, 410, 436, 436, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 7, 7, 7, 437, 443, 485, 524, 549, 550, 551, 549, 550, 551, 569, 574, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 577, 575, 578, 742, 673, 775};
+    public static short[] idItemBanhChocolate = new short[]{275, 276, 277, 278, 289, 340, 340, 383, 409, 410, 419, 436, 436, 436, 436, 436, 436, 437, 437, 438, 443, 485, 524, 567, 567, 549, 550, 551, 569, 577, 742, 781, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 6, 6, 6, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 8, 9, 275, 276, 277, 278, 289, 289, 340, 340, 383, 409, 410, 436, 436, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 7, 7, 7, 437, 443, 485, 524, 549, 550, 551, 549, 550, 551, 569, 574, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 577, 575, 578, 742, 673, 775,930,932
+    };
     public static short[] idItemBanhDauTay = new short[]{4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7, 7, 7, 7, 8, 9, 10, 275, 276, 277, 278, 289, 340, 340, 383, 409, 410, 419, 436, 436, 436, 5, 5, 5, 5, 6, 6, 6, 6, 7, 7, 7, 436, 437, 437, 438, 443, 485, 524, 567, 567, 549, 550, 551, 549, 5, 5, 5, 5, 5, 6, 6, 6, 7, 7, 7, 7, 550, 551, 775, 569, 575, 5, 5, 5, 6, 6, 6, 6, 6, 7, 7, 578, 574, 577, 742, 673, 775, 781, 828};
     public static short[] idItemCayThong = new short[]{8, 8, 8, 8, 8, 8, 8, 9, 9, 9, 549, 549, 549, 549, 550, 550, 551, 551, 436, 436, 437};
-    public static short[] idItemTuiQuaGiaToc = new short[]{959, 970, 971};
+    public static short[] idItemTuiQuaGiaToc = new short[]{959, 970, 971,983};
     public static short[] idItemHomBlackFriday = new short[]{4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 6, 6, 6, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 8, 9, 275, 276, 277, 278, 289, 289, 340, 340, 383, 409, 410, 436, 436, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 7, 7, 7, 437, 443, 485, 524, 549, 550, 551, 549, 550, 551, 569, 574, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 577, 575, 578, 742, 673, 775, 828};
     public static short[] idItemNVTruyenTin = new short[]{7, 8, 275, 276, 8, 8, 8, 8, 8, 8, 8, 8, 8, 277, 278, 7, 567, 573, 574, 8, 575, 576, 577, 8, 578, 733, 8, 734, 735, 736, 8, 737, 738, 8, 739, 740, 8, 741, 760, 8, 8, 761, 8, 762, 8, 763, 764, 8, 765, 539, 540, 766, 767, 768};
     public static short[] idItem11x = new short[]{864, 865, 866, 867, 868, 869, 870, 871, 872, 873, 874};
@@ -538,12 +539,12 @@ public class UseItem {
                     }
                     //Nhân sâm
                     case 28: {
-                        if (p.c.level > 130) {
-                            p.sendAddchatYellow("Nhân sâm chỉ sử dụng được cho level dưới 130!");
+                        if (p.c.level > 200) {
+                            p.sendAddchatYellow("Nhân sâm chỉ sử dụng được cho level dưới 200!");
                             return;
                         }
-                        if (p.c.clone.level > 130) {
-                            p.sendAddchatYellow("Nhân sâm chỉ sử dụng được cho level dưới 130!");
+                        if (p.c.clone.level > 200) {
+                            p.sendAddchatYellow("Nhân sâm chỉ sử dụng được cho level dưới 200!");
                             return;
                         }
                         long expup = (Level.getMaxExp(p.c.get().level + 1) - Level.getMaxExp(p.c.get().level)) / 10;
@@ -580,7 +581,7 @@ public class UseItem {
                         int per = Util.nextInt(UseItem.idItemPhucNangNhanGia.length);
                         p.c.removeItemBag(index, 1);
                         if (UseItem.idItemPhucNangNhanGia[per] == -1) {
-                            long yenran = Util.nextInt(1000, 5000);
+                            long yenran = Util.nextInt(10000, 30000);
                             p.c.upyenMessage(yenran);
                             p.sendAddchatYellow("Bạn nhận được " + yenran + " yên.");
                         } else {
@@ -1281,7 +1282,7 @@ public class UseItem {
                             p.upExpClan(Util.nextInt(100, 200));
                             p.c.removeItemBag(index, 1);
                         } else if (item.id == 437) {
-                            if (clan.level < 10) {
+                            if (clan.level < 1) {
                                 p.sendAddchatYellow("Yêu cầu gia tộc phải đạt cấp 10");
                                 return;
                             }
@@ -1291,7 +1292,7 @@ public class UseItem {
                             if (item.id != 438) {
                                 break;
                             }
-                            if (clan.level < 15) {
+                            if (clan.level < 1) {
                                 p.sendAddchatYellow("Yêu cầu gia tộc phải đạt cấp 15");
                                 return;
                             }
@@ -1354,10 +1355,10 @@ public class UseItem {
                     }
                     //Hộp quà noel
                     case 478: {
-                        if (Server.manager.event != 3) {
-                            p.sendAddchatYellow(Language.END_EVENT);
-                            return;
-                        }
+                        // if (Server.manager.event != 3) {
+                        //     p.sendAddchatYellow(Language.END_EVENT);
+                        //     return;
+                        // }
                         if (numbagnull < 1) {
                             p.conn.sendMessageLog("Hành trang không đủ chỗ trống.");
                             return;
@@ -1806,10 +1807,10 @@ public class UseItem {
                         break;
                     }
                     case 926: {
-                        if (Server.manager.event != 7) {
-                            p.sendAddchatYellow(Language.END_EVENT);
-                            return;
-                        }
+                        // if (Server.manager.event != 7) {
+                        //     p.sendAddchatYellow(Language.END_EVENT);
+                        //     return;
+                        // }
                         if (numbagnull == 0) {
                             p.conn.sendMessageLog("Hành trang không đủ chỗ trống.");
                             return;
@@ -1843,10 +1844,10 @@ public class UseItem {
                     }
                     break;
                     case 927: {
-                        if (Server.manager.event != 7) {
-                            p.sendAddchatYellow(Language.END_EVENT);
-                            return;
-                        }
+                        // if (Server.manager.event != 7) {
+                        //     p.sendAddchatYellow(Language.END_EVENT);
+                        //     return;
+                        // }
                         if (numbagnull == 0) {
                             p.conn.sendMessageLog("Hành trang không đủ chỗ trống.");
                             return;
@@ -1931,6 +1932,35 @@ public class UseItem {
                         } else {
                             short idI = UseItem.idItemBanhChocolate[Util.nextInt(UseItem.idItemBanhChocolate.length)];
                             Item itemup = ItemTemplate.itemDefault(idI);
+                            switch (itemup.id) {
+                                case 930:
+                                    itemup.options.add(new Option(22, Util.nextInt(200,350)));
+                                    itemup.options.add(new Option(14, Util.nextInt(100,150)));
+                                    itemup.options.add(new Option(73, Util.nextInt(4500,6000)));
+                                    if(Util.nextInt(100)<1){
+                                        itemup.expires = 0;
+                                        itemup.isExpires=false;
+                                    }else{
+                                        itemup.expires =2592000000L;
+                                        itemup.isExpires= true;
+                                    }
+                                    break;
+                                case 932:
+                                    itemup.options.add(new Option(91, Util.nextInt(500,1500)));
+                                    itemup.options.add(new Option(67, Util.nextInt(50,150)));
+                                    itemup.options.add(new Option(14, Util.nextInt(100,150)));
+                                    itemup.options.add(new Option(73, Util.nextInt(4500,6000)));
+                                    if(Util.nextInt(100)<1){
+                                        itemup.expires = 0;
+                                        itemup.isExpires=false;
+                                    }else{
+                                        itemup.expires =2592000000L;
+                                        itemup.isExpires= true;
+                                    }
+                                    break;
+                                default:
+                                    break;
+                            }
                             itemup.isLock = item.isLock;
                             p.c.addItemBag(true, itemup);
                         }
@@ -2230,10 +2260,10 @@ public class UseItem {
 
                     //Tuần thú lệnh
                     case 743: {
-                        if (Server.manager.event != 7) {
-                            p.sendAddchatYellow(Language.END_EVENT);
-                            return;
-                        }
+                        // if (Server.manager.event != 3) {
+                        //     p.sendAddchatYellow(Language.END_EVENT);
+                        //     return;
+                        // }
                         if (p.c.level < 40) {
                             p.conn.sendMessageLog("Trình độ của bạn không đủ để sử dụng vật phẩm này.");
                             return;
@@ -2320,6 +2350,31 @@ public class UseItem {
                             }
                         }
                         p.endLoad(true);
+                        break;
+                    }
+                    //viên chakra
+                    case 983: {
+                        p.c.get().ppoint += 10;
+                        p.loadPpoint();
+                        p.c.removeItemBag(index, 1);
+                        p.sendAddchatYellow("Bạn nhận được 10 điểm tiềm năng.");
+                        break;
+                    }
+                    //viên exp phân thân
+                    case 1064: {
+                        if (!p.c.isNhanban) {
+                            p.sendAddchatYellow("Viên Exp chỉ sử dụng được cho phân thân");
+                        }
+                        if (p.c.isNhanban) {
+                            if (p.c.clone.level > 200) {
+                                p.sendAddchatYellow("Viên Exp chỉ sử dụng được cho level dưới 200!");
+                                return;
+                            }
+                            long expup = (Level.getMaxExp(p.c.get().level + 1) - Level.getMaxExp(p.c.get().level)) / 2;
+                            p.updateExp(expup);
+                            p.c.removeItemBag(index, 1);
+                            p.sendAddchatYellow("Bạn nhận được 50% exp.");
+                        }
                         break;
                     }
                     case 920: {
