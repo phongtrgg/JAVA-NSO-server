@@ -2348,6 +2348,44 @@ public class Draw {
                     Menu.doMenuArray(p, new String[]{"Vòng xoay vip", "Vòng xoay thường"});
                     break;
                 }
+                //Đổi nụ hôn tiên nữ
+                case 210:{
+                    String check = str.replaceAll("\\s+", "");
+                    if (!Util.isNumericInt(str) || check.equals("") || !Util.isNumericInt(str)) {
+                        Service.chatNPC(p, (short) 33, "Giá trị nhập vào không đúng");
+                        break;
+                    }
+
+                    long soluong = Integer.parseInt(str);
+                    if (soluong <= 0) {
+                        p.lockAcc();
+                    }
+
+                    if (p.c.quantityItemyTotal(974) >= 5 * soluong && p.c.quantityItemyTotal(975) >= 5 * soluong && p.c.quantityItemyTotal(976) >= 5 * soluong) {
+                        if (p.luong < 50 * soluong) {
+                            p.conn.sendMessageLog("Không đủ lượng để đổi");
+                            return;
+                        }
+                        if (p.c.getBagNull() == 0) {
+                            p.conn.sendMessageLog("Hành trang không đủ chỗ trống");
+                        } else {
+                            p.c.removeItemBags(974, (int) (50 * soluong));
+                            p.c.removeItemBags(975, (int) (50 * soluong));
+                            p.c.removeItemBags(976, (int) (50 * soluong));
+                            p.upluongMessage(-(50 * soluong));
+                            Item it = ItemTemplate.itemDefault(978);
+                            it.quantity = (int) (1 * soluong);
+                            p.c.addItemBag(true, it);
+                        }
+                        return;
+                    } else {
+                        Service.chatNPC(p, (short) 33, "Hành trang của con không có đủ nguyên liệu");
+                    }
+                    break;
+                }
+                case 211:{
+                    break;
+                }
                 case 9989: {
                     if (!Util.isNumeric(str) || str.equals("")) {
                         p.conn.sendMessageLog("Giá trị nhập vào không hợp lệ");

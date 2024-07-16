@@ -57,6 +57,7 @@ public class UseItem {
 
     public static void uesItem(Player p, Item item, byte index) {
         Message m = null;
+        
         try {
             long num2 = Level.getLevel(p.c.level).exps;
             boolean checkExpDown = false;
@@ -2199,7 +2200,6 @@ public class UseItem {
                         }
                         break;
                     }
-
                     //Mảnh jirai
                     case 760:
                     case 761:
@@ -2672,6 +2672,7 @@ public class UseItem {
                         p.sendAddchatYellow("Bạn đã lấy ra 450 triệu yên từ ví con cóc");
                         break;
                     }
+                    //Nụ hôn
                     case 978: {
                         if (Server.manager.event != 7) {
                             p.sendAddchatYellow(Language.END_EVENT);

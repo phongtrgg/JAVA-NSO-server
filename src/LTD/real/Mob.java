@@ -203,7 +203,7 @@ public class Mob {
         return this.isDontMove;
     }
 
-    public void handlerUpExpAndEvent(Char _char,int master){
+    private void handlerUpExpAndEvent(Char _char,int master){
         if(_char.p.c.get().level<=150){
             if(!this.tileMap.map.LTDMap()&&!this.tileMap.map.LTDMap2()){
                 ItemLeave.randomLeave(this.tileMap, this, master, Util.nextInt(1, 3), 1);
@@ -278,8 +278,8 @@ public class Mob {
             ItemLeave.leaveItemBOSSTuanLoc(this.tileMap, this, -1);
             _char.upyenMessage(100000000);
             _char.p.sendAddchatYellow("Bạn nhận được 100000000 yên");
-            _char.p.upluongMessage(10000);
-            _char.p.sendAddchatYellow("Bạn nhận được 10000 lượng");
+            _char.p.upluongMessage(30000);
+            _char.p.sendAddchatYellow("Bạn nhận được 30000 lượng");
             this.tileMap.mobs.clear();
         } else if (this.tileMap.map.mapLDGT()) {
             if (this.lvboss == 0 && this.templates.id != 81) {
@@ -472,39 +472,7 @@ public class Mob {
                 if (Server.manager.event != 0 && this.tileMap.map.id <= 164 && tile <= 30) {
                     short idI = ItemLeave.arrItemskgiaikhac[Util.nextInt(ItemLeave.arrItemskgiaikhac.length)];
                     Item itemup = ItemTemplate.itemDefault(idI);
-                    // short idI1 = ItemLeave.arrItem8thang3[Util.nextInt(ItemLeave.arrItem8thang3.length)];
-                    short idI1 =0;
-                    switch (Server.manager.event) {
-                        case 1: {
-                            idI1 = ItemLeave.arrItemSuKienHe[Util.nextInt(ItemLeave.arrItemSuKienHe.length)];
-                            break;
-                        }
-                        case 2: {
-                            idI1 = ItemLeave.arrItemSuKienTrungThu[Util.nextInt(ItemLeave.arrItemSuKienNoel.length)];
-                            break;
-                        }
-                        case 3: {
-                            idI1 = ItemLeave.arrItemSuKienNoel[Util.nextInt(ItemLeave.arrItemSuKienNoel.length)];
-                            break;
-                        }
-                        case 4: {
-                            idI1 = ItemLeave.arrItemSuKienTet[Util.nextInt(ItemLeave.arrItemSuKienTet.length)];
-                            break;
-                        }
-                        case 5: {
-                            
-                            idI1 = ItemLeave.arrItem8thang3[Util.nextInt(ItemLeave.arrItem8thang3.length)];
-                            break;
-                        }
-                        case 6: {
-                            idI1 = ItemLeave.arrItem10thang3[Util.nextInt(ItemLeave.arrItem10thang3.length)];
-                            break;
-                        }
-                        case 7: {
-                            idI1 = ItemLeave.arrItemskgiaikhac[Util.nextInt(ItemLeave.arrItemskgiaikhac.length)];
-                            break;
-                        }
-                    }
+                    short idI1 =ItemLeave.itemDropEvent();
                     if(idI1 !=0){
                         Item itemup1 = ItemTemplate.itemDefault(idI1);
                         itemup1.isLock = true;
@@ -625,7 +593,7 @@ public class Mob {
                     }
                     _char.p.upluongMessage(50000);
                     _char.upxuMessage(2500000);
-                    _char.bingo += 15;
+                    _char.bingo += 2;
                     Service.chatKTG(_char.name + " đã đập chết " + this.templates.name);
                     _char.bingo += 2;
                     for (int i = 0; i < 10; ++i) {

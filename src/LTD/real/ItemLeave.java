@@ -11,6 +11,7 @@ import LTD.server.Server;
 public class ItemLeave {
     public static short[] arrSuKienLangCo = new short[]{1008, 1010,1009, 1002,1003,926,927,845,848};
     public static short[] arrItemThuLinh = new short[]{926,927};
+    public static short[] arrItemSuKienCoHon = new short[]{976,975,974};
     //
     public static short[] arrTrangBiXeSoi = new short[]{439, 440, 441, 442, 488, 489, 487, 486};
     public static short[] arrExpXeSoi = new short[]{573, 574, 575, 576, 577, 578, 899};
@@ -156,6 +157,45 @@ public class ItemLeave {
             im.item.isLock = false;
             im.master = master;
         }
+    }
+    public static short itemDropEvent(){
+        short idI1 =0;
+        switch (Server.manager.event) {
+            case 1: {
+                idI1 = ItemLeave.arrItemSuKienHe[Util.nextInt(ItemLeave.arrItemSuKienHe.length)];
+                break;
+            }
+            case 2: {
+                idI1 = ItemLeave.arrItemSuKienTrungThu[Util.nextInt(ItemLeave.arrItemSuKienNoel.length)];
+                break;
+            }
+            case 3: {
+                idI1 = ItemLeave.arrItemSuKienNoel[Util.nextInt(ItemLeave.arrItemSuKienNoel.length)];
+                break;
+            }
+            case 4: {
+                idI1 = ItemLeave.arrItemSuKienTet[Util.nextInt(ItemLeave.arrItemSuKienTet.length)];
+                break;
+            }
+            case 5: {
+                
+                idI1 = ItemLeave.arrItem8thang3[Util.nextInt(ItemLeave.arrItem8thang3.length)];
+                break;
+            }
+            case 6: {
+                idI1 = ItemLeave.arrItem10thang3[Util.nextInt(ItemLeave.arrItem10thang3.length)];
+                break;
+            }
+            case 7: {
+                idI1 = ItemLeave.arrItemskgiaikhac[Util.nextInt(ItemLeave.arrItemskgiaikhac.length)];
+                break;
+            }
+            case 8: {
+                idI1 = ItemLeave.arrItemSuKienCoHon[Util.nextInt(ItemLeave.arrItemSuKienCoHon.length)];
+                break;
+            }
+        }
+        return idI1;
     }
 
     public static void leaveItemOrther(TileMap place, Mob mob3, int master) {

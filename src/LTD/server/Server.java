@@ -78,7 +78,7 @@ public class Server {
         listenSocket = null;
         try {
             listenSocket = new ServerSocket(manager.post);
-            System.err.println("OPEN PORT: " + Server.manager.post + " START UP SEVER NsoBlow COMPLETE");
+            System.err.println("OPEN PORT: " + Server.manager.post + " START UP SEVER NSO COMPLETE");
             while (Server.start) {
                 Socket clientSocket = listenSocket.accept();
                 Session conn = new Session(clientSocket, serverMessageHandler);

@@ -148,6 +148,10 @@ public class Menu {
                         Menu.doMenuArray(p, new String[]{"Bánh Chưng", "Bánh Tét", "Đổi Điểm Boss", "Hướng dẫn"});
                         break;
                     }
+                    case 8: {
+                        Menu.doMenuArray(p, new String[]{"Đổi Nụ Hôn", "Đổi Viên Chakar", "Đổi viên Exp", "Đổi mặt nạ", "Hướng dẫn"});
+                        break;
+                    }
                     default: {
                         break;
                     }
@@ -2170,7 +2174,7 @@ public class Menu {
                         return;
                 }
             case 1:
-                Service.chatNPC(p, (short) npcid, "Tan bán quần áo, mũ nón, găng tay và giày siêu bền, siêu rẻ!");
+                Service.chatNPC(p, (short) npcid, "Ta bán quần áo, mũ nón, găng tay và giày siêu bền, siêu rẻ!");
                 break;
             default: {
                 Service.chatNPC(p, (short) npcid, "Chức năng này đang cập nhật!");
@@ -3074,6 +3078,7 @@ public class Menu {
 
     }
 
+    @SuppressWarnings("unused")
     public static void npcTabemono(Player p, byte npcid, byte menuId, byte b3) throws IOException {
         switch (menuId) {
             case 0:
@@ -5803,6 +5808,11 @@ public class Menu {
                             p.conn.sendMessageLog("Bạn đã đổi thành công mặt nạ Jack Hollow");
                             Item itemup = ItemTemplate.itemDefault(771);
                             itemup.upgrade = (byte) 16;
+                            int random = Util.nextInt(1000, 5000);
+                            if(random<=1050){
+                                itemup.expires=-1;
+                                itemup.isExpires=false;
+                            }
                             p.c.addItemBag(true, itemup);
                             break;
                         }
@@ -5832,6 +5842,72 @@ public class Menu {
 //                        }
 //                    }
 //                }
+                case 8: {
+                    if (p.c.isNhanban) {
+                        Service.chatNPC(p, Short.valueOf(npcid), Language.NOT_FOR_PHAN_THAN);
+                        return;
+                    }
+                    switch (menuId) {
+                        case 0: {
+                            Service.sendInputDialog(p, (short) 210, "Nhập số lượng Nụ Hôm muốn đổi :");
+                            break;
+                        }
+                        case 1: {
+                            if(p.c.quantityItemyTotal(974)>=500&&p.c.quantityItemyTotal(975)>=500&&p.c.quantityItemyTotal(976)>=500){
+                                p.c.removeItemBags(974, 500);
+                                p.c.removeItemBags(975, 500);
+                                p.c.removeItemBags(976, 500);
+                                Item it = ItemTemplate.itemDefault(983);                                
+                                p.c.addItemBag(true, it);
+                                Service.chatNPC(p, (short) 33, "Đã Đổi thành công");
+                            }else{
+                            Service.chatNPC(p, (short) 33, "Hành trang của con không có đủ nguyên liệu");
+                            }
+                            break;
+                        }
+                        case 2: {
+                            if(p.c.quantityItemyTotal(974)>=500&&p.c.quantityItemyTotal(975)>=500&&p.c.quantityItemyTotal(976)>=500){
+                                p.c.removeItemBags(974, 500);
+                                p.c.removeItemBags(975, 500);
+                                p.c.removeItemBags(976, 500);
+                                Item it = ItemTemplate.itemDefault(1064);                                
+                                p.c.addItemBag(true, it);
+                                Service.chatNPC(p, (short) 33, "Đã Đổi thành công");
+                            }else{
+                            Service.chatNPC(p, (short) 33, "Hành trang của con không có đủ nguyên liệu");
+                            }
+                            break;
+                        }
+                        case 3: {
+                            if (p.luong < 10000) {
+                                Service.chatNPC(p, Short.valueOf(npcid), "Cần 10k lượng để đổi");
+                                break;
+                            }
+                            if (p.c.bingo < 100) {
+                                Service.chatNPC(p, Short.valueOf(npcid), "Bạn cần có 100 điểm boss");
+                                break;
+                            }
+                            p.c.bingo -= 100;
+                            p.upluongMessage(-10000);
+                            p.conn.sendMessageLog("Bạn đã đổi thành công mặt nạ Jack Hollow");
+                            Item itemup = ItemTemplate.itemDefault(771);
+                            itemup.upgrade = (byte) 16;
+                            int random = Util.nextInt(1000, 5000);
+                            if(random<=1050){
+                                itemup.expires=-1;
+                                itemup.isExpires=false;
+                            }
+                            p.c.addItemBag(true, itemup);
+                            break;
+                        }
+                        case 4: {
+                            Server.manager.sendTB(p, "Hướng dẫn", "----------------- ĐỔi Nụ Hôn Tiên Nữ -----------------\n +, 50 Vàng mã + 50 Bánh kẹo + 50 Gà luộc +50 lượng.\n----------------- Làm Bánh Tét -----------------\n +,  5 lá dong + 5 nếp + 5 đậu xanh + 3 lạt tre + 40.000 xu + 40.000 yên + 50 lượng.\n ---->Bạn đang có: " + p.c.bingo + "Điểm Boss.\\n" + //
+                                                                "Đổi viên sức mạnh và exp cần vàng mã, bánh kẹo, gà luộc mỗi loại 500 cái");
+                            break;
+                        }
+                    }
+                    break;
+                }
                 default: {
                     Service.chatNPC(p, Short.valueOf(npcid), "Chúc mọi người vui vẻ!");
                 }
@@ -6389,7 +6465,7 @@ public class Menu {
                 p.c.removeItemBags(649, 10000);
                 p.c.removeItemBags(650, 10000);
                 p.c.removeItemBags(651, 10000);
-                p.c.addItemBag(false, itemup);
+                p.c.addItemBag(false, itemup);                
                 break;
             }
             case 4: {
@@ -7610,6 +7686,7 @@ public class Menu {
                 p.conn.sendMessageLog("Bạn không đeo đồ top");
                 break;
             }
+            //chuyển sinh
             case 5: {
                 if (p.c.level < 150) {
                     Service.chatNPC(p, Short.valueOf(npcid), "anh em đã đạt cấp 150 đâu???\nKhi nào đủ tự tin hãy quay lại gặp ta nhé.! \nMày hãy cố gắng nhiều lên anh em..!");
@@ -7627,10 +7704,10 @@ public class Menu {
                     p.conn.sendMessageLog("Anh em không đủ 10 chuyển sinh đan");
                     return;
                 }
-                if (p.c.chuyenSinh == 1) {
-                    Service.chatNPC(p, Short.valueOf(npcid), "server chỉ mới cho chuyển sinh 1, sẽ cập nhật sau");
-                    return;
-                }
+                // if (p.c.chuyenSinh == 1) {
+                //     Service.chatNPC(p, Short.valueOf(npcid), "server chỉ mới cho chuyển sinh 1, sẽ cập nhật sau");
+                //     return;
+                // }
                 if (p.luong < 5000000) {
                     Service.chatNPC(p, Short.valueOf(npcid), "Hành trang con ko có đủ học phí 5tr lượng để ta mua cafe sáng.\nHãy đi săn boss và kiếm đủ lượng để chuyển sinh nhé anh em yêu quý của ta ơi..!");
                     return;
@@ -9202,7 +9279,7 @@ public class Menu {
             }
         }
     }
-
+    //npc nhiệm vụ tăng coin
     public static void npcdoiqua(Player p, byte npcid, byte menuId, byte b3) throws IOException, SQLException {
         switch (menuId) {
             case 0: {
@@ -9493,7 +9570,7 @@ public class Menu {
                         itemup.upgrade = (byte) 16;
                         itemup.isLock = true;
                         int random = Util.nextInt(1000, 5000);
-                        if(random==1000){
+                        if(random<=1050){
                             itemup.expires=-1;
                             itemup.isExpires=false;
                         }
@@ -9657,6 +9734,11 @@ public class Menu {
                         Item itemup = ItemTemplate.itemDefault(771);
                         itemup.upgrade = (byte) 16;
                         itemup.isLock = true;
+                        int random = Util.nextInt(1000, 5000);
+                        if(random<=1050){
+                            itemup.expires=-1;
+                            itemup.isExpires=false;
+                        }
                         p.c.addItemBag(true, itemup);
                         break;
                     }
