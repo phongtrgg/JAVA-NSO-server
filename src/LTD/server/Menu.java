@@ -1041,6 +1041,9 @@ public class Menu {
                 Service.chatNPC(p, (short) npcid, "Không Dành cho Thứ thân");
                 return;
                 }
+                if(p.c.expCS<2000000000L){
+                    Service.chatNPC(p, (short) npcid, "Nhân vật phải có ít nhất 2 tỷ exp chuyển sinh");
+                }
                 if(p.c.level < 130 ){
                     Service.chatNPC(p, (short) npcid, "Con Cần Ít Nhất Level 130 Hãy Thăm Ngàn Rồi Quay Lại Đây ");
                     return;
@@ -1055,6 +1058,8 @@ public class Menu {
                     p.luongMessage(-4000000L);
                     p.updateExp(Level.getMaxExp(1)-p.c.exp);
                 }
+                p.c.expCS -= 2000000000L;
+                p.c.chuyenSinh = (byte) (p.c.chuyenSinh + 1);
                 int coin1 =3000;
                 p.coin = p.coin + coin1;
                 SQLManager.stat.executeUpdate("UPDATE `player` SET `coin`=" + p.coin + " WHERE `id`=" + p.id + " LIMIT 1;");                
@@ -1314,7 +1319,7 @@ public class Menu {
             case 8: {
                 Server.manager.sendTB(p, "Hướng dẫn", "- Vừa vào chơi, hãy đến chỗ ta nhận quà tân thủ bao gồm: 50tr xu, 10k lượng, 50tr yên \n- Mỗi ngày con được điềm danh hàng ngày 1 lần và nhận 2000 lượng \n- Nếu mỗi ngày hoàn thành hang động đủ 2 lần con hãy đến chỗ ta và Nhận quà hang động để nhận 1000 lượng\n\n** Lưu ý, nếu là tài khoản trải nghiệm, con chỉ có thể nhận được 1 nửa phần thường từ ta.\\n" + //
                                         "\\n" + //
-                                        "Chuyển sinh cần ít nhất lv130 và 5tr lượng , lưu ý không tẩy tiềm năng");
+                                        "Chuyển sinh cần ít nhất lv130 và 4tr lượng,2 tỷ exp chuyển sinh. chuyển sinh lv 150 cần 2 tỷ exp và 2tr lượng hoặc lv 200 cần 2 tỷ exp , lưu ý không tẩy tiềm năng");
                 break;
             }
         }
@@ -4277,7 +4282,8 @@ public class Menu {
     public static void npcOkanechan(Player p, byte npcid, byte menuId, byte b3) throws IOException {
         switch (menuId) {
             case 0: {
-                Server.manager.sendTB(p, "Hướng dẫn", "- Để nạp tiền hoặc mua đồ, con hãy lên Website hoặc THAM GIA BOX ZALO của game để nạp nhé!");
+                Server.manager.sendTB(p, "Thông tin chuyển sinh ", "- Exp chuyển sinh của con đang có "+ p.c.expCS +"\n" + "\n" + //
+                                        "- Cấp độ chuyển sinh của con là "+ p.c.chuyenSinh);
                 break;
             }
             case 2: {

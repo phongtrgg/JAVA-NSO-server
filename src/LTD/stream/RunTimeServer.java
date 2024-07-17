@@ -361,62 +361,62 @@ public class RunTimeServer extends Thread {
                     ChienTruong.chienTruong.finish();
                 }
                 //tu tien
-               if (hour == 21 && min == 43 && sec == 0) {
-                   Manager.serverChat("Server: ", "kết quả xổ số miền bắc hôm nay hãy ra npc xoso để cập nhâp kết quả! 7 giờ bạn sẽ đc nhận thưởng nếu bạn chúng.");
-                   Service.AutoSaveData();
-               }
+            //    if (hour == 21 && min == 43 && sec == 0) {
+            //        Manager.serverChat("Server: ", "kết quả xổ số miền bắc hôm nay hãy ra npc xoso để cập nhâp kết quả! 7 giờ bạn sẽ đc nhận thưởng nếu bạn chúng.");
+            //        Service.AutoSaveData();
+            //    }
 
-               if (TuTien.tuTien == null && (hour == 21)) {
-                   TuTien.start = true;
-                   TuTien.tuTien100 = true;
-                   TuTien.tuTien50 = false;
-                   TuTien.tuTien = new TuTien();
-                   TuTien.finish = false;
-                   //System.err.println("Open Tiên Cảnh");
-                   Manager.serverChat("Server", "Cải lão hoàn đồng toàn server đã mở ae hãy vào cày cuốc");
-               }
+            //    if (TuTien.tuTien == null && (hour == 21)) {
+            //        TuTien.start = true;
+            //        TuTien.tuTien100 = true;
+            //        TuTien.tuTien50 = false;
+            //        TuTien.tuTien = new TuTien();
+            //        TuTien.finish = false;
+            //        //System.err.println("Open Tiên Cảnh");
+            //        Manager.serverChat("Server", "Cải lão hoàn đồng toàn server đã mở ae hãy vào cày cuốc");
+            //    }
 
-               if(TuTien.tuTien != null && (hour == 22 && min == 0 && sec == 0) && TuTien.start) {
-                   Manager.serverChat("Server", "Cải lão hoàn đồng toàn server đã đóng cửa hãy quay lại vào ngày mai.");
-                   TuTien.tuTien.finish();
-                   System.err.println("Close Tiên Cảnh");
-               }
-               if(TuTien.tuTien == null && (hour % 2 == 0)) {
-                   TuTien.start = true;
-                   TuTien.tuTien50 = true;
-                   TuTien.tuTien100 = false;
-                   TuTien.tuTien = new TuTien();
-                   TuTien.finish = false;
-                   //System.err.println("Open Tiên Cảnh");
-                   Manager.serverChat("Server", "Cải lão hoàn đồng VIP đã mở ae hãy vào cày cuốc.");
+            //    if(TuTien.tuTien != null && (hour == 22 && min == 0 && sec == 0) && TuTien.start) {
+            //        Manager.serverChat("Server", "Cải lão hoàn đồng toàn server đã đóng cửa hãy quay lại vào ngày mai.");
+            //        TuTien.tuTien.finish();
+            //        System.err.println("Close Tiên Cảnh");
+            //    }
+            //    if(TuTien.tuTien == null && (hour % 2 == 0)) {
+            //        TuTien.start = true;
+            //        TuTien.tuTien50 = true;
+            //        TuTien.tuTien100 = false;
+            //        TuTien.tuTien = new TuTien();
+            //        TuTien.finish = false;
+            //        //System.err.println("Open Tiên Cảnh");
+            //        Manager.serverChat("Server", "Cải lão hoàn đồng VIP đã mở ae hãy vào cày cuốc.");
                
-               }
+            //    }
 
-               if(TuTien.tuTien != null && (hour % 2 != 0 && min == 0 && sec == 0) && TuTien.start) {
-                   Manager.serverChat("Server", "Cải lão hoàn đồng VIP đã mở ae hãy vào sau");
-                   System.err.println("Close Tiên Cảnh");
-                   TuTien.tuTien.finish();
-               }
-               //end //tu tien
-                if (sec == 10) {
+            //    if(TuTien.tuTien != null && (hour % 2 != 0 && min == 0 && sec == 0) && TuTien.start) {
+            //        Manager.serverChat("Server", "Cải lão hoàn đồng VIP đã mở ae hãy vào sau");
+            //        System.err.println("Close Tiên Cảnh");
+            //        TuTien.tuTien.finish();
+            //    }
+            //    //end //tu tien
+            //     if (sec == 10) {
 
-                    synchronized (Client.gI().conns) {
-                        for (i = 0; i < Client.gI().conns.size(); ++i) {
-                            Session conn = (Session) Client.gI().conns.get(i);
-                            if (conn != null) {
-                                player = conn.player;
-                                if (player != null) {
-                                    if (player.c == null) {
-                                        Client.gI().kickSession(conn);
-                                    }
-                                } else if (player == null) {
-                                    Client.gI().kickSession(conn);
-                                }
-                            }
-                        }
-                        //      System.out.println(" Clear clone login");
-                    }
-                }
+            //         synchronized (Client.gI().conns) {
+            //             for (i = 0; i < Client.gI().conns.size(); ++i) {
+            //                 Session conn = (Session) Client.gI().conns.get(i);
+            //                 if (conn != null) {
+            //                     player = conn.player;
+            //                     if (player != null) {
+            //                         if (player.c == null) {
+            //                             Client.gI().kickSession(conn);
+            //                         }
+            //                     } else if (player == null) {
+            //                         Client.gI().kickSession(conn);
+            //                     }
+            //                 }
+            //             }
+            //             //      System.out.println(" Clear clone login");
+            //         }
+            //     }
                 if ((min == 58 || min == 120) && sec == 0) {
                     Manager.serverChat("Server", "Hệ thống đang tự động cập nhật dữ liệu người chơi có thể gây lag!");
                     SaveData saveData = new SaveData();

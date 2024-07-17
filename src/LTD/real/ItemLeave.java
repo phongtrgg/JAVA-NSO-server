@@ -631,6 +631,14 @@ public class ItemLeave {
                     im.master = master;
                 }
             }
+            if (Util.nextInt(100) < 2) {
+                im = place.LeaveItem((short) 1065, mob3.x, mob3.y, mob3.templates.type, true);
+                if (im != null) {
+                    im.item.quantity = 1;
+                    im.item.isLock = false;
+                    im.master = master;
+                }
+            }
             switch (Util.nextInt(1, 3)) {
                 case 1: {
                     for (i = 0; i < arrSVC10x1.length; ++i) {

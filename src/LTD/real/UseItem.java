@@ -2365,16 +2365,21 @@ public class UseItem {
                         if (!p.c.isNhanban) {
                             p.sendAddchatYellow("Viên Exp chỉ sử dụng được cho phân thân");
                         }
-                        if (p.c.isNhanban) {
-                            if (p.c.clone.level > 200) {
-                                p.sendAddchatYellow("Viên Exp chỉ sử dụng được cho level dưới 200!");
-                                return;
-                            }
                             long expup = (Level.getMaxExp(p.c.get().level + 1) - Level.getMaxExp(p.c.get().level)) / 2;
                             p.updateExp(expup);
                             p.c.removeItemBag(index, 1);
-                            p.sendAddchatYellow("Bạn nhận được 50% exp.");
-                        }
+                            p.sendAddchatYellow("Bạn nhận được 50% exp.");                        
+                        break;
+                    }
+                    //viên exp chuyển sinh
+                    case 1065: {
+                        if (p.c.clone.level > 200) {
+                            p.conn.sendMessageLog(Language.NOT_FOR_PHAN_THAN);
+                            return;
+                        }                        
+                            p.c.expCS +=10000000L;
+                            p.c.removeItemBag(index, 1);
+                            p.sendAddchatYellow("Bạn nhận được 10tr exp chuyển sinh.");                       
                         break;
                     }
                     case 920: {
