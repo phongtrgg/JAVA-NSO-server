@@ -236,13 +236,13 @@ public class Mob {
                 ItemLeave.randomLeave(this.tileMap, this, master, Util.nextInt(1, 3), 1);
             }        
             if (this.lvboss == 1) {
-                long expup = (Level.getMaxExp(_char.p.c.get().level + 1) - Level.getMaxExp(_char.p.c.get().level)) / 200;
+                long expup = (Level.getMaxExp(_char.p.c.get().level + 1) - Level.getMaxExp(_char.p.c.get().level)) / 400;
                 _char.p.updateExp(expup);
                 _char.p.upluongMessage(1000);
                 _char.p.sendAddchatYellow("Bạn nhận được 1000 lượng");
             }
             if (this.lvboss == 2) {
-                long expup = (Level.getMaxExp(_char.p.c.get().level + 1) - Level.getMaxExp(_char.p.c.get().level)) / 20;
+                long expup = (Level.getMaxExp(_char.p.c.get().level + 1) - Level.getMaxExp(_char.p.c.get().level)) / 60;
                 _char.p.updateExp(expup);
                 _char.p.upluongMessage(2000);
                 _char.p.sendAddchatYellow("Bạn nhận được 2000 lượng");
@@ -470,7 +470,7 @@ public class Mob {
                     _char.p.sendAddchatYellow("Bạn nhận được 20000 yên");
                 }
                 if (Server.manager.event != 0 && this.tileMap.map.id <= 164 && tile <= 30) {
-                    short idI = ItemLeave.arrItemskgiaikhac[Util.nextInt(ItemLeave.arrItemskgiaikhac.length)];
+                    short idI = ItemLeave.arrItemskAll[Util.nextInt(ItemLeave.arrItemskAll.length)];
                     Item itemup = ItemTemplate.itemDefault(idI);
                     short idI1 =ItemLeave.itemDropEvent();
                     if(idI1 !=0){

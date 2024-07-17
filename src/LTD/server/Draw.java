@@ -597,7 +597,7 @@ public class Draw {
                     if (soluong <= 0) {
                         p.lockAcc();
                     }
-                    if (p.c.quantityItemyTotal(925) >= 5 * soluong && p.c.quantityItemyTotal(929) >= 3 * soluong && p.c.quantityItemyTotal(928) >= 3 * soluong) {
+                    if (p.c.quantityItemyTotal(925) >= 500 * soluong && p.c.quantityItemyTotal(929) >= 300 * soluong && p.c.quantityItemyTotal(928) >= 300 * soluong) {
                         if (p.c.yen < 50000 * soluong) {
                             p.conn.sendMessageLog("Không đủ yên để làm bánh");
                             return;
@@ -613,9 +613,9 @@ public class Draw {
                         if (p.c.getBagNull() == 0) {
                             p.conn.sendMessageLog("Hành trang không đủ chỗ trống");
                         } else {
-                            p.c.removeItemBags(925, (int) (5 * soluong));
-                            p.c.removeItemBags(929, (int) (5 * soluong));
-                            p.c.removeItemBags(928, (int) (3 * soluong));
+                            p.c.removeItemBags(925, (int) (500 * soluong));
+                            p.c.removeItemBags(929, (int) (500 * soluong));
+                            p.c.removeItemBags(928, (int) (300 * soluong));
                             p.c.upyenMessage(-(50000 * soluong));
                             p.upluongMessage(-(50 * soluong));
                             p.c.upxuMessage(-(30000 * soluong));

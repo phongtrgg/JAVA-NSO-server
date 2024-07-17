@@ -34,11 +34,14 @@ import LTD.io.SQLManager;
 import LTD.io.Util;
 import LTD.thiendiabang.ThienDiaData;
 
+import static java.awt.Color.black;
+
 import java.io.DataOutputStream;
 import java.io.IOException;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 import LTD.real.CheckCLCoin;
 import LTD.real.CheckCLLuong;
@@ -4188,9 +4191,36 @@ public class Menu {
     }
 
     public static void npcKirin(Player p, byte npcid, byte menuId, byte b3) throws IOException {
+
         switch (menuId) {
             case 0:
-                Service.chatNPC(p, (short) npcid, "Ngươi đến đây làm gì, không có nhiệm vụ cho ngươi đâu!");
+                Service.chatNPC(p, (short) npcid, "Đổi đồ Xịn vĩnh viễn ở chỗ ta");
+                Server.manager.sendTB(p, "Đổi Đồ", " Muốn đổi được đồ của ta con cần:"
+                + "\n--> Diều giấy, Diều Vải, Nước dưa, Nước Mía, Tre vàng, Tre xanh"
+                + "\n- Bánh Chocolate, Bánh dâu, Hộp bánh thường, Hộp bánh thượng hạng,"
+                + "\n-- Nụ hôn Tiên Nữ, Bánh chưng, Bánh tét,"
+                + "\n- Mỗi loại 5000");   
+                break;
+            case 1:
+                Item.rollItemVIP(p, 0);
+                break;
+            case 2:
+                Item.rollItemVIP(p, 1);
+                break;
+            case 3:
+                Item.rollItemVIP(p, 2);
+                break;
+            case 4:
+                Item.rollItemVIP(p, 3);
+                break;
+            case 5:
+                Item.rollItemVIP(p, 4);
+                break;
+            case 6:
+                Item.rollItemVIP(p, 5);
+                break;
+            case 7:
+                Item.rollItemVIP(p, 6);
                 break;
             default: {
                 Service.chatNPC(p, (short) npcid, "Chức năng này đang cập nhật!");
@@ -5823,25 +5853,6 @@ public class Menu {
                     }
                     break;
                 }
-//                case 7: {
-//                    if (p.c.isNhanban) {
-//                        Service.chatNPC(p, Short.valueOf(npcid), Language.NOT_FOR_PHAN_THAN);
-//                        return;
-//                    }
-//                    switch (menuId) {
-//                        case 0: {
-//                            Service.sendInputDialog(p, (short) 252, "Nhập số lượng Nước Ép Dưa Hấu muốn làm :");
-//                            break;
-//                        }
-//                        case 1: {
-//                            Service.sendInputDialog(p, (short) 253, "Nhập số lượng Nước Ép Mía muốn làm :");
-//                            break;
-//                        }
-//                        case 2: {
-//                            Server.manager.sendTB(p, "Hướng dẫn", "  - Nước Ép Dưa Hấu = 5 Dưa hấu + 5 Đá viên + 3 Ly Thủy Tinh + 50000 yên + 40000 xu+ 100 lượng\n - Nước Ép Mía = 5 Mía + 3 Đá viên + 3 Ly Thủy Tinh + 50000 yên + 30000 xu+ 50 lượng");
-//                        }
-//                    }
-//                }
                 case 8: {
                     if (p.c.isNhanban) {
                         Service.chatNPC(p, Short.valueOf(npcid), Language.NOT_FOR_PHAN_THAN);
@@ -5962,7 +5973,7 @@ public class Menu {
            case 1: {
                   Server.manager.sendTB(p, "BXH", "TOP GT:"
                           + "\nHIỆn TẠI CHƯA MỞ"
-                          + "\nSẽ MỞ VÀo Ngày 27/2/2023"
+                          + "\nSẽ MỞ VÀo Ngày 27/2/2024"
                         );
                    break;
                 }
@@ -5979,7 +5990,7 @@ public class Menu {
            case 1: {
                   Server.manager.sendTB(p, "BXH", "TOP HD:"
                           + "\nHIỆn TẠI CHƯA MỞ"
-                          + "\nSẽ MỞ VÀo Ngày 27/2/2023"
+                          + "\nSẽ MỞ VÀo Ngày 27/2/2024"
                         );
                    break;
                 }
@@ -5996,7 +6007,7 @@ public class Menu {
            case 1: {
                   Server.manager.sendTB(p, "BXH", "TOP SK:"
                           + "\nHIỆn TẠI CHƯA MỞ"
-                          + "\nSẽ MỞ VÀo Ngày 27/2/2023"
+                          + "\nSẽ MỞ VÀo Ngày 27/2/2024"
                         );
                    break;
                 }
@@ -6012,7 +6023,7 @@ public class Menu {
             }
            case 1: {
                   Server.manager.sendTB(p, "BXH", "TOP DAME:"
-                          + "\nSẽ Chốt Vào Ngày 25/2/2023"
+                          + "\nSẽ Chốt Vào Ngày 25/2/2024"
                           + "\nTOP1: 1m coin  và vào phái đại đế và 1 mắt tăng 70k dame 70k hpmp 70k né"
                           + "\nTOP2: 700k coin và 1 mắt tăng 50k dame 50k hpmp 50k né"
                           + "\nTOP3: 500k coin và 1 mắt tăng 30k dame 30k hpmp 30k né");

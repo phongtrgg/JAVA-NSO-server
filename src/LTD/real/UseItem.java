@@ -2674,7 +2674,7 @@ public class UseItem {
                     }
                     //Nụ hôn
                     case 978: {
-                        if (Server.manager.event != 7) {
+                        if (Server.manager.event != 8) {
                             p.sendAddchatYellow(Language.END_EVENT);
                             return;
                         }

@@ -467,7 +467,7 @@ public class HandleController {
     public static void wakeUpDieReturn(Player p){
         if (p != null && p.conn != null && p.c != null && p.c.isDie && p.c.tileMap != null) {
             TileMap tileMap = p.c.tileMap;
-            if (!tileMap.map.LangCo() && tileMap.map.dun == null) {
+            if (!tileMap.map.LangCo() && tileMap.map.dun == null&&!tileMap.map.TruyenThuyet()&&!tileMap.map.LTDMap()&&!tileMap.map.LTDMap2()) {
                 if (p.luong < 1) {
                     p.conn.sendMessageLog("Bạn không đủ 1 lượng để hồi sinh!");
                 }
