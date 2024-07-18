@@ -359,7 +359,7 @@ public void upBKnext(byte next) {
                 Option maxHP = new Option(125, Util.nextInt(20000,50000));
                 Option dmgRef = new Option(126, Util.nextInt(1000,2500));
                 Option exp = new Option(100, Util.nextInt(20,100));
-                Option eva = new Option(125, Util.nextInt(500,1000));
+                Option eva = new Option(115, Util.nextInt(500,1000));
                 Option acc = new Option(116, Util.nextInt(500,1000));
                 Option resAll = new Option(118, Util.nextInt(1000,1500));
                 Option dmgMob = new Option(102, Util.nextInt(5000,8000));
@@ -438,7 +438,7 @@ public void upBKnext(byte next) {
                     //roll mắt
                     case 2:                
                         int indexEye = Util.nextInt(arrEye.length);
-                        short idEye = arrMounts[indexEye];
+                        short idEye = arrEye[indexEye];
                         Option eyeHP = new Option(125, 20000+((indexEye+1)*1000));
                         Option eyeDame = new Option(73, 5000+((indexEye+1)*1000));
                         Option eyeCritDmg = new Option(67, 50+((indexEye+1)*10));
@@ -449,20 +449,9 @@ public void upBKnext(byte next) {
                         Option eyeResWind = new Option(97, 1000+((indexEye+1)*100));
                         Option eyeDamePercent = new Option(94, 42+((indexEye+1)*2));
                         Option[][] eyeOptions = new Option[][]{
-                            {},  
-                            {eyeResFire},
-                            {eyeResFire, eyeResIce}, 
-                            {eyeResFire, eyeResIce, eyeResWind},
-                            {eyeResFire, eyeResIce, eyeResWind},
-                            {eyeResFire, eyeResIce, eyeResWind},
-                            {eyeResFire, eyeResIce, eyeResWind},
-                            {eyeResFire, eyeResIce, eyeResWind},
-                            {eyeResFire, eyeResIce, eyeResWind},
-                            {eyeResFire, eyeResIce, eyeResWind},
-                            {eyeResFire, eyeResIce, eyeResWind,eyeDame},
-                            {eyeResFire, eyeResIce, eyeResWind,eyeDame,eyeCritDmg},
-                            {eyeResFire, eyeResIce, eyeResWind,eyeDame,eyeDame,eyeCritDmg},
-                            {eyeResFire, eyeResIce, eyeResWind,eyeDame,eyeDame,eyeDamePercent},
+                            {},{eyeResFire},{ eyeResIce},{ eyeResWind},
+                            {},{},{},{},{},{},
+                            { eyeDame},{ eyeCritDmg},{ eyeCritDmg},{ eyeDamePercent},
                         };
                         Item eye = ItemTemplate.itemDefault(idEye);
                         eye.options.add(eyeHP);
@@ -470,6 +459,7 @@ public void upBKnext(byte next) {
                         eye.options.add(eyeCritDmg);
                         eye.options.add(eyeExp);
                         eye.options.add(eyeDmgMob);
+                        eye.upgrade = (byte) (indexEye+1);
                         
                         for (int j = 0; j <= indexEye; j++) {
                             eye.options.addAll(Arrays.asList(eyeOptions[j]));
@@ -485,10 +475,10 @@ public void upBKnext(byte next) {
                         Item NTGT = ItemTemplate.itemDefault(arrNTGT[indexNTGT]);
                         Option[][] ntgtOptions = new Option[][]{
                             {startPoint},  
-                            {startPoint,startPointPercent},
-                            {startPoint,startPointPercent,regenHP},
-                            {startPoint,startPointPercent,regenHP,dame},
-                            {startPoint,startPointPercent,regenHP,dame,damePercent},
+                            {startPointPercent},
+                            {regenHP},
+                            {dame},
+                            {damePercent},
                         };
                         NTGT.options.add(critRate);
                         NTGT.options.add(maxHP);

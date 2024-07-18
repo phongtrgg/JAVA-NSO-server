@@ -297,7 +297,8 @@ public class Manager {
         }
 
         if (configMap.containsKey("version-Event")) {
-            this.event = Byte.parseByte((String) configMap.get("version-Event"));
+            // this.event = Byte.parseByte((String) configMap.get("version-Event"));
+            this.event = (byte) Util.nextInt(1,9);
         } else {
             this.event = 5;
         }

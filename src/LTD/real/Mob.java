@@ -571,6 +571,7 @@ public class Mob {
                 }
                 handlerUpExpAndEvent(_char,master);
             } else if (this.tileMap.map.LTDMap2()) {
+                
                 _char.p.c.expCS +=_char.p.c.level*2;
                 if (tile <= 10) {
                     Item itemup = ItemTemplate.itemDefault(236);
@@ -598,6 +599,7 @@ public class Mob {
                     Item itemup1 = ItemTemplate.itemDefault(704);
                     itemup1.isLock = itemup1.isLock;
                     _char.addItemBag(true, itemup1);
+                    
                 }
                 if(_char.p.c.level >=150){
                     long exp ;

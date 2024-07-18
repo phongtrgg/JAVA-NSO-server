@@ -4551,7 +4551,7 @@ public class Menu {
                 break;
             }
             default: {
-                Service.chatNPC(p, Short.valueOf(npcid), "Chào mừng con đã đến với LTD khi lên cấp hãy đến gặp ta nhận quà nhé!");
+                Service.chatNPC(p, Short.valueOf(npcid), "Chào mừng con đã đến với NSO khi lên cấp hãy đến gặp ta nhận quà nhé!");
             }
         }
     }
