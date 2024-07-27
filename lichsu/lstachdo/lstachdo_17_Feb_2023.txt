@@ -1,3 +1,0 @@
-Name : mylove đã tách vật phẩm || Vật phẩm tách: 28 || Số lượng vật phẩm ban đầu 1133 || Số lượng tách: 100 || Số lượng vật phẩm sau khi tách: 1033 và 100|| Thời gian tách : 2023-02-17 00:28:14
-Name : mylove đã tách vật phẩm || Vật phẩm tách: 28 || Số lượng vật phẩm ban đầu 1033 || Số lượng tách: 100 || Số lượng vật phẩm sau khi tách: 933 và 100|| Thời gian tách : 2023-02-17 00:28:43
-Name : boongz đã tách vật phẩm || Vật phẩm tách: 28 || Số lượng vật phẩm ban đầu 1255 || Số lượng tách: 500 || Số lượng vật phẩm sau khi tách: 755 và 500|| Thời gian tách : 2023-02-17 17:26:27

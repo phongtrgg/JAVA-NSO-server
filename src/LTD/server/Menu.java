@@ -2011,14 +2011,14 @@ public class Menu {
                         p.c.isHangDong6x = 0;
                     }
                     if (b3 == 6) {
-                        if (p.c.level < 90 || p.c.level > 150) {
+                        if (p.c.level < 90 || p.c.level > 200) {
                             p.conn.sendMessageLog("Trình độ không phù hợp");
                             return;
                         }
                         if (p.c.party != null) {
                             synchronized (p.c.party.aChar) {
                                 for (byte i = 0; i < p.c.party.aChar.size(); ++i) {
-                                    if (p.c.party.aChar.get(i).level < 90 || p.c.party.aChar.get(i).level > 150) {
+                                    if (p.c.party.aChar.get(i).level < 90 || p.c.party.aChar.get(i).level > 200) {
                                         p.conn.sendMessageLog("Thành viên trong nhóm có trình độ không phù hợp");
                                         return;
                                     }
@@ -8163,7 +8163,7 @@ public class Menu {
                     return;
                 }
                 if (p.c.ItemBody[15].upgrade >= 1) {
-                    p.conn.sendMessageLog("Mày chỉ được đổi bí kíp +0 thôi nâng cấp rồi tao đéo cho đổi");
+                    p.conn.sendMessageLog("Bí kíp đã được nâng cấp không thể luyện được nữa!");
                     return;
                 }
                 if (p.c.getBagNull() == 0) {
@@ -8188,14 +8188,14 @@ public class Menu {
                 p.c.removeItemBody((byte) 15);
                 p.upluongMessage(-5000L);
                 if (a > 5) {
-                    p.conn.sendMessageLog("Game dễ vl chọn được bí kíp ngon nha mày");
+                    p.conn.sendMessageLog("Chúc mừng nâng được nhiều dòng ngon nhé !!!");
                     break;
                 }
                 if (a > 2) {
                     p.conn.sendMessageLog("Cũng tàm tạm dùng cũng được đấy");
                     break;
                 }
-                p.conn.sendMessageLog("Tại số mày đen vãi L đấy bốc phải hàng lỏm, đéo phải tại tao đâu !");
+                p.conn.sendMessageLog("Tại số con đen đấy không phải do ta đâu nhé !!!");
                 break;
             }
             case 2: {
@@ -8231,7 +8231,7 @@ public class Menu {
                     p.conn.sendMessageLog("ngon lên rồi");
                     p.c.removeItemBody((byte) 15);
                 } else {
-                    p.conn.sendMessageLog("Mày đen vãi lồn nộp tiền ngu ra đây");
+                    p.conn.sendMessageLog("Mày đen quá xịt rồi");
                 }
                 p.upluongMessage(-25000L);
                 p.c.removeItemBags(251, 20);

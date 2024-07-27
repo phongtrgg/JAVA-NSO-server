@@ -330,7 +330,6 @@ public void upBKnext(byte next) {
                 p.conn.sendMessageLog("Hành trang không đủ chỗ trống");
             } else {
                 short[] arrPet = new short[]{951,952,953,954,950,931,932,934,935,936,937,938,939,941,940,942,943,944,945,946,947,948,949,419,583,584,585,586,587,588,589,742,772,781,825,826,832,833,834,835,836,837,930};
-                short[] arrBK = new short[]{397,398,399,400,401,402};
                 short[] arrNTGT = new short[]{423,424,425,426,427};
                 short[] arrEye = new short[]{685,686,687,688,689,690,691,692,693,694,840,846,841,838};
                 short[] arrCustom = new short[]{799,800,568,569,570,571,795,796};
@@ -460,7 +459,6 @@ public void upBKnext(byte next) {
                         eye.options.add(eyeExp);
                         eye.options.add(eyeDmgMob);
                         eye.upgrade = (byte) (indexEye+1);
-                        
                         for (int j = 0; j <= indexEye; j++) {
                             eye.options.addAll(Arrays.asList(eyeOptions[j]));
                         }
@@ -497,8 +495,7 @@ public void upBKnext(byte next) {
                         break;  
                     //roll bí kíp    
                     case 4:
-                        int indexBK = Util.nextInt(arrBK.length);
-                        Item bk = ItemTemplate.itemDefault(arrBK[indexBK]);
+                        Item bk = ItemTemplate.itemDefault(396 + p.c.nclass);
                         bk.options.add(critDmg);
                         bk.options.add(critRate);
                         bk.options.add(dmgFire);
@@ -516,7 +513,7 @@ public void upBKnext(byte next) {
                     //roll pet    
                     case 5:
                         int indexPet = Util.nextInt(arrPet.length);
-                        Item pet = ItemTemplate.itemDefault(arrBK[indexPet]);
+                        Item pet = ItemTemplate.itemDefault(arrPet[indexPet]);
                         pet.options.add(critDmg);
                         pet.options.add(dame);
                         pet.options.add(dmgFire);

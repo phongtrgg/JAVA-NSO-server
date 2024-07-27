@@ -204,19 +204,24 @@ public class Mob {
     }
 
     private void handlerUpExpAndEvent(Char _char,int master){
+        
         if(_char.p.c.get().level<=150){
             if(!this.tileMap.map.LTDMap()&&!this.tileMap.map.LTDMap2()){
                 ItemLeave.randomLeave(this.tileMap, this, master, Util.nextInt(1, 3), 1);
             }       
             if (this.lvboss == 1) {
                 long expup = (Level.getMaxExp(_char.p.c.get().level + 1) - Level.getMaxExp(_char.p.c.get().level)) / 200;
-                _char.p.updateExp(expup);
+                if(_char.p.c.get().exptype == 1){
+                    _char.p.updateExp(expup);
+                }
                 _char.p.upluongMessage(1000);
                 _char.p.sendAddchatYellow("Bạn nhận được 1000 lượng");
             }
             if (this.lvboss == 2) {
                 long expup = (Level.getMaxExp(_char.p.c.get().level + 1) - Level.getMaxExp(_char.p.c.get().level)) / 20;
-                _char.p.updateExp(expup);
+                if(_char.p.c.get().exptype == 1){
+                    _char.p.updateExp(expup);
+                }
                 _char.p.upluongMessage(2000);
                 _char.p.sendAddchatYellow("Bạn nhận được 2000 lượng");
                 if(!this.tileMap.map.LTDMap()&&!this.tileMap.map.LTDMap2()){
@@ -226,7 +231,9 @@ public class Mob {
             }
             if(this.lvboss != 1&&this.lvboss != 2){
                 long expup = (Level.getMaxExp(_char.p.c.get().level + 1) - Level.getMaxExp(_char.p.c.get().level)) / 199;
-                _char.p.updateExp(expup);
+                if(_char.p.c.get().exptype == 1){
+                    _char.p.updateExp(expup);
+                }
                 _char.p.upluongMessage(10);
                 _char.p.sendAddchatYellow("Bạn nhận được 10 lượng");
             }
@@ -237,13 +244,17 @@ public class Mob {
             }        
             if (this.lvboss == 1) {
                 long expup = (Level.getMaxExp(_char.p.c.get().level + 1) - Level.getMaxExp(_char.p.c.get().level)) / 400;
-                _char.p.updateExp(expup);
+                if(_char.p.c.get().exptype == 1){
+                    _char.p.updateExp(expup);
+                }
                 _char.p.upluongMessage(1000);
                 _char.p.sendAddchatYellow("Bạn nhận được 1000 lượng");
             }
             if (this.lvboss == 2) {
                 long expup = (Level.getMaxExp(_char.p.c.get().level + 1) - Level.getMaxExp(_char.p.c.get().level)) / 60;
-                _char.p.updateExp(expup);
+                if(_char.p.c.get().exptype == 1){
+                    _char.p.updateExp(expup);
+                }
                 _char.p.upluongMessage(2000);
                 _char.p.sendAddchatYellow("Bạn nhận được 2000 lượng");
                 if(!this.tileMap.map.LTDMap()&&!this.tileMap.map.LTDMap2()){
@@ -523,13 +534,13 @@ public class Mob {
                 // }
                 handlerUpExpAndEvent(_char,master);
                 if(_char.p.c.level >=150){
-                    long exp ;
                     if (this.lvboss == 2) {
-                        exp= _char.p.c.expCS +=_char.p.c.level*40;
+                         _char.p.c.expCS +=_char.p.c.level*40;
+                        _char.p.sendAddchatYellow("Bạn nhận được "+_char.p.c.level*40+" exp chuyển sinh");
                     }else{
-                        exp=  _char.p.c.expCS +=_char.p.c.level*2;
+                          _char.p.c.expCS +=_char.p.c.level*2;
+                        _char.p.sendAddchatYellow("Bạn nhận được "+_char.p.c.level*2+" exp chuyển sinh");
                     }   
-                    _char.p.sendAddchatYellow("Bạn nhận được "+exp+" exp chuyển sinh");
                 }
             } else if (this.tileMap.map.LTDMap()) {
                 if (tile <= 5) {
@@ -561,13 +572,14 @@ public class Mob {
                     ItemLeave.leaveTLTT(this.tileMap, this, master);
                 }
                 if(_char.p.c.level >=150){
-                    long exp ;
                     if (this.lvboss == 2) {
-                        exp= _char.p.c.expCS +=_char.p.c.level*60;
-                    }else{
-                        exp=  _char.p.c.expCS +=_char.p.c.level*2;
+                         _char.p.c.expCS +=_char.p.c.level*60;
+                         _char.p.sendAddchatYellow("Bạn nhận được "+_char.p.c.level*60+" exp chuyển sinh");
+                        }else{
+                            _char.p.c.expCS +=_char.p.c.level*2;
+                            _char.p.sendAddchatYellow("Bạn nhận được "+_char.p.c.level*2+" exp chuyển sinh");
                     }   
-                    _char.p.sendAddchatYellow("Bạn nhận được "+exp+" exp chuyển sinh");
+                    
                 }
                 handlerUpExpAndEvent(_char,master);
             } else if (this.tileMap.map.LTDMap2()) {
@@ -605,10 +617,11 @@ public class Mob {
                     long exp ;
                     if (this.lvboss == 2) {
                         exp= _char.p.c.expCS +=_char.p.c.level*60;
+                        _char.p.sendAddchatYellow("Bạn nhận được "+_char.p.c.level*60+" exp chuyển sinh");
                     }else{
                         exp=  _char.p.c.expCS +=_char.p.c.level*2;
                     }   
-                    _char.p.sendAddchatYellow("Bạn nhận được "+exp+" exp chuyển sinh");
+                    _char.p.sendAddchatYellow("Bạn nhận được "+_char.p.c.level*2+" exp chuyển sinh");
                 }
                 handlerUpExpAndEvent(_char,master);
             }
