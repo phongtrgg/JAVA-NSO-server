@@ -619,12 +619,11 @@ public class Mob {
                     
                 }
                 if(_char.p.c.level >=150){
-                    long exp ;
                     if (this.lvboss == 2) {
-                        exp= _char.p.c.expCS +=_char.p.c.level*60;
+                        _char.p.c.expCS +=_char.p.c.level*60;
                         _char.p.sendAddchatYellow("Bạn nhận được "+_char.p.c.level*60+" exp chuyển sinh");
                     }else{
-                        exp=  _char.p.c.expCS +=_char.p.c.level*2;
+                        _char.p.c.expCS +=_char.p.c.level*2;
                     }   
                     _char.p.sendAddchatYellow("Bạn nhận được "+_char.p.c.level*2+" exp chuyển sinh");
                 }
@@ -635,6 +634,10 @@ public class Mob {
                     Service.chatKTG(_char.name + " đã đập chết " + this.templates.name + " thật quá là ghê gớm!");
                     _char.p.upluongMessage(100000);
                     _char.upxuMessage(5000000);
+                    if(_char.p.c.level >=150){
+                        _char.p.c.expCS +=_char.p.c.level*100;
+                        _char.p.sendAddchatYellow("Bạn nhận được "+_char.p.c.level*100+" exp chuyển sinh");
+                    }
                     _char.bingo += 15;
                     ItemLeave.leaveBossTo(this.tileMap, this, -1);
                 } else if (this.tileMap.map.cave == null) {
@@ -646,6 +649,10 @@ public class Mob {
                     _char.upxuMessage(2500000);
                     _char.bingo += 2;
                     Service.chatKTG(_char.name + " đã đập chết " + this.templates.name);
+                    if(_char.p.c.level >=150){
+                        _char.p.c.expCS +=_char.p.c.level*80;
+                        _char.p.sendAddchatYellow("Bạn nhận được "+_char.p.c.level*80+" exp chuyển sinh");
+                    }
                     _char.bingo += 2;
                     for (int i = 0; i < 10; ++i) {
                         ItemLeave.leaveYen(this.tileMap, this, master);
