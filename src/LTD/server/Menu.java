@@ -1034,15 +1034,15 @@ public class Menu {
                     }
             //chuyển sinh
             case 1: {              
-                if (p.luong <5000000&&p.c.level<200){
+                if (p.luong <4000000&&p.c.level<200){
                     Service.chatNPC(p, (short) npcid, "Nhân vật phải có 4.000.000 lượng");
                     return;}
                 if (p.c.isNhanban) {
-                Service.chatNPC(p, (short) npcid, "Không Dành cho Thứ thân");
+                Service.chatNPC(p, (short) npcid, "Không Dành cho Phân thân");
                 return;
                 }
-                if(p.c.expCS<2000000000L){
-                    Service.chatNPC(p, (short) npcid, "Nhân vật phải có ít nhất 2 tỷ exp chuyển sinh");
+                if(p.c.expCS<1000000000L){
+                    Service.chatNPC(p, (short) npcid, "Nhân vật phải có ít nhất 1 tỷ exp chuyển sinh");
                 }
                 if(p.c.level < 130 ){
                     Service.chatNPC(p, (short) npcid, "Con Cần Ít Nhất Level 130 Hãy Thăm Ngàn Rồi Quay Lại Đây ");
@@ -1058,7 +1058,7 @@ public class Menu {
                     p.luongMessage(-4000000L);
                     p.updateExp(Level.getMaxExp(1)-p.c.exp);
                 }
-                p.c.expCS -= 2000000000L;
+                p.c.expCS -= 1000000000L;
                 p.c.chuyenSinh = (byte) (p.c.chuyenSinh + 1);
                 int coin1 =3000;
                 p.coin = p.coin + coin1;

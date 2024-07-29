@@ -262,9 +262,14 @@ public class Mob {
                 } 
             }
             if(this.lvboss != 1&&this.lvboss != 2){
+                long expup = (Level.getMaxExp(_char.p.c.get().level + 1) - Level.getMaxExp(_char.p.c.get().level)) / 1200;
+                if(_char.p.c.get().exptype == 1){
+                    _char.p.updateExp(expup);
+                }
                 _char.p.upluongMessage(10);
                 _char.p.sendAddchatYellow("Bạn nhận được 10 lượng");
             }
+            
         }
         short idI1=0;
         idI1 = ItemLeave.arrSuKienLangCo[Util.nextInt(ItemLeave.arrSuKienLangCo.length)];

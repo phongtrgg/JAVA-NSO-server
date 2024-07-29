@@ -96,70 +96,70 @@ public class ItemLeave {
         item.options.add(option);
     }
 
-    public static void leaveItemSuKien(TileMap place, Mob mob3, int master) {
-        ItemMap im = null;
-        int per = Util.nextInt(5);
-        try {
-            switch (Server.manager.event) {
-                case 1: {
-                    if (per != 0) {
-                        break;
-                    }
-                    im = place.LeaveItem(arrItemSuKienHe[Util.nextInt(arrItemSuKienHe.length)], mob3.x, mob3.y, mob3.templates.type, false);
-                    break;
-                }
-                case 2: {
-                    if (per >= 2) {
-                        break;
-                    }
-                    im = place.LeaveItem(arrItemSuKienTrungThu[Util.nextInt(arrItemSuKienTrungThu.length)], mob3.x, mob3.y, mob3.templates.type, false);
-                    break;
-                }
-                case 3: {
-                    if (per != 0) {
-                        break;
-                    }
-                    im = place.LeaveItem(arrItemSuKienNoel[Util.nextInt(arrItemSuKienNoel.length)], mob3.x, mob3.y, mob3.templates.type, false);
-                    break;
-                }
-                case 4: {
-                    if (per != 0) {
-                        break;
-                    }
-                    im = place.LeaveItem(arrItemSuKienTet[Util.nextInt(arrItemSuKienTet.length)], mob3.x, mob3.y, mob3.templates.type, false);
-                    break;
-                }
-                case 5: {
-                    if (per != 0) {
-                        break;
-                    }
-                    im = place.LeaveItem(arrItem8thang3[Util.nextInt(arrItem8thang3.length)], mob3.x, mob3.y, mob3.templates.type, false);
-                    break;
-                }
-                case 6: {
-                    if (per != 0) {
-                        break;
-                    }
-                    im = place.LeaveItem(arrItem10thang3[Util.nextInt(arrItem10thang3.length)], mob3.x, mob3.y, mob3.templates.type, false);
-                    break;
-                }
-                case 7: {
-                    if (per != 0) {
-                        break;
-                    }
-                    im = place.LeaveItem(arrItemskgiaikhat[Util.nextInt(arrItemskgiaikhat.length)], mob3.x, mob3.y, mob3.templates.type, false);
-                    break;
-                }
-            }
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
-        if (im != null) {
-            im.item.quantity = 1;
-            im.item.isLock = false;
-            im.master = master;
-        }
-    }
+    // public static void leaveItemSuKien(TileMap place, Mob mob3, int master) {
+    //     ItemMap im = null;
+    //     int per = Util.nextInt(5);
+    //     try {
+    //         switch (Server.manager.event) {
+    //             case 1: {
+    //                 if (per != 0) {
+    //                     break;
+    //                 }
+    //                 im = place.LeaveItem(arrItemSuKienHe[Util.nextInt(arrItemSuKienHe.length)], mob3.x, mob3.y, mob3.templates.type, false);
+    //                 break;
+    //             }
+    //             case 2: {
+    //                 if (per >= 2) {
+    //                     break;
+    //                 }
+    //                 im = place.LeaveItem(arrItemSuKienTrungThu[Util.nextInt(arrItemSuKienTrungThu.length)], mob3.x, mob3.y, mob3.templates.type, false);
+    //                 break;
+    //             }
+    //             case 3: {
+    //                 if (per != 0) {
+    //                     break;
+    //                 }
+    //                 im = place.LeaveItem(arrItemSuKienNoel[Util.nextInt(arrItemSuKienNoel.length)], mob3.x, mob3.y, mob3.templates.type, false);
+    //                 break;
+    //             }
+    //             case 4: {
+    //                 if (per != 0) {
+    //                     break;
+    //                 }
+    //                 im = place.LeaveItem(arrItemSuKienTet[Util.nextInt(arrItemSuKienTet.length)], mob3.x, mob3.y, mob3.templates.type, false);
+    //                 break;
+    //             }
+    //             case 5: {
+    //                 if (per != 0) {
+    //                     break;
+    //                 }
+    //                 im = place.LeaveItem(arrItem8thang3[Util.nextInt(arrItem8thang3.length)], mob3.x, mob3.y, mob3.templates.type, false);
+    //                 break;
+    //             }
+    //             case 6: {
+    //                 if (per != 0) {
+    //                     break;
+    //                 }
+    //                 im = place.LeaveItem(arrItem10thang3[Util.nextInt(arrItem10thang3.length)], mob3.x, mob3.y, mob3.templates.type, false);
+    //                 break;
+    //             }
+    //             case 7: {
+    //                 if (per != 0) {
+    //                     break;
+    //                 }
+    //                 im = place.LeaveItem(arrItemskgiaikhat[Util.nextInt(arrItemskgiaikhat.length)], mob3.x, mob3.y, mob3.templates.type, false);
+    //                 break;
+    //             }
+    //         }
+    //     } catch (Exception e) {
+    //         e.printStackTrace();
+    //     }
+    //     if (im != null) {
+    //         im.item.quantity = 1;
+    //         im.item.isLock = false;
+    //         im.master = master;
+    //     }
+    // }
     public static short itemDropEvent(){
         short idI1 =0;
         switch (Server.manager.event) {
